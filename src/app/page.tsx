@@ -2,8 +2,15 @@
 
 import { useState } from 'react';
 import RaceResult from '@/components/RaceResult';
-import racesData from '@/data/races.json';
+import allRacesData from '@/data/races.json';
 import dynamic from 'next/dynamic';
+
+const COMPLETED_RACES = [
+  "Jin", "Siluman", "Khodam Macan Putih", "Alien", "Kuntilanak",
+  "Manusia", "Peri", "Bidadari", "Susuk", "Lelembut",
+  "Pocong", "Tuyul", "Genderuwo", "Dewa", "Zombie"
+];
+const racesData = allRacesData.filter((item: any) => COMPLETED_RACES.includes(item.ras));
 import dukunAnimation from '../../public/magic.json';
 
 const Lottie = dynamic(() => import('lottie-react'), { ssr: false });
