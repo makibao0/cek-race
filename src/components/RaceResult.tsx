@@ -69,10 +69,10 @@ export default function RaceResult({ data, name }: { data: RaceData; name: strin
   };
 
   return (
-    <div className="flex flex-col gap-4 mt-16">
-      {/* Wrapper screenshot agar avatar (absolute) masuk bounding box */}
-      <div ref={resultRef} className="pt-24 pb-4 px-4 -mt-24 -mx-4 bg-transparent rounded-[2.5rem]">
-        <div className="relative overflow-visible rounded-2xl bg-slate-900 border border-white/10 p-8 shadow-2xl transition-all duration-500 hover:shadow-purple-500/10 hover:border-purple-500/30 group">
+    <div className="flex flex-col gap-4 mt-8 w-full">
+      {/* Wrapper screenshot agar avatar (absolute) masuk bounding box dengan presisi */}
+      <div ref={resultRef} className="pt-32 pb-4 w-full bg-transparent">
+        <div className="relative w-full overflow-visible rounded-2xl bg-slate-900 border border-white/10 p-6 md:p-8 shadow-2xl transition-all duration-500 hover:shadow-purple-500/10 hover:border-purple-500/30 group">
           {/* Decorative blurs */}
           <div className="absolute top-0 right-0 -mr-16 -mt-16 w-32 h-32 rounded-full bg-purple-500/20 blur-3xl group-hover:bg-purple-400/30 transition-colors duration-500" />
           <div className="absolute bottom-0 left-0 -ml-16 -mb-16 w-32 h-32 rounded-full bg-blue-500/20 blur-3xl group-hover:bg-blue-400/30 transition-colors duration-500" />
