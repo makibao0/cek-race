@@ -8,7 +8,9 @@ import dynamic from 'next/dynamic';
 const COMPLETED_RACES = [
   "Jin", "Siluman", "Khodam Macan Putih", "Alien", "Kuntilanak",
   "Manusia", "Peri", "Bidadari", "Susuk", "Lelembut",
-  "Pocong", "Tuyul", "Genderuwo", "Dewa", "Zombie"
+  "Pocong", "Tuyul", "Genderuwo", "Dewa", "Zombie",
+  "Begu Ganjang", "Vampir", "Kolong Wewe", "Lord", "Monster",
+  "Dukun", "Mutant", "Elf", "Khodam", "Wewe Gombel"
 ];
 const racesData = allRacesData.filter((item: any) => COMPLETED_RACES.includes(item.ras));
 import dukunAnimation from '../../public/magic.json';
