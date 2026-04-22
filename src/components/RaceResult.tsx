@@ -16,7 +16,7 @@ export default function RaceResult({ data, name }: { data: RaceData; name: strin
 
   const normalizedRace = data.ras.toLowerCase().replace(/\s+/g, '-');
   const imageUrl = `/races/${normalizedRace}.png`;
-  const fallbackUrl = `https://api.dicebear.com/8.x/lorelei/svg?seed=${encodeURIComponent(data.ras + name)}&backgroundColor=transparent`;
+  const fallbackUrl = `https://api.dicebear.com/8.x/lorelei/svg?seed=${encodeURIComponent(data.ras + name)}&backgroundColor=transparent `;
 
   const handleShare = async () => {
     if (!resultRef.current) return;
@@ -29,7 +29,7 @@ export default function RaceResult({ data, name }: { data: RaceData; name: strin
         backgroundColor: '#020617', // match slate-950 bg
         pixelRatio: 2
       });
-      const caption = `Namaku ternyata ras ${data.ras} dengan profesi ${data.profesi}! 🔮 Cek ras dan khodam gaibmu sekarang!`;
+      const caption = `Namaku ternyata ras ${data.ras} dengan profesi ${data.profesi}! 🔮\n\nCek rasmu sekarang : https://cek-race.vercel.app/`;
 
       try {
         const file = await (await fetch(dataUrl)).blob().then(b => new File([b], 'cek-ras.png', { type: 'image/png' }));
@@ -76,12 +76,12 @@ export default function RaceResult({ data, name }: { data: RaceData; name: strin
         <div className="absolute bottom-0 left-0 -ml-16 -mb-16 w-32 h-32 rounded-full bg-blue-500/20 blur-3xl group-hover:bg-blue-400/30 transition-colors duration-500" />
 
         <div className="relative z-10 flex flex-col items-center text-center gap-5 pt-10">
-          
+
           {/* Ilustrasi Ras */}
           <div className="absolute -top-24 w-36 h-36 shadow-2xl rounded-full overflow-hidden border-4 border-slate-800 bg-gradient-to-b from-purple-500/50 to-pink-500/50 z-20 flex items-center justify-center">
-            <img 
-              src={imageUrl} 
-              alt={`Ilustrasi ${data.ras}`} 
+            <img
+              src={imageUrl}
+              alt={`Ilustrasi ${data.ras}`}
               className="w-full h-full object-cover bg-slate-900"
               crossOrigin="anonymous"
               onError={(e) => {
