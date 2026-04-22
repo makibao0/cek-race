@@ -70,50 +70,53 @@ export default function RaceResult({ data, name }: { data: RaceData; name: strin
 
   return (
     <div className="flex flex-col gap-4 mt-16">
-      <div ref={resultRef} className="relative overflow-visible rounded-2xl bg-slate-900 border border-white/10 p-8 shadow-2xl transition-all duration-500 hover:shadow-purple-500/10 hover:border-purple-500/30 group">
-        {/* Decorative blurs */}
-        <div className="absolute top-0 right-0 -mr-16 -mt-16 w-32 h-32 rounded-full bg-purple-500/20 blur-3xl group-hover:bg-purple-400/30 transition-colors duration-500" />
-        <div className="absolute bottom-0 left-0 -ml-16 -mb-16 w-32 h-32 rounded-full bg-blue-500/20 blur-3xl group-hover:bg-blue-400/30 transition-colors duration-500" />
+      {/* Wrapper screenshot agar avatar (absolute) masuk bounding box */}
+      <div ref={resultRef} className="pt-24 pb-4 px-4 -mt-24 -mx-4 bg-transparent rounded-[2.5rem]">
+        <div className="relative overflow-visible rounded-2xl bg-slate-900 border border-white/10 p-8 shadow-2xl transition-all duration-500 hover:shadow-purple-500/10 hover:border-purple-500/30 group">
+          {/* Decorative blurs */}
+          <div className="absolute top-0 right-0 -mr-16 -mt-16 w-32 h-32 rounded-full bg-purple-500/20 blur-3xl group-hover:bg-purple-400/30 transition-colors duration-500" />
+          <div className="absolute bottom-0 left-0 -ml-16 -mb-16 w-32 h-32 rounded-full bg-blue-500/20 blur-3xl group-hover:bg-blue-400/30 transition-colors duration-500" />
 
-        <div className="relative z-10 flex flex-col items-center text-center gap-5 pt-10">
+          <div className="relative z-10 flex flex-col items-center text-center gap-5 pt-10">
 
-          {/* Ilustrasi Ras */}
-          <div className="absolute -top-24 w-36 h-36 shadow-2xl rounded-full overflow-hidden border-4 border-slate-800 bg-gradient-to-b from-purple-500/50 to-pink-500/50 z-20 flex items-center justify-center">
-            <img
-              src={imageUrl}
-              alt={`Ilustrasi ${data.ras}`}
-              className="w-full h-full object-cover bg-slate-900"
-              crossOrigin="anonymous"
-              onError={(e) => {
-                e.currentTarget.src = fallbackUrl;
-                e.currentTarget.onerror = null;
-              }}
-            />
-          </div>
+            {/* Ilustrasi Ras */}
+            <div className="absolute -top-24 w-36 h-36 shadow-2xl rounded-full overflow-hidden border-4 border-slate-800 bg-gradient-to-b from-purple-500/50 to-pink-500/50 z-20 flex items-center justify-center">
+              <img
+                src={imageUrl}
+                alt={`Ilustrasi ${data.ras}`}
+                className="w-full h-full object-cover bg-slate-900"
+                crossOrigin="anonymous"
+                onError={(e) => {
+                  e.currentTarget.src = fallbackUrl;
+                  e.currentTarget.onerror = null;
+                }}
+              />
+            </div>
 
-          <div className="space-y-1 mt-6">
-            <h3 className="text-sm font-medium text-slate-400 uppercase tracking-widest">Hasil Analisis Nama</h3>
-            <h2 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-300 to-pink-300 capitalize">
-              {name}
-            </h2>
-          </div>
+            <div className="space-y-1 mt-6">
+              <h3 className="text-sm font-medium text-slate-400 uppercase tracking-widest">Hasil Analisis Nama</h3>
+              <h2 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-300 to-pink-300 capitalize">
+                {name}
+              </h2>
+            </div>
 
-          <div className="w-full h-px bg-white/10 my-1" />
+            <div className="w-full h-px bg-white/10 my-1" />
 
-          <div className="flex flex-col gap-1 w-full bg-white/5 py-4 rounded-xl border border-white/5">
-            <p className="text-slate-400 uppercase tracking-widest text-xs font-semibold">Identitas Dominan</p>
-            <p className="text-4xl font-black text-white tracking-tight drop-shadow-md">
-              {data.ras}
-            </p>
-          </div>
+            <div className="flex flex-col gap-1 w-full bg-white/5 py-4 rounded-xl border border-white/5">
+              <p className="text-slate-400 uppercase tracking-widest text-xs font-semibold">Identitas Dominan</p>
+              <p className="text-4xl font-black text-white tracking-tight drop-shadow-md">
+                {data.ras}
+              </p>
+            </div>
 
-          <div className="w-full">
-            <p className="text-xs text-slate-400 mb-1 uppercase tracking-widest font-semibold">Diagnosis Profesi</p>
-            <p className="text-xl font-bold text-purple-300 drop-shadow-sm">{data.profesi}</p>
-          </div>
+            <div className="w-full">
+              <p className="text-xs text-slate-400 mb-1 uppercase tracking-widest font-semibold">Diagnosis Profesi</p>
+              <p className="text-xl font-bold text-purple-300 drop-shadow-sm">{data.profesi}</p>
+            </div>
 
-          <div className="mt-2 text-slate-300 text-sm md:text-base leading-relaxed italic bg-black/40 p-5 rounded-xl w-full border border-white/5 shadow-inner">
-            "{data.deskripsi}"
+            <div className="mt-2 text-slate-300 text-sm md:text-base leading-relaxed italic bg-black/40 p-5 rounded-xl w-full border border-white/5 shadow-inner">
+              "{data.deskripsi}"
+            </div>
           </div>
         </div>
       </div>
