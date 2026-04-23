@@ -61,7 +61,7 @@ export default function Home() {
       if (step < ritualSteps.length) {
         setLoadingText(ritualSteps[step]);
       }
-    }, 1000);
+    }, 1500);
 
     setTimeout(() => {
       clearInterval(interval);
@@ -80,7 +80,7 @@ export default function Home() {
         deskripsi: selectedRace.deskripsi
       });
       setIsAnimating(false);
-    }, 700 * ritualSteps.length);
+    }, 1500 * ritualSteps.length);
   };
 
 
