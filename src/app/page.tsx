@@ -12,7 +12,10 @@ const COMPLETED_RACES = [
   "Begu Ganjang", "Vampir", "Kolong Wewe", "Lord", "Monster",
   "Dukun", "Mutant", "Elf", "Khodam", "Wewe Gombel",
   "Pendekar", "Bangjago", "Palasik", "Suanggi", "Orc",
-  "Sepuh", "Jelangkung"
+  "Sepuh", "Jelangkung", "Demit", "Arwah", "Druid",
+  "Nyi Roro", "Biksu", "Cyborg", "Malaikat", "Babi Ngepet",
+  "Troll", "Leak", "Jenglot", "Gondoruwo", "Suhu", "Goblin",
+  "Penyihir", "Entitas"
 ];
 const racesData = allRacesData.filter((item: any) => COMPLETED_RACES.includes(item.ras));
 import dukunAnimation from '../../public/magic.json';
