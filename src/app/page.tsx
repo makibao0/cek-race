@@ -15,7 +15,8 @@ const COMPLETED_RACES = [
   "Sepuh", "Jelangkung", "Demit", "Arwah", "Druid",
   "Nyi Roro", "Biksu", "Cyborg", "Malaikat", "Babi Ngepet",
   "Troll", "Leak", "Jenglot", "Gondoruwo", "Suhu", "Goblin",
-  "Penyihir", "Entitas"
+  "Penyihir", "Entitas", "Banaspati", "Kuyang", "Merman",
+  "Mpu", "Naga", "Orang Bunian"
 ];
 const racesData = allRacesData.filter((item: any) => COMPLETED_RACES.includes(item.ras));
 import dukunAnimation from '../../public/magic.json';
