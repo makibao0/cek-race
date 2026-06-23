@@ -37,7 +37,7 @@ function TarotCard({ drawn, index, revealed }: { drawn: DrawnCard; index: number
   const positionShadows = ['shadow-violet-500/20', 'shadow-amber-500/20', 'shadow-rose-500/20'];
 
   return (
-    <div className="flex flex-col items-center gap-2">
+    <div className="flex flex-col items-center gap-2 w-full lg:w-auto">
       {/* Position label */}
       <div className={`text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full bg-gradient-to-r ${positionColors[index]} border ${positionBorders[index]} text-slate-200`}>
         {drawn.position}
@@ -45,8 +45,8 @@ function TarotCard({ drawn, index, revealed }: { drawn: DrawnCard; index: number
 
       {/* 3D flip card */}
       <div
-        className="relative"
-        style={{ width: '110px', height: '180px', perspective: '800px' }}
+        className="relative w-full max-w-50 mx-auto lg:w-27.5 lg:h-45"
+        style={{ aspectRatio: '110/180', perspective: '800px' }}
       >
         <div
           style={{
