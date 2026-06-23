@@ -200,7 +200,7 @@ export default function TarotResult({ cards, name }: Props) {
           </div>
 
           {/* 3 Cards row */}
-          <div className="relative z-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center mb-6">
+          <div className="relative z-10 flex flex-col items-center gap-5 lg:flex-row lg:justify-center mb-6">
             {cards.map((drawn, i) => (
               <TarotCard key={i} drawn={drawn} index={i} revealed={revealed[i]} />
             ))}
