@@ -47,11 +47,11 @@ export default function ZodiakPage() {
   const [loadingText, setLoadingText] = useState('Membaca bintang...');
   const [error, setError] = useState('');
 
-  const handleCheck = (e: React.FormEvent) => {
+  const handleCheck = (e: React.SyntheticEvent) => {
     e.preventDefault();
     if (!birthDate) return;
 
-    const [year, month, day] = birthDate.split('-').map(Number);
+    const [, month, day] = birthDate.split('-').map(Number);
     const sign = getZodiacSign(month, day);
 
     if (!sign) {
@@ -80,14 +80,15 @@ export default function ZodiakPage() {
 
     setTimeout(() => {
       clearInterval(interval);
-      const seed = generateHash(birthDate + sign.nama);
+      const today = new Date().toISOString().split('T')[0];
+      const base = birthDate + sign.nama + today;
 
       const reading: ZodiakReading = {
         sign,
-        karir: sign.karir[seed % sign.karir.length],
-        asmara: sign.asmara[(seed >> 3) % sign.asmara.length],
-        finansial: sign.finansial[(seed >> 6) % sign.finansial.length],
-        kesehatan: sign.kesehatan[(seed >> 9) % sign.kesehatan.length],
+        karir: sign.karir[generateHash(base + 'k') % sign.karir.length],
+        asmara: sign.asmara[generateHash(base + 'a') % sign.asmara.length],
+        finansial: sign.finansial[generateHash(base + 'f') % sign.finansial.length],
+        kesehatan: sign.kesehatan[generateHash(base + 'kes') % sign.kesehatan.length],
         birthDate,
       };
 
