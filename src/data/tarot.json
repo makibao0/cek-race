@@ -1,0 +1,332 @@
+[
+  {
+    "id": 0,
+    "kartu": "The Fool",
+    "nama": "Sang Pejalan",
+    "emoji": "🃏",
+    "warna": "#a78bfa",
+    "upright": {
+      "makna": "Awal Baru · Spontanitas · Keberanian",
+      "deskripsi": "Energi paling fresh sedunia lagi memancar dari dirimu. Kamu siap terjun ke hal baru tanpa terlalu banyak mikir — dan somehow itu justru yang paling tepat saat ini. Bukan nekat, tapi percaya diri. Semesta lagi backing kamu penuh. Gas aja tanpa terlalu banyak plan yang ngalahin moment."
+    },
+    "reversed": {
+      "makna": "Ceroboh · Impulsif · Kurang Rencana",
+      "deskripsi": "Versi impulsif dari semangatmu lagi on fire. Kamu checkout dulu baru lihat ongkir-nya. Add to cart dulu, mikir belakangan. Keputusan besar dibuat dalam hitungan detik. Mungkin perlu sedikit slow down dan pikir dua kali sebelum loncat — jurangnya beneran ada."
+    }
+  },
+  {
+    "id": 1,
+    "kartu": "The Magician",
+    "nama": "Sang Penyihir",
+    "emoji": "🎩",
+    "warna": "#fbbf24",
+    "upright": {
+      "makna": "Manifestasi · Keterampilan · Kekuatan Penuh",
+      "deskripsi": "Semua alat ada di tanganmu — otak, kemampuan, koneksi, dan modal. Tinggal kamu yang mau eksekusi atau tetap nongkrong di phase 'nanti aja'. Energimu sedang di peak — ini bukan waktu buat ragu-ragu. Alam semesta udah siapin panggungnya, tinggal kamu yang mau naik atau enggak."
+    },
+    "reversed": {
+      "makna": "Manipulasi · Skill Terpendam · Bluffing",
+      "deskripsi": "Potensimu ada tapi belum keluar secara maksimal. Atau kamu lagi pake skill-mu untuk hal yang kurang tepat — kayak jago ngeles, jago bluffing, atau master of procrastination. Redirect energi itu ke hal yang lebih produktif sebelum terlambat."
+    }
+  },
+  {
+    "id": 2,
+    "kartu": "The High Priestess",
+    "nama": "Sang Pendeta Agung",
+    "emoji": "🔮",
+    "warna": "#60a5fa",
+    "upright": {
+      "makna": "Intuisi · Misteri · Alam Bawah Sadar",
+      "deskripsi": "Alam bawah sadarmu lagi kirim sinyal kencang banget — tapi kamu sibuk scroll dan skip reels. Coba dengerin feeling-mu lebih sering, karena intuisimu sekarang lebih akurat dari ramalan zodiak mana pun. Ada sesuatu yang perlu kamu tahu tapi belum terungkap — sabar."
+    },
+    "reversed": {
+      "makna": "Rahasia Tersimpan · Intuisi Diabaikan",
+      "deskripsi": "Kamu punya firasat tapi kamu abaikan karena rasanya nggak masuk akal. Ada informasi yang disembunyikan dari kamu, atau kamu sendiri yang menyembunyikan sesuatu dari orang-orang terdekat. Bukan berarti jelek — tapi ada saatnya semua perlu dibuka."
+    }
+  },
+  {
+    "id": 3,
+    "kartu": "The Empress",
+    "nama": "Sang Dewi Bumi",
+    "emoji": "🌿",
+    "warna": "#4ade80",
+    "upright": {
+      "makna": "Kelimpahan · Kreativitas · Kesuburan",
+      "deskripsi": "Periode subur banget secara kreatif, finansial, maupun relasional. Apapun yang kamu tanam sekarang akan tumbuh berlipat. Bisa berupa bisnis, karya seni, hubungan, atau bahkan tanaman hias yang mendadak subur. Energimu lagi nurturing dan produktif — manfaatin."
+    },
+    "reversed": {
+      "makna": "Ketergantungan · Stagnasi · Kurang Cinta Diri",
+      "deskripsi": "Kamu lagi terlalu bergantung pada orang lain untuk validasi, atau satu sumber penghasilan. Atau mungkin kamu neglect diri sendiri demi ngurusin orang lain terus. Inget, pesawat pun minta kamu pasang masker sendiri dulu sebelum bantu orang lain."
+    }
+  },
+  {
+    "id": 4,
+    "kartu": "The Emperor",
+    "nama": "Sang Kaisar",
+    "emoji": "🏛️",
+    "warna": "#f87171",
+    "upright": {
+      "makna": "Otoritas · Struktur · Kepemimpinan",
+      "deskripsi": "Energi bos besar sedang merasukimu. Saatnya ambil kendali situasi dan berhenti nunggu orang lain yang mulai duluan. Buat sistem, buat aturan, dan eksekusi dengan disiplin. Kalau bukan kamu yang pegang kendali, siapa lagi? Ini saatnya tancap kaki dan jadi pemimpin."
+    },
+    "reversed": {
+      "makna": "Kaku · Terlalu Dominan · Keras Kepala",
+      "deskripsi": "Kamu lagi keras kepala level boss stage akhir game RPG. Caramu adalah satu-satunya cara, pendapatmu paling benar, dan diskusi berasa debat kusir. Coba dengerin orang lain juga — mereka juga punya insight yang valid, bahkan kalau kamu nggak mau akui."
+    }
+  },
+  {
+    "id": 5,
+    "kartu": "The Hierophant",
+    "nama": "Sang Guru Agung",
+    "emoji": "📿",
+    "warna": "#f59e0b",
+    "upright": {
+      "makna": "Tradisi · Bimbingan · Kebijaksanaan",
+      "deskripsi": "Ada wisdom yang perlu kamu cari dari orang yang lebih berpengalaman — bisa mentor, orang tua, atau senior yang sering kamu anggap kolot. Atau justru kamu yang dipanggil jadi pembimbing bagi orang lain. Ilmu perlu dibagikan, bukan disimpan sendirian."
+    },
+    "reversed": {
+      "makna": "Dogma · Pemberontakan · Anti-Mainstream",
+      "deskripsi": "Kamu lagi challengin status quo dan semua aturan yang ada. Itu bagus — inovasi lahir dari situ. Tapi pastikan pemberontakanmu punya substansi, bukan sekadar rebel karena pengen keliatan beda. Rusakin sistem yang rusak, tapi jangan rusakin yang masih jalan."
+    }
+  },
+  {
+    "id": 6,
+    "kartu": "The Lovers",
+    "nama": "Sang Kekasih",
+    "emoji": "💞",
+    "warna": "#f472b6",
+    "upright": {
+      "makna": "Cinta · Pilihan · Keselarasan",
+      "deskripsi": "Ada keputusan besar yang menanti — dan ini bukan cuma soal asmara. Pilihanmu sekarang akan nentuin arah hidupmu ke depan dengan signifikan. Pilih sesuai nilai dan hatimu, bukan sesuai ekspektasi orang lain. Dan kalau soal cinta: energinya lagi sangat bagus."
+    },
+    "reversed": {
+      "makna": "Konflik Batin · Ketidaksesuaian · Drama",
+      "deskripsi": "Hatimu bilang A, pikiranmu bilang B, dan ex-mu tiba-tiba DM bilang C. Kamu lagi dalam konflik internal yang bikin susah fokus. Sebelum bisa harmonis dengan orang lain, selaraskan dulu apa yang kamu mau dari dalam dirimu sendiri."
+    }
+  },
+  {
+    "id": 7,
+    "kartu": "The Chariot",
+    "nama": "Kereta Kemenangan",
+    "emoji": "⚡",
+    "warna": "#818cf8",
+    "upright": {
+      "makna": "Determinasi · Kemenangan · Kontrol",
+      "deskripsi": "Kamu lagi di mode gas pol — fokus tajam, tekad kuat, dan nggak ada yang bisa ngalang-ngalangi. Ini saatnya tancap dan jangan biarkan distraksi menarikmu keluar dari jalur. Kemenangan ada di depan, tapi butuh konsistensi dan disiplin penuh untuk sampai ke sana."
+    },
+    "reversed": {
+      "makna": "Kurang Kontrol · Impulsif · Ugal-ugalan",
+      "deskripsi": "Kamu lagi ugal-ugalan secara emosional atau dalam pengambilan keputusan. Gas terus boleh, tapi kalau nggak ada setir dan rem, yang kena bukan cuma kamu. Slow down sebentar, pastikan arahmu benar, baru kencengin lagi."
+    }
+  },
+  {
+    "id": 8,
+    "kartu": "Strength",
+    "nama": "Sang Kekuatan",
+    "emoji": "🦁",
+    "warna": "#fb923c",
+    "upright": {
+      "makna": "Keberanian · Kesabaran · Kekuatan Batin",
+      "deskripsi": "Kekuatan sejatimu bukan dari otot, tapi dari kesabaran, keteguhan, dan compassion yang kamu punya. Kamu lebih tangguh dari yang kamu kira — buktinya kamu masih berdiri setelah semua yang sudah kamu lewati. Hadapi tantangan dengan hati yang tenang dan kepala yang dingin."
+    },
+    "reversed": {
+      "makna": "Ragu Diri · Insecure · Kekuatan Terkuras",
+      "deskripsi": "Kamu lagi fase insecure yang bikin underestimate diri sendiri. Inner critic-mu lagi toxic banget dan kamu percaya semua omongannya. Ingat: singa juga pernah jadi anak singa yang lemah. Kekuatanmu masih ada, cuma lagi butuh recharge."
+    }
+  },
+  {
+    "id": 9,
+    "kartu": "The Hermit",
+    "nama": "Sang Pertapa",
+    "emoji": "🕯️",
+    "warna": "#94a3b8",
+    "upright": {
+      "makna": "Introspeksi · Pencarian Diri · Kebijaksanaan Sunyi",
+      "deskripsi": "Saatnya menyendiri sebentar dan dengerin suara batinmu sendiri — bukan suara notifikasi atau suara orang-orang di sekitarmu. Periode silent mode ini justru penting untuk nemuin clarity dan arah selanjutnya. Bukan antisosial, tapi investasi ke dalam diri."
+    },
+    "reversed": {
+      "makna": "Isolasi Berlebihan · Kesepian · Penolakan Bantuan",
+      "deskripsi": "Kamu udah terlalu lama di mode hermit sampai mulai ngerasa terputus dari dunia. Menyendiri itu perlu, tapi ini udah kebablasan. Udah saatnya keluar dari gua, reconnect sama orang-orang yang peduli, dan biarkan orang lain masuk ke hidupmu lagi."
+    }
+  },
+  {
+    "id": 10,
+    "kartu": "Wheel of Fortune",
+    "nama": "Roda Nasib",
+    "emoji": "🎡",
+    "warna": "#c084fc",
+    "upright": {
+      "makna": "Siklus · Keberuntungan · Momentum",
+      "deskripsi": "Roda kehidupanmu lagi berputar ke atas! Ini momentum yang sayang banget kalau dilewatkan. Manfaatkan setiap peluang yang muncul. Tapi ingat — roda terus berputar, jadi jangan lupa nabung dan invest saat lagi di atas. Keberuntungan suka sama orang yang siap."
+    },
+    "reversed": {
+      "makna": "Nasib Buruk Sementara · Lagi di Bawah",
+      "deskripsi": "Lagi di titik bawah rodanya? Tenang, ini sementara — siklus alam semesta memang begitu. Sambil nunggu momentum balik, kurangin pengeluaran impulsif, perbanyak sabar, dan jangan buat keputusan besar dari posisi panik. Roda pasti akan berputar lagi."
+    }
+  },
+  {
+    "id": 11,
+    "kartu": "Justice",
+    "nama": "Sang Keadilan",
+    "emoji": "⚖️",
+    "warna": "#2dd4bf",
+    "upright": {
+      "makna": "Keadilan · Konsekuensi · Keseimbangan",
+      "deskripsi": "Karma lagi aktif bekerja dengan penuh efisiensi. Semua keputusan dan tindakanmu sebelumnya akan ketemu balasannya — yang baik maupun yang kurang baik. Ini bukan ancaman, ini netralnya alam semesta. Pastikan kamu bisa pegang teguh apa yang sudah kamu pilih."
+    },
+    "reversed": {
+      "makna": "Ketidakadilan · Penghindaran · Sistem Rusak",
+      "deskripsi": "Kamu lagi ngerasa hidup nggak adil — dan mungkin memang betul begitu. Sistem rusak itu nyata. Tapi ngeluh dan nggak ngapa-ngapain juga nggak ngubah situasi. Cari apa yang bisa kamu kontrol dan ambil tindakan dari situ."
+    }
+  },
+  {
+    "id": 12,
+    "kartu": "The Hanged Man",
+    "nama": "Sang Tergantung",
+    "emoji": "🙃",
+    "warna": "#22d3ee",
+    "upright": {
+      "makna": "Jeda · Perspektif Baru · Pengorbanan",
+      "deskripsi": "Kamu lagi di fase pause yang mungkin frustasi, tapi ini justru waktu terbaik untuk ganti perspektif total. Coba lihat situasimu dari sudut pandang yang berbeda — bahkan upside down sekalipun. Seringkali solusi yang paling jenius datang dari perspektif yang paling nggak terduga."
+    },
+    "reversed": {
+      "makna": "Penundaan Sia-sia · Nggak Mau Move On",
+      "deskripsi": "Kamu nunggu sesuatu yang nggak akan datang dalam bentuk yang kamu harapkan. Atau kamu udah lama nolak melepaskan situasi yang sudah expired. Pengorbananmu sudah cukup — saatnya ambil langkah maju, bukan terus gantung di tempat yang sama."
+    }
+  },
+  {
+    "id": 13,
+    "kartu": "Death",
+    "nama": "Sang Transformasi",
+    "emoji": "💀",
+    "warna": "#6b7280",
+    "upright": {
+      "makna": "Akhir · Transformasi · Awal Baru",
+      "deskripsi": "Santai dulu — kartu ini bukan soal mati fisik. Ini soal sesuatu dalam hidupmu yang perlu berakhir supaya yang baru bisa dimulai. Relationship toxic, kebiasaan buruk, pekerjaan yang sudah expired, atau versi lamamu yang sudah tidak relevan. Lepaskan dengan damai."
+    },
+    "reversed": {
+      "makna": "Resistensi Perubahan · Melekat pada Masa Lalu",
+      "deskripsi": "Kamu terlalu melekat pada hal-hal yang seharusnya sudah kamu tinggalkan. Kayak makanan basi yang masih disimpen di kulkas karena 'sayang'. Perubahan itu menakutkan, tapi menolaknya justru lebih melelahkan. Biarkan yang lama pergi agar yang baru bisa datang."
+    }
+  },
+  {
+    "id": 14,
+    "kartu": "Temperance",
+    "nama": "Sang Penyeimbang",
+    "emoji": "⚗️",
+    "warna": "#38bdf8",
+    "upright": {
+      "makna": "Keseimbangan · Moderasi · Kesabaran",
+      "deskripsi": "Alam semesta lagi minta kamu untuk slow down dan temukan keseimbangan sejati. Nggak perlu all-or-nothing di segala hal. Middle path itu bukan berarti setengah-setengah — justru di situlah sustainability hidup. Campurkan semua elemen hidupmu dengan proporsi yang tepat."
+    },
+    "reversed": {
+      "makna": "Berlebihan · Tidak Seimbang · Extreme",
+      "deskripsi": "Kamu lagi di mode extreme — entah workaholic gila-gilaan sampai lupa makan, atau rebahan total sampai produktivitas nol. Dua-duanya nggak sustainable dan nggak sehat. Cari titik tengah yang bisa bikin kamu jalan terus dalam jangka panjang."
+    }
+  },
+  {
+    "id": 15,
+    "kartu": "The Devil",
+    "nama": "Sang Iblis",
+    "emoji": "😈",
+    "warna": "#dc2626",
+    "upright": {
+      "makna": "Terjebak · Obsesi · Belenggu",
+      "deskripsi": "Ada sesuatu yang bikin kamu merasa terjebak — bisa habit buruk, relationship toxic, pola pikir negatif, atau ketagihan scroll media sosial sampai jam 3 pagi. Yang bikin unik: belenggu ini seringkali kamu pasang sendiri tanpa sadar. Kamu tahu apa itu. Sekarang saatnya putuskan."
+    },
+    "reversed": {
+      "makna": "Pembebasan · Melepas Belenggu · Sadar Diri",
+      "deskripsi": "Kamu lagi dalam proses melepaskan diri dari apa yang dulu mengikatmu. Mungkin butuh waktu, mungkin prosesnya nggak mulus, tapi arahnya sudah benar. Hampir bebas — tahan terus dan jangan balik lagi ke pola yang sudah kamu tinggalkan."
+    }
+  },
+  {
+    "id": 16,
+    "kartu": "The Tower",
+    "nama": "Sang Menara",
+    "emoji": "🌩️",
+    "warna": "#f97316",
+    "upright": {
+      "makna": "Perubahan Mendadak · Kekacauan · Revelasi",
+      "deskripsi": "Perubahan besar dan tiba-tiba sedang terjadi atau akan segera terjadi. Mungkin mengejutkan, mungkin menyakitkan — tapi seringkali ini adalah hal yang diperlukan. Fondasi yang rapuh memang perlu diruntuhkan agar yang lebih solid bisa dibangun di atasnya. Ini bukan akhir."
+    },
+    "reversed": {
+      "makna": "Menghindari Bencana · Perubahan Ditunda",
+      "deskripsi": "Kamu berhasil dodge drama besar... untuk sementara. Atau kamu lagi nunda-nunda menghadapi masalah yang sudah menumpuk. Menara itu akan runtuh cepat atau lambat — lebih baik kamu yang kendalikan kapan dan bagaimana daripada mendadak collapse sendiri."
+    }
+  },
+  {
+    "id": 17,
+    "kartu": "The Star",
+    "nama": "Sang Bintang",
+    "emoji": "⭐",
+    "warna": "#93c5fd",
+    "upright": {
+      "makna": "Harapan · Inspirasi · Pemulihan",
+      "deskripsi": "Setelah semua chaos yang kamu lewati, ada cahaya harapan yang nyata dan terang di depan. Energi semestamu lagi sangat positif dan healing. Percaya prosesnya, percaya dirimu, dan yakin bahwa semuanya memang akan baik-baik saja. Bintangimu sedang bersinar."
+    },
+    "reversed": {
+      "makna": "Putus Asa · Kehilangan Arah · Krisis Keyakinan",
+      "deskripsi": "Kamu lagi kehilangan sense of purpose dan nggak tahu lagi harus melangkah ke mana. Rasanya kayak ngorek langit malam tapi nggak ada bintang yang keliatan. Wajar kok, tapi jangan dibiarkan terlalu lama. Cahaya itu masih ada — mungkin cuma perlu kamu cari dari arah yang berbeda."
+    }
+  },
+  {
+    "id": 18,
+    "kartu": "The Moon",
+    "nama": "Sang Rembulan",
+    "emoji": "🌙",
+    "warna": "#a5b4fc",
+    "upright": {
+      "makna": "Ilusi · Ketidakpastian · Alam Bawah Sadar",
+      "deskripsi": "Segala sesuatu tidak seperti yang terlihat — ada yang disembunyikan, ada yang belum terungkap, dan intuisimu terus kasih sinyal aneh. Percayai insting, tapi juga jangan sampai parno dan curiga berlebihan. Kabut akan terangkat pada waktunya — tugasmu adalah tetap sabar dan waspada."
+    },
+    "reversed": {
+      "makna": "Kebingungan Teratasi · Kejelasan Datang",
+      "deskripsi": "Kabut mulai terangkat! Situasi yang dulu membingungkan dan penuh ilusi mulai keliatan jelas wujud aslinya. Kamu mulai bisa bedain mana yang genuine dan mana yang sekadar pertunjukan. Kepercayaan yang selama ini bikin ragu sudah bisa mulai kamu tempatkan dengan lebih tepat."
+    }
+  },
+  {
+    "id": 19,
+    "kartu": "The Sun",
+    "nama": "Sang Surya",
+    "emoji": "☀️",
+    "warna": "#fde047",
+    "upright": {
+      "makna": "Kebahagiaan · Vitalitas · Keberhasilan",
+      "deskripsi": "Kartu paling bright dan happy di seluruh tarot! Energimu sedang bersinar sangat terang, keberuntungan berpihak kepadamu, dan hidup terasa genuinely menyenangkan. Nikmatin momen ini sepenuhnya tanpa rasa bersalah. Kamu berhak happy, dan semesta setuju."
+    },
+    "reversed": {
+      "makna": "Sedikit Redup · Overconfident · Kebahagiaan Tertunda",
+      "deskripsi": "Energimu masih positif secara fundamental, tapi ada bayangan kecil yang ngalangin sinarnya. Mungkin kamu terlalu PD sampai jadi jumawa, atau kebahagiaanmu lagi ditahan oleh ekspektasi dan pendapat orang lain. Ingat sinar matahari: nggak perlu izin siapa pun untuk bersinar."
+    }
+  },
+  {
+    "id": 20,
+    "kartu": "Judgement",
+    "nama": "Sang Penghakiman",
+    "emoji": "📯",
+    "warna": "#e2e8f0",
+    "upright": {
+      "makna": "Kebangkitan · Panggilan Jiwa · Evaluasi Besar",
+      "deskripsi": "Kamu lagi di momen reckoning — saatnya evaluasi besar dan dengar panggilan jiwa yang sebenarnya. Ini bukan soal penilaian orang lain, tapi penilaian dirimu sendiri terhadap hidupmu sendiri. Apakah kamu sudah hidup sesuai nilai-nilaimu? Jawabannya menentukan langkah selanjutnya."
+    },
+    "reversed": {
+      "makna": "Menyalahkan Diri · Keraguan · Tidak Mau Evaluasi",
+      "deskripsi": "Kamu terlalu keras dalam menghakimi diri sendiri — inner critic-mu lagi on overdrive dan kamu percaya semua omongannya yang toxic. Atau kamu justru menghindari evaluasi jujur karena takut sama kebenarannya. Saatnya berdamai dengan masa lalu agar bisa melangkah ke depan."
+    }
+  },
+  {
+    "id": 21,
+    "kartu": "The World",
+    "nama": "Sang Dunia",
+    "emoji": "🌍",
+    "warna": "#34d399",
+    "upright": {
+      "makna": "Penyelesaian · Pencapaian · Integrasi",
+      "deskripsi": "Siklus besar dalam hidupmu hampir atau sudah selesai. Kamu sudah melewati banyak sekali — dan sekarang sampai di titik yang layak kamu rayakan. Ini bukan akhir, ini graduation menuju siklus berikutnya yang lebih besar. Selamat, dan nikmati moment ini dengan bangga."
+    },
+    "reversed": {
+      "makna": "Penyelesaian Tertunda · Shortcut · Setengah Jalan",
+      "deskripsi": "Kamu hampir sampai di garis finish tapi sepertinya mau ambil jalan pintas di ujung perjalanan. Jangan — selesaikan dengan benar dan lengkap supaya kamu bisa puas dan bangga secara total. Setengah selesai itu sama dengan setengah mulai."
+    }
+  }
+]

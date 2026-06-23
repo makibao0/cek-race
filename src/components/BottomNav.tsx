@@ -2,37 +2,75 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Sparkles, Activity } from 'lucide-react';
+import { Sparkles, Activity, Star, Moon } from 'lucide-react';
+
+const TABS = [
+  {
+    href: '/',
+    label: 'Cek Ras',
+    icon: Sparkles,
+    activeGradient: 'from-purple-600/30 to-indigo-600/30',
+    activeText: 'text-purple-300',
+    activeBorder: 'border-purple-500/30',
+    activeShadow: 'shadow-[inset_0_0_15px_rgba(168,85,247,0.2)]',
+    activeIcon: 'text-purple-400',
+  },
+  {
+    href: '/aura',
+    label: 'Cek Aura',
+    icon: Activity,
+    activeGradient: 'from-pink-600/30 to-rose-600/30',
+    activeText: 'text-pink-300',
+    activeBorder: 'border-pink-500/30',
+    activeShadow: 'shadow-[inset_0_0_15px_rgba(236,72,153,0.2)]',
+    activeIcon: 'text-pink-400',
+  },
+  {
+    href: '/tarot',
+    label: 'Tarot',
+    icon: Star,
+    activeGradient: 'from-amber-600/30 to-violet-600/30',
+    activeText: 'text-amber-300',
+    activeBorder: 'border-amber-500/30',
+    activeShadow: 'shadow-[inset_0_0_15px_rgba(251,191,36,0.2)]',
+    activeIcon: 'text-amber-400',
+  },
+  {
+    href: '/zodiak',
+    label: 'Zodiak',
+    icon: Moon,
+    activeGradient: 'from-cyan-600/30 to-indigo-600/30',
+    activeText: 'text-cyan-300',
+    activeBorder: 'border-cyan-500/30',
+    activeShadow: 'shadow-[inset_0_0_15px_rgba(34,211,238,0.2)]',
+    activeIcon: 'text-cyan-400',
+  },
+];
 
 export default function BottomNav() {
   const pathname = usePathname();
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 p-4 pb-6 md:pb-4 pointer-events-none flex justify-center">
-      <div className="bg-slate-900/80 backdrop-blur-xl border border-slate-700/50 rounded-2xl shadow-2xl p-2 flex gap-2 pointer-events-auto shadow-purple-900/20">
-        <Link 
-          href="/" 
-          className={`flex items-center gap-2 px-5 py-3 rounded-xl transition-all duration-300 ${
-            pathname === '/' 
-              ? 'bg-gradient-to-r from-purple-600/30 to-indigo-600/30 text-purple-300 border border-purple-500/30 shadow-[inset_0_0_15px_rgba(168,85,247,0.2)]' 
-              : 'text-slate-400 hover:text-slate-200 hover:bg-white/5 border border-transparent'
-          }`}
-        >
-          <Sparkles className={`w-5 h-5 ${pathname === '/' ? 'text-purple-400' : ''}`} />
-          <span className="font-semibold text-sm">Cek Ras</span>
-        </Link>
-        
-        <Link 
-          href="/aura" 
-          className={`flex items-center gap-2 px-5 py-3 rounded-xl transition-all duration-300 ${
-            pathname === '/aura' 
-              ? 'bg-gradient-to-r from-pink-600/30 to-rose-600/30 text-pink-300 border border-pink-500/30 shadow-[inset_0_0_15px_rgba(236,72,153,0.2)]' 
-              : 'text-slate-400 hover:text-slate-200 hover:bg-white/5 border border-transparent'
-          }`}
-        >
-          <Activity className={`w-5 h-5 ${pathname === '/aura' ? 'text-pink-400' : ''}`} />
-          <span className="font-semibold text-sm">Cek Aura</span>
-        </Link>
+    <div className="fixed bottom-0 left-0 right-0 z-50 p-3 pb-5 md:pb-3 pointer-events-none flex justify-center">
+      <div className="bg-slate-900/80 backdrop-blur-xl border border-slate-700/50 rounded-2xl shadow-2xl p-1.5 flex gap-1 pointer-events-auto shadow-purple-900/20">
+        {TABS.map((tab) => {
+          const isActive = pathname === tab.href;
+          const Icon = tab.icon;
+          return (
+            <Link
+              key={tab.href}
+              href={tab.href}
+              className={`flex items-center gap-1.5 px-3.5 py-2.5 rounded-xl transition-all duration-300 ${
+                isActive
+                  ? `bg-linear-to-r ${tab.activeGradient} ${tab.activeText} border ${tab.activeBorder} ${tab.activeShadow}`
+                  : 'text-slate-400 hover:text-slate-200 hover:bg-white/5 border border-transparent'
+              }`}
+            >
+              <Icon className={`w-4 h-4 shrink-0 ${isActive ? tab.activeIcon : ''}`} />
+              <span className="font-semibold text-xs whitespace-nowrap">{tab.label}</span>
+            </Link>
+          );
+        })}
       </div>
     </div>
   );
