@@ -5,6 +5,8 @@
     "nama": "Sang Pejalan",
     "emoji": "🃏",
     "warna": "#a78bfa",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Awal Baru · Spontanitas · Keberanian",
       "deskripsi": "Energi paling fresh sedunia lagi memancar dari dirimu. Kamu siap terjun ke hal baru tanpa terlalu banyak mikir — dan somehow itu justru yang paling tepat saat ini. Bukan nekat, tapi percaya diri. Semesta lagi backing kamu penuh. Gas aja tanpa terlalu banyak plan yang ngalahin moment."
@@ -20,6 +22,8 @@
     "nama": "Sang Penyihir",
     "emoji": "🎩",
     "warna": "#fbbf24",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Manifestasi · Keterampilan · Kekuatan Penuh",
       "deskripsi": "Semua alat ada di tanganmu — otak, kemampuan, koneksi, dan modal. Tinggal kamu yang mau eksekusi atau tetap nongkrong di phase 'nanti aja'. Energimu sedang di peak — ini bukan waktu buat ragu-ragu. Alam semesta udah siapin panggungnya, tinggal kamu yang mau naik atau enggak."
@@ -35,6 +39,8 @@
     "nama": "Sang Pendeta Agung",
     "emoji": "🔮",
     "warna": "#60a5fa",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Intuisi · Misteri · Alam Bawah Sadar",
       "deskripsi": "Alam bawah sadarmu lagi kirim sinyal kencang banget — tapi kamu sibuk scroll dan skip reels. Coba dengerin feeling-mu lebih sering, karena intuisimu sekarang lebih akurat dari ramalan zodiak mana pun. Ada sesuatu yang perlu kamu tahu tapi belum terungkap — sabar."
@@ -50,6 +56,8 @@
     "nama": "Sang Dewi Bumi",
     "emoji": "🌿",
     "warna": "#4ade80",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Kelimpahan · Kreativitas · Kesuburan",
       "deskripsi": "Periode subur banget secara kreatif, finansial, maupun relasional. Apapun yang kamu tanam sekarang akan tumbuh berlipat. Bisa berupa bisnis, karya seni, hubungan, atau bahkan tanaman hias yang mendadak subur. Energimu lagi nurturing dan produktif — manfaatin."
@@ -65,9 +73,11 @@
     "nama": "Sang Kaisar",
     "emoji": "🏛️",
     "warna": "#f87171",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Otoritas · Struktur · Kepemimpinan",
-      "deskripsi": "Energi bos besar sedang merasukimu. Saatnya ambil kendali situasi dan berhenti nunggu orang lain yang mulai duluan. Buat sistem, buat aturan, dan eksekusi dengan disiplin. Kalau bukan kamu yang pegang kendali, siapa lagi? Ini saatnya tancap kaki dan jadi pemimpin."
+      "deskripsi": "Energi bos besar sedang merasukimu. Saatnya ambil kendali situasi dan berhenti nunggu orang lain yang mulai duluan. Buat sistem, buat aturan, dan eksekusi dengan disiplin. Kalau bukan kamu yang pegang kendali, siapa lagi?"
     },
     "reversed": {
       "makna": "Kaku · Terlalu Dominan · Keras Kepala",
@@ -80,6 +90,8 @@
     "nama": "Sang Guru Agung",
     "emoji": "📿",
     "warna": "#f59e0b",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Tradisi · Bimbingan · Kebijaksanaan",
       "deskripsi": "Ada wisdom yang perlu kamu cari dari orang yang lebih berpengalaman — bisa mentor, orang tua, atau senior yang sering kamu anggap kolot. Atau justru kamu yang dipanggil jadi pembimbing bagi orang lain. Ilmu perlu dibagikan, bukan disimpan sendirian."
@@ -95,6 +107,8 @@
     "nama": "Sang Kekasih",
     "emoji": "💞",
     "warna": "#f472b6",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Cinta · Pilihan · Keselarasan",
       "deskripsi": "Ada keputusan besar yang menanti — dan ini bukan cuma soal asmara. Pilihanmu sekarang akan nentuin arah hidupmu ke depan dengan signifikan. Pilih sesuai nilai dan hatimu, bukan sesuai ekspektasi orang lain. Dan kalau soal cinta: energinya lagi sangat bagus."
@@ -110,6 +124,8 @@
     "nama": "Kereta Kemenangan",
     "emoji": "⚡",
     "warna": "#818cf8",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Determinasi · Kemenangan · Kontrol",
       "deskripsi": "Kamu lagi di mode gas pol — fokus tajam, tekad kuat, dan nggak ada yang bisa ngalang-ngalangi. Ini saatnya tancap dan jangan biarkan distraksi menarikmu keluar dari jalur. Kemenangan ada di depan, tapi butuh konsistensi dan disiplin penuh untuk sampai ke sana."
@@ -125,9 +141,11 @@
     "nama": "Sang Kekuatan",
     "emoji": "🦁",
     "warna": "#fb923c",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Keberanian · Kesabaran · Kekuatan Batin",
-      "deskripsi": "Kekuatan sejatimu bukan dari otot, tapi dari kesabaran, keteguhan, dan compassion yang kamu punya. Kamu lebih tangguh dari yang kamu kira — buktinya kamu masih berdiri setelah semua yang sudah kamu lewati. Hadapi tantangan dengan hati yang tenang dan kepala yang dingin."
+      "deskripsi": "Kekuatan sejatimu bukan dari otot, tapi dari kesabaran, keteguhan, dan compassion yang kamu punya. Kamu lebih tangguh dari yang kamu kira — buktinya kamu masih berdiri setelah semua yang sudah kamu lewati."
     },
     "reversed": {
       "makna": "Ragu Diri · Insecure · Kekuatan Terkuras",
@@ -140,6 +158,8 @@
     "nama": "Sang Pertapa",
     "emoji": "🕯️",
     "warna": "#94a3b8",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Introspeksi · Pencarian Diri · Kebijaksanaan Sunyi",
       "deskripsi": "Saatnya menyendiri sebentar dan dengerin suara batinmu sendiri — bukan suara notifikasi atau suara orang-orang di sekitarmu. Periode silent mode ini justru penting untuk nemuin clarity dan arah selanjutnya. Bukan antisosial, tapi investasi ke dalam diri."
@@ -155,6 +175,8 @@
     "nama": "Roda Nasib",
     "emoji": "🎡",
     "warna": "#c084fc",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Siklus · Keberuntungan · Momentum",
       "deskripsi": "Roda kehidupanmu lagi berputar ke atas! Ini momentum yang sayang banget kalau dilewatkan. Manfaatkan setiap peluang yang muncul. Tapi ingat — roda terus berputar, jadi jangan lupa nabung dan invest saat lagi di atas. Keberuntungan suka sama orang yang siap."
@@ -170,9 +192,11 @@
     "nama": "Sang Keadilan",
     "emoji": "⚖️",
     "warna": "#2dd4bf",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Keadilan · Konsekuensi · Keseimbangan",
-      "deskripsi": "Karma lagi aktif bekerja dengan penuh efisiensi. Semua keputusan dan tindakanmu sebelumnya akan ketemu balasannya — yang baik maupun yang kurang baik. Ini bukan ancaman, ini netralnya alam semesta. Pastikan kamu bisa pegang teguh apa yang sudah kamu pilih."
+      "deskripsi": "Karma lagi aktif bekerja dengan penuh efisiensi. Semua keputusan dan tindakanmu sebelumnya akan ketemu balasannya — yang baik maupun yang kurang baik. Ini bukan ancaman, ini netralnya alam semesta."
     },
     "reversed": {
       "makna": "Ketidakadilan · Penghindaran · Sistem Rusak",
@@ -185,9 +209,11 @@
     "nama": "Sang Tergantung",
     "emoji": "🙃",
     "warna": "#22d3ee",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Jeda · Perspektif Baru · Pengorbanan",
-      "deskripsi": "Kamu lagi di fase pause yang mungkin frustasi, tapi ini justru waktu terbaik untuk ganti perspektif total. Coba lihat situasimu dari sudut pandang yang berbeda — bahkan upside down sekalipun. Seringkali solusi yang paling jenius datang dari perspektif yang paling nggak terduga."
+      "deskripsi": "Kamu lagi di fase pause yang mungkin frustasi, tapi ini justru waktu terbaik untuk ganti perspektif total. Coba lihat situasimu dari sudut pandang yang berbeda — bahkan upside down sekalipun. Seringkali solusi paling jenius datang dari perspektif yang paling nggak terduga."
     },
     "reversed": {
       "makna": "Penundaan Sia-sia · Nggak Mau Move On",
@@ -200,6 +226,8 @@
     "nama": "Sang Transformasi",
     "emoji": "💀",
     "warna": "#6b7280",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Akhir · Transformasi · Awal Baru",
       "deskripsi": "Santai dulu — kartu ini bukan soal mati fisik. Ini soal sesuatu dalam hidupmu yang perlu berakhir supaya yang baru bisa dimulai. Relationship toxic, kebiasaan buruk, pekerjaan yang sudah expired, atau versi lamamu yang sudah tidak relevan. Lepaskan dengan damai."
@@ -215,9 +243,11 @@
     "nama": "Sang Penyeimbang",
     "emoji": "⚗️",
     "warna": "#38bdf8",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Keseimbangan · Moderasi · Kesabaran",
-      "deskripsi": "Alam semesta lagi minta kamu untuk slow down dan temukan keseimbangan sejati. Nggak perlu all-or-nothing di segala hal. Middle path itu bukan berarti setengah-setengah — justru di situlah sustainability hidup. Campurkan semua elemen hidupmu dengan proporsi yang tepat."
+      "deskripsi": "Alam semesta lagi minta kamu untuk slow down dan temukan keseimbangan sejati. Nggak perlu all-or-nothing di segala hal. Middle path itu bukan berarti setengah-setengah — justru di situlah sustainability hidup."
     },
     "reversed": {
       "makna": "Berlebihan · Tidak Seimbang · Extreme",
@@ -230,9 +260,11 @@
     "nama": "Sang Iblis",
     "emoji": "😈",
     "warna": "#dc2626",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Terjebak · Obsesi · Belenggu",
-      "deskripsi": "Ada sesuatu yang bikin kamu merasa terjebak — bisa habit buruk, relationship toxic, pola pikir negatif, atau ketagihan scroll media sosial sampai jam 3 pagi. Yang bikin unik: belenggu ini seringkali kamu pasang sendiri tanpa sadar. Kamu tahu apa itu. Sekarang saatnya putuskan."
+      "deskripsi": "Ada sesuatu yang bikin kamu merasa terjebak — bisa habit buruk, relationship toxic, pola pikir negatif, atau ketagihan scroll media sosial sampai jam 3 pagi. Yang bikin unik: belenggu ini seringkali kamu pasang sendiri tanpa sadar. Kamu tahu apa itu."
     },
     "reversed": {
       "makna": "Pembebasan · Melepas Belenggu · Sadar Diri",
@@ -245,9 +277,11 @@
     "nama": "Sang Menara",
     "emoji": "🌩️",
     "warna": "#f97316",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Perubahan Mendadak · Kekacauan · Revelasi",
-      "deskripsi": "Perubahan besar dan tiba-tiba sedang terjadi atau akan segera terjadi. Mungkin mengejutkan, mungkin menyakitkan — tapi seringkali ini adalah hal yang diperlukan. Fondasi yang rapuh memang perlu diruntuhkan agar yang lebih solid bisa dibangun di atasnya. Ini bukan akhir."
+      "deskripsi": "Perubahan besar dan tiba-tiba sedang terjadi atau akan segera terjadi. Mungkin mengejutkan, mungkin menyakitkan — tapi seringkali ini adalah hal yang diperlukan. Fondasi yang rapuh memang perlu diruntuhkan agar yang lebih solid bisa dibangun di atasnya."
     },
     "reversed": {
       "makna": "Menghindari Bencana · Perubahan Ditunda",
@@ -260,9 +294,11 @@
     "nama": "Sang Bintang",
     "emoji": "⭐",
     "warna": "#93c5fd",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Harapan · Inspirasi · Pemulihan",
-      "deskripsi": "Setelah semua chaos yang kamu lewati, ada cahaya harapan yang nyata dan terang di depan. Energi semestamu lagi sangat positif dan healing. Percaya prosesnya, percaya dirimu, dan yakin bahwa semuanya memang akan baik-baik saja. Bintangimu sedang bersinar."
+      "deskripsi": "Setelah semua chaos yang kamu lewati, ada cahaya harapan yang nyata dan terang di depan. Energi semestamu lagi sangat positif dan healing. Percaya prosesnya, percaya dirimu, dan yakin bahwa semuanya memang akan baik-baik saja."
     },
     "reversed": {
       "makna": "Putus Asa · Kehilangan Arah · Krisis Keyakinan",
@@ -275,13 +311,15 @@
     "nama": "Sang Rembulan",
     "emoji": "🌙",
     "warna": "#a5b4fc",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Ilusi · Ketidakpastian · Alam Bawah Sadar",
-      "deskripsi": "Segala sesuatu tidak seperti yang terlihat — ada yang disembunyikan, ada yang belum terungkap, dan intuisimu terus kasih sinyal aneh. Percayai insting, tapi juga jangan sampai parno dan curiga berlebihan. Kabut akan terangkat pada waktunya — tugasmu adalah tetap sabar dan waspada."
+      "deskripsi": "Segala sesuatu tidak seperti yang terlihat — ada yang disembunyikan, ada yang belum terungkap, dan intuisimu terus kasih sinyal aneh. Percayai insting, tapi juga jangan sampai parno dan curiga berlebihan. Kabut akan terangkat pada waktunya."
     },
     "reversed": {
       "makna": "Kebingungan Teratasi · Kejelasan Datang",
-      "deskripsi": "Kabut mulai terangkat! Situasi yang dulu membingungkan dan penuh ilusi mulai keliatan jelas wujud aslinya. Kamu mulai bisa bedain mana yang genuine dan mana yang sekadar pertunjukan. Kepercayaan yang selama ini bikin ragu sudah bisa mulai kamu tempatkan dengan lebih tepat."
+      "deskripsi": "Kabut mulai terangkat! Situasi yang dulu membingungkan dan penuh ilusi mulai keliatan jelas wujud aslinya. Kamu mulai bisa bedain mana yang genuine dan mana yang sekadar pertunjukan."
     }
   },
   {
@@ -290,6 +328,8 @@
     "nama": "Sang Surya",
     "emoji": "☀️",
     "warna": "#fde047",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Kebahagiaan · Vitalitas · Keberhasilan",
       "deskripsi": "Kartu paling bright dan happy di seluruh tarot! Energimu sedang bersinar sangat terang, keberuntungan berpihak kepadamu, dan hidup terasa genuinely menyenangkan. Nikmatin momen ini sepenuhnya tanpa rasa bersalah. Kamu berhak happy, dan semesta setuju."
@@ -305,13 +345,15 @@
     "nama": "Sang Penghakiman",
     "emoji": "📯",
     "warna": "#e2e8f0",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Kebangkitan · Panggilan Jiwa · Evaluasi Besar",
-      "deskripsi": "Kamu lagi di momen reckoning — saatnya evaluasi besar dan dengar panggilan jiwa yang sebenarnya. Ini bukan soal penilaian orang lain, tapi penilaian dirimu sendiri terhadap hidupmu sendiri. Apakah kamu sudah hidup sesuai nilai-nilaimu? Jawabannya menentukan langkah selanjutnya."
+      "deskripsi": "Kamu lagi di momen reckoning — saatnya evaluasi besar dan dengar panggilan jiwa yang sebenarnya. Ini bukan soal penilaian orang lain, tapi penilaian dirimu sendiri terhadap hidupmu sendiri. Apakah kamu sudah hidup sesuai nilai-nilaimu?"
     },
     "reversed": {
       "makna": "Menyalahkan Diri · Keraguan · Tidak Mau Evaluasi",
-      "deskripsi": "Kamu terlalu keras dalam menghakimi diri sendiri — inner critic-mu lagi on overdrive dan kamu percaya semua omongannya yang toxic. Atau kamu justru menghindari evaluasi jujur karena takut sama kebenarannya. Saatnya berdamai dengan masa lalu agar bisa melangkah ke depan."
+      "deskripsi": "Kamu terlalu keras dalam menghakimi diri sendiri — inner critic-mu lagi on overdrive. Atau kamu justru menghindari evaluasi jujur karena takut sama kebenarannya. Saatnya berdamai dengan masa lalu agar bisa melangkah ke depan."
     }
   },
   {
@@ -320,13 +362,967 @@
     "nama": "Sang Dunia",
     "emoji": "🌍",
     "warna": "#34d399",
+    "suit": "Major Arcana",
+    "suit_emoji": "⭐",
     "upright": {
       "makna": "Penyelesaian · Pencapaian · Integrasi",
-      "deskripsi": "Siklus besar dalam hidupmu hampir atau sudah selesai. Kamu sudah melewati banyak sekali — dan sekarang sampai di titik yang layak kamu rayakan. Ini bukan akhir, ini graduation menuju siklus berikutnya yang lebih besar. Selamat, dan nikmati moment ini dengan bangga."
+      "deskripsi": "Siklus besar dalam hidupmu hampir atau sudah selesai. Kamu sudah melewati banyak sekali — dan sekarang sampai di titik yang layak kamu rayakan. Ini bukan akhir, ini graduation menuju siklus berikutnya yang lebih besar. Selamat!"
     },
     "reversed": {
       "makna": "Penyelesaian Tertunda · Shortcut · Setengah Jalan",
       "deskripsi": "Kamu hampir sampai di garis finish tapi sepertinya mau ambil jalan pintas di ujung perjalanan. Jangan — selesaikan dengan benar dan lengkap supaya kamu bisa puas dan bangga secara total. Setengah selesai itu sama dengan setengah mulai."
+    }
+  },
+  {
+    "id": 22,
+    "kartu": "Ace of Wands",
+    "nama": "Tongkat Pertama",
+    "emoji": "🪄",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Inspirasi · Percikan Awal · Hasrat Baru",
+      "deskripsi": "Ide cemerlang baru saja meledak di kepalamu seperti kembang api dadakan. Energi ini perlu disalurkan SEKARANG sebelum padam. Mulai aja dulu, detail belakangan — momennya lagi perfect dan nggak akan nunggu kamu lama-lama mikir."
+    },
+    "reversed": {
+      "makna": "Mandek · Energi Terganjal · Prokrastinasi",
+      "deskripsi": "Idenya ada, semangatnya entah lagi kemana. Kamu tahu mau ngapain tapi susah banget mulai. Paksa satu langkah kecil saja — momentum biasanya datang setelah langkah pertama, bukan sebelumnya."
+    }
+  },
+  {
+    "id": 23,
+    "kartu": "Two of Wands",
+    "nama": "Dua Tongkat",
+    "emoji": "🗺️",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Visi · Perencanaan · Dunia di Tanganmu",
+      "deskripsi": "Kamu sudah punya fondasi yang bagus dan sekarang saatnya plan langkah berikutnya yang lebih besar. Dunia terbuka lebar di depanmu — pilih arah dengan bold, bukan dengan ragu-ragu yang bikin momentumnya hilang."
+    },
+    "reversed": {
+      "makna": "Takut Melangkah · Analisis Berlebih",
+      "deskripsi": "Terlalu banyak planning sampai nggak pernah eksekusi. Peta sudah digambar berkali-kali tapi perjalanannya belum dimulai. Kapan rencananya jadi kenyataan? Analisis itu perlu, tapi ada titiknya harus berhenti dan mulai jalan."
+    }
+  },
+  {
+    "id": 24,
+    "kartu": "Three of Wands",
+    "nama": "Tiga Tongkat",
+    "emoji": "⛵",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Ekspansi · Menanti Hasil · Progress",
+      "deskripsi": "Benih yang kamu tanam sudah berkecambah dan kapal-kapalmu mulai berlayar ke cakrawala. Ini fase menunggu yang produktif — stay ready untuk ketika hasilnya mulai berdatangan dari arah yang mungkin tidak kamu duga."
+    },
+    "reversed": {
+      "makna": "Keterlambatan · Ekspansi Terhambat",
+      "deskripsi": "Progress terhambat oleh faktor yang di luar kontrolmu — atau mungkin juga yang di dalam kontrolmu. Identifikasi mana yang bisa diubah dan fokus di sana dulu daripada mengeluhkan yang tidak bisa."
+    }
+  },
+  {
+    "id": 25,
+    "kartu": "Four of Wands",
+    "nama": "Empat Tongkat",
+    "emoji": "🎪",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Selebrasi · Stabilitas · Rumah",
+      "deskripsi": "Saatnya rayakan pencapaian yang sudah kamu capai — besar maupun kecil. Istirahat sejenak, apresiasi prosesnya, dan nikmati momen stabilitas yang sudah kamu bangun dengan susah payah ini. Kamu berhak perayaan yang proper."
+    },
+    "reversed": {
+      "makna": "Disharmoni · Ketidakstabilan",
+      "deskripsi": "Ada yang tidak harmonis di lingkungan terdekatmu — entah di rumah, keluarga, atau inner circle. Di luar kelihatan fine tapi dalamnya ada ketegangan yang perlu diakui dan diselesaikan, bukan didiamkan."
+    }
+  },
+  {
+    "id": 26,
+    "kartu": "Five of Wands",
+    "nama": "Lima Tongkat",
+    "emoji": "🤺",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Kompetisi · Konflik Kecil · Ego Bertabrakan",
+      "deskripsi": "Banyak pihak dengan agenda dan ego masing-masing lagi rebutan pengaruh dan perhatian di sekelilingmu. Navigate dengan smart — menangkan yang perlu dimenangkan, biarkan yang tidak worth your time and energy."
+    },
+    "reversed": {
+      "makna": "Konflik Mereda · Damai Rapuh",
+      "deskripsi": "Konflik yang ada mulai mereda atau sengaja dihindari semua pihak. Damai yang rapuh lebih baik dari perang yang tidak perlu — tapi pastikan isu utamanya tetap diselesaikan suatu saat, bukan hanya dikubur hidup-hidup."
+    }
+  },
+  {
+    "id": 27,
+    "kartu": "Six of Wands",
+    "nama": "Enam Tongkat",
+    "emoji": "🏆",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Kemenangan · Pengakuan · Sukses Publik",
+      "deskripsi": "Momen kemenangan dan pengakuan yang sangat kamu deserve akhirnya datang. Terima dengan graceful dan rayakan dengan sepantasnya — kamu sudah kerja keras untuk ini dan orang-orang melihatnya."
+    },
+    "reversed": {
+      "makna": "Ego Terluka · Kemenangan Tanpa Apresiasi",
+      "deskripsi": "Pengakuan yang kamu harapkan tidak datang dalam bentuk yang kamu bayangkan. Atau kemenangan ada tapi terasa hampa. Cek apakah definisi suksesmu sudah benar-benar milikmu sendiri, bukan versi orang lain."
+    }
+  },
+  {
+    "id": 28,
+    "kartu": "Seven of Wands",
+    "nama": "Tujuh Tongkat",
+    "emoji": "🛡️",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Mempertahankan · Ketahanan · Stand Your Ground",
+      "deskripsi": "Kamu di posisi yang diinginkan banyak orang dan harus defend dari berbagai sudut sekaligus. Tetap di tanahmu sendiri, percaya pada apa yang sudah kamu bangun, dan jangan bergeser hanya karena tekanan dari luar."
+    },
+    "reversed": {
+      "makna": "Kewalahan · Menyerah Terlalu Cepat",
+      "deskripsi": "Lelah mempertahankan posisimu di tengah tekanan dari semua arah. Penting untuk tahu kapan bertahan dan kapan menyesuaikan strategi — ini bukan menyerah, ini kebijaksanaan yang disebut orang bijak sebagai taktis."
+    }
+  },
+  {
+    "id": 29,
+    "kartu": "Eight of Wands",
+    "nama": "Delapan Tongkat",
+    "emoji": "🚀",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Kecepatan · Berita Cepat · Momentum",
+      "deskripsi": "Semua bergerak sangat cepat sekarang — berita datang, keputusan perlu dibuat, dan perubahan terjadi dalam hitungan hari. Siapkan diri untuk ride the momentum ini, bukan melawannya. Energi cepat ini akan segera berlalu."
+    },
+    "reversed": {
+      "makna": "Keterlambatan · Komunikasi Bermasalah",
+      "deskripsi": "Yang harusnya cepat malah tersangkut entah di mana. Informasi tidak sampai, reply telat, dan semua orang saling tunggu. Cek ulang apakah ada yang miscommunication di rantai komunikasimu — kemungkinan besar ada."
+    }
+  },
+  {
+    "id": 30,
+    "kartu": "Nine of Wands",
+    "nama": "Sembilan Tongkat",
+    "emoji": "🏰",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Ketahanan · Hampir Sampai · Waspada",
+      "deskripsi": "Kamu udah melewati banyak banget dan hampir sampai di garis finish — tapi jaga tetap waspada. Satu putaran lagi. Jangan menyerah sekarang karena kamu sudah di 90% perjalanannya. Ini bukan waktunya berhenti."
+    },
+    "reversed": {
+      "makna": "Paranoia · Kelelahan Ekstrim",
+      "deskripsi": "Terlalu lama bertahan sampai kamu jadi sangat defensive dan susah trust siapapun. Kelelahan ini nyata dan butuh ditangani dengan serius — bukan ditekan demi terlihat kuat di mata orang lain."
+    }
+  },
+  {
+    "id": 31,
+    "kartu": "Ten of Wands",
+    "nama": "Sepuluh Tongkat",
+    "emoji": "🎒",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Beban Berlebih · Over-responsible · Kelelahan",
+      "deskripsi": "Kamu menanggung terlalu banyak tanggung jawab — mungkin karena kamu yang paling capable di antara semua orang. Tapi ini tidak sustainable. Delegasi itu bukan kelemahan, itu strategi cerdas untuk bertahan jangka panjang."
+    },
+    "reversed": {
+      "makna": "Melepas Beban · Akhirnya Minta Bantuan",
+      "deskripsi": "Kamu akhirnya mulai melepaskan beberapa beban yang bukan tanggung jawabmu sendiri. Minta bantuan itu bukan kalah — itu cerdas. Perjalananmu jauh lebih ringan mulai sekarang dan jangkauanmu justru akan lebih jauh."
+    }
+  },
+  {
+    "id": 32,
+    "kartu": "Page of Wands",
+    "nama": "Prajurit Tongkat",
+    "emoji": "📜",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Antusias · Eksplorasi · Berani Mencoba",
+      "deskripsi": "Energi segar dan antusias yang siap explore tanpa takut terlihat tidak tahu. Ikuti rasa ingin tahu ini dengan tangan terbuka — itu akan membawamu ke tempat yang mengejutkan dengan cara yang sangat menyenangkan."
+    },
+    "reversed": {
+      "makna": "Terburu-buru · Kurang Follow-through",
+      "deskripsi": "Excited di awal tapi susah jaga energinya sampai akhir. Banyak yang dimulai, sedikit yang selesai. Coba commit ke satu hal dulu dan lihat sampai selesai sebelum mulai proyek atau adventure berikutnya."
+    }
+  },
+  {
+    "id": 33,
+    "kartu": "Knight of Wands",
+    "nama": "Ksatria Tongkat",
+    "emoji": "🐎",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Berani · Petualangan · Penuh Gairah",
+      "deskripsi": "Petualang yang siap gas tanpa terlalu banyak mikir konsekuensi — dan somehow itu often works. Energi dan charismamu menular dan orang-orang tertarik pada nyala api yang kamu bawa ke mana pun kamu pergi."
+    },
+    "reversed": {
+      "makna": "Gegabah · Temperamental · Sering Ganti Arah",
+      "deskripsi": "Energi yang bagus tapi tanpa arah yang konsisten. Setiap ada distraksi baru langsung ditinggal yang lama. Impulsivitas tanpa strategi akan melelahkanmu sendiri lebih cepat dari yang kamu kira — dan kamu akan berakhir di titik yang sama."
+    }
+  },
+  {
+    "id": 34,
+    "kartu": "Queen of Wands",
+    "nama": "Ratu Tongkat",
+    "emoji": "👸",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Karismatik · Percaya Diri · Passionate",
+      "deskripsi": "Kamu jadi pusat perhatian bukan karena minta tapi karena genuinely jadi dirimu yang paling authentic dan passionate. Magnetic energy ini powerful dan menginspirasi orang di sekitarmu tanpa harus berusaha keras."
+    },
+    "reversed": {
+      "makna": "Insecure · Burnout · Mencari Validasi",
+      "deskripsi": "Percaya dirimu sedang goyah dan kamu coba kompensasi dengan cara yang kurang sehat — entah dengan drama, dominasi, atau mencari validasi dari luar terus-menerus. Balik ke dalam diri dulu untuk recharge kekuatan aslimu."
+    }
+  },
+  {
+    "id": 35,
+    "kartu": "King of Wands",
+    "nama": "Raja Tongkat",
+    "emoji": "👑",
+    "warna": "#f97316",
+    "suit": "Tongkat Api",
+    "suit_emoji": "🔥",
+    "upright": {
+      "makna": "Visioner · Pemimpin · Inspirasi Sejati",
+      "deskripsi": "Natural leader yang membawa visi besar dan orang-orang mau ikut bukan karena harus tapi karena genuinely terinspirasi. Ini saat terbaik untuk mulai atau pimpin sesuatu yang meaningful, besar, dan lasting."
+    },
+    "reversed": {
+      "makna": "Arogan · Pemarah · Egomaniak",
+      "deskripsi": "Kualitas leadership ada tapi sedang dibayangi ego yang membesar dan temperamen yang meledak-ledak. Pemimpin sejati mengendalikan dirinya sendiri sebelum bisa memimpin orang lain — itu hukum pertama kepemimpinan."
+    }
+  },
+  {
+    "id": 36,
+    "kartu": "Ace of Cups",
+    "nama": "Cangkir Pertama",
+    "emoji": "🏺",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Cinta Baru · Emosi Meluap · Intuisi Terbuka",
+      "deskripsi": "Overflow of pure emotion yang sangat menyenangkan — entah jatuh cinta mendalam, inspirasi kreatif yang mengalir deras, atau koneksi spiritual yang tiba-tiba terasa sangat nyata. Biarkan cangkir ini penuh dan tumpah dengan natural."
+    },
+    "reversed": {
+      "makna": "Emosi Terblokir · Hati Tertutup",
+      "deskripsi": "Perasaan yang ingin sekali kamu express tapi ada sesuatu yang menghalangi — entah ketakutan, luka lama, atau pertahanan yang sudah terlalu tebal. Cangkir penuh tapi tutupnya dikunci rapat oleh dirimu sendiri."
+    }
+  },
+  {
+    "id": 37,
+    "kartu": "Two of Cups",
+    "nama": "Dua Cangkir",
+    "emoji": "🥂",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Koneksi Mutual · Partnership · Saling Memilih",
+      "deskripsi": "Ada yang melihatmu dan kamu melihat mereka — pada level yang sama dalamnya dan dengan intensitas yang sama. Entah romantis atau partnership profesional, ini koneksi yang genuinely worth dirawat dan diperjuangkan."
+    },
+    "reversed": {
+      "makna": "Disconnection · Satu Pihak Lebih Invested",
+      "deskripsi": "Hubungan yang ada mulai kehilangan nyala-nya atau ada imbalance yang belum diakui oleh kedua pihak. Perlu intentional effort untuk reconnect — atau honest conversation tentang apakah ini masih worth dilanjutkan."
+    }
+  },
+  {
+    "id": 38,
+    "kartu": "Three of Cups",
+    "nama": "Tiga Cangkir",
+    "emoji": "🎉",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Persahabatan · Selebrasi · Komunitas",
+      "deskripsi": "Waktu terbaik untuk kumpul dan rayakan bersama orang-orang yang genuinely ada untuk kamu suka maupun duka. Persahabatanmu sedang di fase yang paling nourishing dan joyful — nikmatin momen ini sepenuhnya."
+    },
+    "reversed": {
+      "makna": "Drama Pertemanan · Gosip · Toxic Triangle",
+      "deskripsi": "Ada yang tidak beres dalam dinamika pertemananmu — gosip berputar, iri-irian yang tidak diucapkan, atau toxic triangle yang menciptakan ketegangan bawah permukaan. Evaluasi siapa yang tulus dan siapa yang tidak."
+    }
+  },
+  {
+    "id": 39,
+    "kartu": "Four of Cups",
+    "nama": "Empat Cangkir",
+    "emoji": "😑",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Kontemplasi · Apatis · Mencari Makna",
+      "deskripsi": "Semuanya terasa 'gitu-gitu aja' dan kamu tidak excited dengan hal apapun yang ditawarkan saat ini. Ini fase introspeksi yang perlu — tapi jangan sampai apatis menghalangimu dari peluang bagus yang ada tepat di depanmu."
+    },
+    "reversed": {
+      "makna": "Mulai Terbuka · Keluar dari Kelesuan",
+      "deskripsi": "Fase withdrawal dan kebosanan mulai berakhir akhirnya. Kamu mulai mau terbuka lagi pada kemungkinan dan peluang baru. Sambut ini dengan tangan terbuka — momen ini akan berlalu kalau tidak segera ditangkap."
+    }
+  },
+  {
+    "id": 40,
+    "kartu": "Five of Cups",
+    "nama": "Lima Cangkir",
+    "emoji": "😢",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Kehilangan · Penyesalan · Grief",
+      "deskripsi": "Kamu sedang berduka atas sesuatu yang hilang atau tidak berjalan sesuai harapan — dan itu valid sepenuhnya. Luangkan waktu untuk merasakan kesedihan ini. Tapi jangan sampai lupa melihat apa yang masih tersisa dan bisa diselamatkan."
+    },
+    "reversed": {
+      "makna": "Penerimaan · Moving On · Healing",
+      "deskripsi": "Kamu mulai bisa menerima kehilangan dan melihat ke depan tanpa beban yang sama beratnya. Proses ini tidak linear dan tidak harus sempurna — yang penting arahnya sudah mulai benar dan langkahnya mulai ke depan."
+    }
+  },
+  {
+    "id": 41,
+    "kartu": "Six of Cups",
+    "nama": "Enam Cangkir",
+    "emoji": "🌸",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Nostalgia · Kenangan Indah · Masa Kecil",
+      "deskripsi": "Masa lalu sedang memanggil dengan cara yang indah — kenangan indah, orang-orang dari dulu, atau pola yang familiar dan nyaman. Nikmati kunjungan nostalgic ini tapi ingat untuk kembali ke masa kini yang tidak kalah berharganya."
+    },
+    "reversed": {
+      "makna": "Terjebak di Masa Lalu · Sulit Move On",
+      "deskripsi": "Kamu terlalu banyak hidup di kenangan dan harapan masa lalu sampai susah hadir dan menikmati masa kini. Kenangan itu manis, tapi hidupmu ada di sini, sekarang, di momen ini yang sedang kamu lewatkan."
+    }
+  },
+  {
+    "id": 42,
+    "kartu": "Seven of Cups",
+    "nama": "Tujuh Cangkir",
+    "emoji": "🌀",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Ilusi · Fantasi · Pilihan Membingungkan",
+      "deskripsi": "Terlalu banyak opsi dan kemungkinan sampai susah bedain mana yang nyata dan mana yang sekadar wishful thinking. Ground diri ke realita dulu sebelum mengambil keputusan apapun — clarity akan datang kalau kamu mau diam sejenak."
+    },
+    "reversed": {
+      "makna": "Clarity Datang · Pilihan Nyata Terlihat",
+      "deskripsi": "Kabut ilusi mulai terangkat dan kamu bisa melihat mana opsi yang benar-benar viable dan mana yang cuma fantasi. Saatnya buat keputusan yang solid berdasarkan kenyataan, bukan berdasarkan harapan atau imajinasi semata."
+    }
+  },
+  {
+    "id": 43,
+    "kartu": "Eight of Cups",
+    "nama": "Delapan Cangkir",
+    "emoji": "🚶",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Meninggalkan · Mencari Lebih · Walk Away",
+      "deskripsi": "Kamu memilih untuk pergi dari sesuatu yang sudah tidak lagi nourish kamu — meski masih ada sisa yang bisa disimpan. Ini bukan kekalahan atau pengabaian, ini keberanian untuk menghargai dirimu sendiri dan apa yang kamu layak dapatkan."
+    },
+    "reversed": {
+      "makna": "Bertahan · Takut Meninggalkan · Stuck",
+      "deskripsi": "Kamu tahu sudah saatnya pergi tapi tetap bertahan karena comfort zone, rasa bersalah, atau ketakutan tentang 'terus gimana?'. Pertanyaan itu harus dijawab, bukan dihindari — jawaban itu ada di dalam dirimu sendiri."
+    }
+  },
+  {
+    "id": 44,
+    "kartu": "Nine of Cups",
+    "nama": "Sembilan Cangkir",
+    "emoji": "😌",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Kepuasan · Wish Granted · Happy Ending",
+      "deskripsi": "The wish card! Sesuatu yang kamu inginkan dalam waktu lama akan segera terwujud, atau mungkin sudah ada di depanmu tapi kamu belum notice karena terlalu sibuk menginginkan yang belum ada. Nikmati kepuasan yang sangat kamu deserve ini."
+    },
+    "reversed": {
+      "makna": "Kebahagiaan Dangkal · Belum Puas",
+      "deskripsi": "Di permukaan terlihat punya segalanya, tapi ada kekosongan di dalam yang belum terpenuhi. Kepuasan sejati butuh lebih dari pencapaian material atau validasi dari orang lain. Inner work dulu sebelum outer work bisa benar-benar terasa meaningful."
+    }
+  },
+  {
+    "id": 45,
+    "kartu": "Ten of Cups",
+    "nama": "Sepuluh Cangkir",
+    "emoji": "🏡",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Harmoni Keluarga · Fulfillment · Happy Ever After",
+      "deskripsi": "Kebahagiaan sejati dalam relasi dan 'rumah' dalam arti paling mendalam — circle yang saling mencintai dan mendukung. Ini puncak kepuasan emosional yang sangat layak kamu syukuri dan jaga dengan sepenuh hati."
+    },
+    "reversed": {
+      "makna": "Disharmoni · Ekspektasi vs Realita",
+      "deskripsi": "Ada ketidakharmonisan dalam circle terdekatmu yang perlu ditangani dengan empati, kesabaran, dan komunikasi yang jujur. 'Happy family' itu bukan default — harus dibangun dan dirawat aktif setiap hari oleh semua pihak."
+    }
+  },
+  {
+    "id": 46,
+    "kartu": "Page of Cups",
+    "nama": "Prajurit Cangkir",
+    "emoji": "🐟",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Pesan Emosional · Kreativitas · Intuisi Muda",
+      "deskripsi": "Pesan atau berita yang emotionally significant akan datang dari arah yang tidak kamu duga. Tetap open, percaya intuisimu, dan izinkan dirimu untuk merespon dengan hati bukan hanya kepala yang selalu mau menganalisis segalanya."
+    },
+    "reversed": {
+      "makna": "Emotional Immaturity · Sulk Mode",
+      "deskripsi": "Kamu atau seseorang di sekitarmu bereaksi secara emosional yang kurang dewasa — sulk, tantrum, atau menghilang tanpa komunikasi. Pause dulu sebelum respond, karena reaksi pertama seringkali bukan yang terbaik."
+    }
+  },
+  {
+    "id": 47,
+    "kartu": "Knight of Cups",
+    "nama": "Ksatria Cangkir",
+    "emoji": "🦢",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Romantis · Charming · Idealis",
+      "deskripsi": "Sosok yang datang membawa perasaan yang menggebu, kata-kata yang indah, dan visi yang sangat romantis. Ini bisa dirimu sendiri atau seseorang yang sedang atau akan masuk ke hidupmu dengan cara yang memorable."
+    },
+    "reversed": {
+      "makna": "Moody · Tidak Realistis · Jatuh Cinta dengan Ide",
+      "deskripsi": "Romantisisme yang berlebihan sampai kehilangan konteks realita. Kamu atau seseorang jatuh cinta dengan ide tentang seseorang, bukan orangnya yang sesungguhnya — dan itu perbedaan yang sangat besar dan sangat penting."
+    }
+  },
+  {
+    "id": 48,
+    "kartu": "Queen of Cups",
+    "nama": "Ratu Cangkir",
+    "emoji": "🧜",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Empatik · Intuitif · Penuh Kasih",
+      "deskripsi": "Kapasitas empatik dan intuitifmu sedang di puncak. Orang-orang datang padamu untuk dilihat, didengar, dan dikuatkan — dan kamu mampu memberikan itu semua dengan tulus, penuh, dan tanpa menghakimi."
+    },
+    "reversed": {
+      "makna": "Co-dependent · Emotional Overwhelm",
+      "deskripsi": "Kamu terlalu banyak absorb emosi orang lain sampai kehilangan batas antara perasaanmu sendiri dan perasaan mereka. Emotional boundaries itu bukan egois — itu penting untuk keberlangsunganmu dalam jangka panjang."
+    }
+  },
+  {
+    "id": 49,
+    "kartu": "King of Cups",
+    "nama": "Raja Cangkir",
+    "emoji": "🐳",
+    "warna": "#60a5fa",
+    "suit": "Cangkir Air",
+    "suit_emoji": "💧",
+    "upright": {
+      "makna": "Kedewasaan Emosional · Diplomat · Pemimpin Berempati",
+      "deskripsi": "Kemampuan memimpin dengan hati yang terbuka tanpa kehilangan kejelasan pikiran adalah sesuatu yang sangat langka. Orang-orang menaruh kepercayaan pada kebijaksanaan dan ketenangan yang kamu pancarkan."
+    },
+    "reversed": {
+      "makna": "Manipulatif Emosional · Unstable",
+      "deskripsi": "Emosi sedang sangat volatile dan memengaruhi kemampuanmu dalam mengambil keputusan yang sehat dan bijak untuk semua pihak. Stabilkan diri dulu sebelum membuat keputusan yang berpotensi berdampak besar."
+    }
+  },
+  {
+    "id": 50,
+    "kartu": "Ace of Swords",
+    "nama": "Pedang Pertama",
+    "emoji": "⚔️",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Kebenaran · Clarity Total · Breakthrough Mental",
+      "deskripsi": "Kejelasan seperti sambaran kilat datang memotong semua kebingungan dan kekaburan. Kamu bisa melihat situasi dengan sangat jernih dan tahu persis langkah apa yang perlu diambil. Act on this clarity sekarang — jangan tunda."
+    },
+    "reversed": {
+      "makna": "Kebingungan · Distorsi Informasi",
+      "deskripsi": "Pikiranmu sedang sangat cloudy dan susah sekali melihat situasi dengan jernih. Tunda keputusan besar sampai clarity datang — membuat keputusan dari keadaan bingung dan emosional jarang berakhir dengan baik."
+    }
+  },
+  {
+    "id": 51,
+    "kartu": "Two of Swords",
+    "nama": "Dua Pedang",
+    "emoji": "🙈",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Buntu · Tidak Mau Memilih · Pura-pura Tidak Tahu",
+      "deskripsi": "Kamu tahu kedua opsi dengan sangat baik tapi memilih untuk menutup mata dan tidak memilih. Tapi refusing to choose juga adalah sebuah pilihan — dan biasanya bukan pilihan yang memberikan hasil terbaik."
+    },
+    "reversed": {
+      "makna": "Stalemate Berakhir · Informasi Baru",
+      "deskripsi": "Kebuntuan mulai cair akhirnya. Informasi atau perspektif baru akan datang yang membantu kamu melihat dengan lebih jelas dan akhirnya bisa membuat keputusan yang sudah lama tertunda ini."
+    }
+  },
+  {
+    "id": 52,
+    "kartu": "Three of Swords",
+    "nama": "Tiga Pedang",
+    "emoji": "💔",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Patah Hati · Pengkhianatan · Grief",
+      "deskripsi": "Rasa sakit yang sangat nyata dan valid sedang kamu rasakan — entah dari pengkhianatan, kekecewaan besar, atau kehilangan yang tidak terduga. Allow yourself to feel it sepenuhnya, bukan ditekan ke dalam."
+    },
+    "reversed": {
+      "makna": "Healing dari Luka · Menerima Kenyataan",
+      "deskripsi": "Luka-luka yang dalam mulai menutup meski masih terasa perih. Kamu tidak harus sepenuhnya sembuh untuk bisa melangkah maju — cukup kuat untuk satu langkah kecil ke depan sudah lebih dari cukup."
+    }
+  },
+  {
+    "id": 53,
+    "kartu": "Four of Swords",
+    "nama": "Empat Pedang",
+    "emoji": "😴",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Istirahat · Meditasi · Pemulihan",
+      "deskripsi": "Kamu BUTUH istirahat total dari pertempuran dan tekanan yang terus-menerus. Ini bukan menyerah — ini retreat strategis untuk mengisi ulang energi sebelum kembali ke arena dengan jauh lebih kuat dari sebelumnya."
+    },
+    "reversed": {
+      "makna": "Kembali Bergerak · Sudah Cukup Istirahat",
+      "deskripsi": "Periode istirahat dan pemulihan sudah cukup dan tubuh-pikiranmu siap untuk kembali bergerak maju. Jangan biarkan istirahat yang sehat berubah menjadi inertia yang justru menghalangi progressmu."
+    }
+  },
+  {
+    "id": 54,
+    "kartu": "Five of Swords",
+    "nama": "Lima Pedang",
+    "emoji": "😤",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Konflik · Pyrrhic Victory · Menang dengan Cara Kotor",
+      "deskripsi": "Kamu bisa menang di sini — tapi dengan cara apa, dan dengan mengorbankan apa? Kemenangan yang menghabiskan semua sumber daya, relasi, dan integritas bukan benar-benar kemenangan di akhir hari."
+    },
+    "reversed": {
+      "makna": "Damai · Move On dari Pertengkaran",
+      "deskripsi": "Konflik ini sudah tidak worth dilanjutkan lebih jauh dan semua pihak mulai lelah. Lebih bijak untuk ambil pelajaran yang bisa diambil dan pergi dengan kepala tegak daripada terus pertahankan ego yang sudah kelelahan."
+    }
+  },
+  {
+    "id": 55,
+    "kartu": "Six of Swords",
+    "nama": "Enam Pedang",
+    "emoji": "🛶",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Transisi · Meninggalkan Kesulitan · Menuju Ketenangan",
+      "deskripsi": "Kamu sedang bergerak perlahan tapi pasti menuju perairan yang lebih tenang setelah badai panjang yang melelahkan. Perjalanannya tidak instant dan mungkin masih ada sisa-sisa ombak, tapi arahnya sudah sangat benar."
+    },
+    "reversed": {
+      "makna": "Stuck · Tidak Bisa Pergi",
+      "deskripsi": "Kamu tahu harus bergerak ke depan tapi ada sesuatu yang terus menarik kembali ke tempat yang menyakitkan dan menahan. Identifikasi 'jangkar' itu — apakah layak untuk terus dipegang atau sudah saatnya dilepas sepenuhnya?"
+    }
+  },
+  {
+    "id": 56,
+    "kartu": "Seven of Swords",
+    "nama": "Tujuh Pedang",
+    "emoji": "🦊",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Strategi Tersembunyi · Cunning · Solo Mission",
+      "deskripsi": "Butuh taktik yang lebih subtil dalam situasi ini. Tidak semua pertempuran dimenangkan dengan frontal dan terang-terangan — kadang perlu bergerak diam-diam dan cerdik untuk mencapai tujuan yang penting bagimu."
+    },
+    "reversed": {
+      "makna": "Tipu Daya Terungkap · Jujur pada Diri Sendiri",
+      "deskripsi": "Ada yang disembunyikan dari kamu atau kamu sendiri yang menyembunyikan sesuatu — dari orang lain maupun dari diri sendiri. Saatnya untuk jujur sebelum kebohongan itu terlalu besar untuk ditutup-tutupi lebih lama lagi."
+    }
+  },
+  {
+    "id": 57,
+    "kartu": "Eight of Swords",
+    "nama": "Delapan Pedang",
+    "emoji": "🕶️",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Self-Imposed Prison · Batasan Pikiran",
+      "deskripsi": "Kamu merasa sangat terjebak dan tidak berdaya. Tapi banyak pedang yang memagarimu itu sebenarnya ada di pikiranmu sendiri, bukan realita yang sesungguhnya. Satu langkah kecil untuk test batas itu akan membuktikannya dengan dramatis."
+    },
+    "reversed": {
+      "makna": "Pembebasan Diri · Sadar akan Kekuatan Sendiri",
+      "deskripsi": "Kamu mulai sadar bahwa banyak batasan selama ini adalah constructs dalam pikiranmu, bukan tembok nyata yang tidak bisa diterobos. Saatnya buka penutup mata dan mulai bergerak — kebebasan itu lebih dekat dari yang kamu kira."
+    }
+  },
+  {
+    "id": 58,
+    "kartu": "Nine of Swords",
+    "nama": "Sembilan Pedang",
+    "emoji": "😰",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Kecemasan · Nightmare · Overthinking Malam Hari",
+      "deskripsi": "Kekhawatiran dan kecemasan sedang di level tertinggi — terutama di tengah malam saat pikiran berlari sendiri tanpa kontrol. Yang ditakutkan biasanya jauh lebih buruk di kepala daripada kenyataan sesungguhnya di luar sana."
+    },
+    "reversed": {
+      "makna": "Harapan Datang · Worst Sudah Lewat",
+      "deskripsi": "Periode anxiety dan kegelapan yang paling intens sudah atau akan segera berlalu. Pagi selalu datang setelah malam yang terpanjang sekalipun. Satu langkah kecil keluar dari spiral pikiran negatif adalah awal pemulihan."
+    }
+  },
+  {
+    "id": 59,
+    "kartu": "Ten of Swords",
+    "nama": "Sepuluh Pedang",
+    "emoji": "🗡️",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Pengkhianatan Total · Titik Terendah · Akhir Menyakitkan",
+      "deskripsi": "Ini titik terbawah yang sangat painful — dan dari sini, satu-satunya arah yang tersedia adalah ke atas. Biarkan ini benar-benar berakhir sepenuhnya agar awal yang baru bisa datang dengan sesungguhnya dan clean slate."
+    },
+    "reversed": {
+      "makna": "Bangkit · Menolak Jadi Korban · Recovery",
+      "deskripsi": "Kamu menolak untuk tetap jadi korban dari situasi yang sangat menyakitkan ini dan itu adalah keputusan terpenting. Bangkit dari titik terendah dimulai dari satu keputusan yang kuat — dan kamu sudah membuatnya."
+    }
+  },
+  {
+    "id": 60,
+    "kartu": "Page of Swords",
+    "nama": "Prajurit Pedang",
+    "emoji": "🦅",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Waspada · Intelektual · Pengamat Tajam",
+      "deskripsi": "Pikiran yang sangat tajam dan selalu ingin tahu semuanya. Kamu — atau seseorang di sekitarmu — sangat observant dan tidak ada yang lolos dari perhatiannya. Gunakan ketajaman ini dengan bijak dan penuh tanggung jawab."
+    },
+    "reversed": {
+      "makna": "Gosip · Pikiran Negatif · Kecerdasan Disalahgunakan",
+      "deskripsi": "Kecerdasan yang dipakai untuk gosip, kritik destructive, atau paranoia yang tidak berdasar. Redirect energi mental yang tajam ini ke hal yang lebih konstruktif dan bermakna — ada potensi besar yang sedang terbuang sia-sia."
+    }
+  },
+  {
+    "id": 61,
+    "kartu": "Knight of Swords",
+    "nama": "Ksatria Pedang",
+    "emoji": "🌪️",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Ambisius · Tegas · Direct · Cepat",
+      "deskripsi": "Bergerak dengan kecepatan penuh langsung menuju target tanpa mau diganggu oleh hal yang tidak relevan. Efektif dan mengagumkan — tapi pastikan kecepatan ini tidak mengorbankan orang dan relasi di sekitarmu dalam prosesnya."
+    },
+    "reversed": {
+      "makna": "Impulsif · Agresif Verbal · Tanpa Rem",
+      "deskripsi": "Kecepatan tanpa kebijaksanaan sering menghasilkan collateral damage yang tidak perlu. Kata-kata dan keputusan yang dilontarkan terlalu cepat dan impulsif susah ditarik kembali — slow down sedikit, hasilnya akan jauh lebih baik."
+    }
+  },
+  {
+    "id": 62,
+    "kartu": "Queen of Swords",
+    "nama": "Ratu Pedang",
+    "emoji": "🦋",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Tajam · Bijak · Mandiri · Jujur",
+      "deskripsi": "Ketajaman pikiran dan kemandirian yang membuat orang segan sekaligus sangat respect. Kamu melihat situasi apa adanya tanpa filter emosi yang berlebihan, dan kebijaksanaanmu ini sangat berharga dalam situasi yang kompleks."
+    },
+    "reversed": {
+      "makna": "Pahit · Manipulatif Verbal · Cold",
+      "deskripsi": "Ketajaman yang berubah menjadi luka — baik yang kamu terima maupun yang kamu berikan tanpa sadar kepada orang di sekitarmu. Ada luka lama yang belum diproses yang sedang mempengaruhi caramu berinteraksi dengan dunia."
+    }
+  },
+  {
+    "id": 63,
+    "kartu": "King of Swords",
+    "nama": "Raja Pedang",
+    "emoji": "👁️",
+    "warna": "#94a3b8",
+    "suit": "Pedang Udara",
+    "suit_emoji": "💨",
+    "upright": {
+      "makna": "Otoritas Intelektual · Adil · Logical",
+      "deskripsi": "Kemampuan berpikir logis, sistematis, dan adil yang membuatmu menjadi autoritas yang dipercaya dalam situasi yang butuh kepala dingin, analisis yang jernih, dan keputusan yang bisa dipertanggungjawabkan."
+    },
+    "reversed": {
+      "makna": "Tirani Intelektual · Dingin tanpa Hati",
+      "deskripsi": "Logika murni tanpa empati menghasilkan keputusan yang technically benar tapi secara manusiawi gagal total dan melukai. Kepala boleh dingin, tapi pastikan hatinya masih menyala dan bisa merasakan dampaknya."
+    }
+  },
+  {
+    "id": 64,
+    "kartu": "Ace of Pentacles",
+    "nama": "Koin Pertama",
+    "emoji": "🪙",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Peluang Finansial · Prospek Material · Seed Money",
+      "deskripsi": "Benih peluang finansial atau material baru sedang ditawarkan padamu secara konkret. Terima dengan tangan terbuka dan siap, pastikan kamu punya kapasitas untuk merawat dan mengembangkannya menjadi sesuatu yang besar."
+    },
+    "reversed": {
+      "makna": "Peluang Terlewat · Fondasi Rapuh",
+      "deskripsi": "Peluang finansial mungkin sudah terlewat atau yang baru tidak datang tepat waktu. Yang berikutnya, pastikan kamu lebih siap — baik secara mental maupun secara praktis dan material."
+    }
+  },
+  {
+    "id": 65,
+    "kartu": "Two of Pentacles",
+    "nama": "Dua Koin",
+    "emoji": "⚖️",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Juggling · Adaptasi · Keseimbangan Dinamis",
+      "deskripsi": "Kamu manage banyak hal sekaligus dengan kemampuan yang cukup mengagumkan. Terus jaga keseimbangan ini — tapi juga kenali batasmu sebelum semua bola yang sedang kamu juggle jatuh bersamaan dan berantakan."
+    },
+    "reversed": {
+      "makna": "Overwhelmed · Keseimbangan Hancur",
+      "deskripsi": "Terlalu banyak yang harus di-manage secara finansial atau praktis sampai semuanya mulai goyah dan tidak terkontrol. Sudah saatnya simplify, prioritize, dan minta bantuan untuk apa yang tidak harus kamu tanggung sendiri."
+    }
+  },
+  {
+    "id": 66,
+    "kartu": "Three of Pentacles",
+    "nama": "Tiga Koin",
+    "emoji": "🏗️",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Kerja Tim · Keahlian Diakui · Kolaborasi",
+      "deskripsi": "Keahlian dan kontribusimu diakui dan dihargai dalam konteks tim atau proyek yang lebih besar. Kolaborasi yang baik sekarang akan menghasilkan jauh lebih banyak daripada kerja sendirian sebagus dan secerdas apapun."
+    },
+    "reversed": {
+      "makna": "Silo Mentality · Kurang Koordinasi",
+      "deskripsi": "Kerja sendiri-sendiri tanpa koordinasi yang baik menghasilkan lebih banyak pekerjaan dengan hasil yang jauh lebih sedikit dari potensinya. Ada yang perlu diperbaiki dalam cara kalian berkomunikasi, berkolaborasi, dan berbagi."
+    }
+  },
+  {
+    "id": 67,
+    "kartu": "Four of Pentacles",
+    "nama": "Empat Koin",
+    "emoji": "💰",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Mengamankan Aset · Kontrol Finansial · Hemat",
+      "deskripsi": "Kamu menjaga apa yang sudah dimiliki dengan sangat hati-hati. Itu bijak — tapi pastikan penjagaan ini tidak berubah menjadi kelumpuhan karena terlalu takut kehilangan atau terlalu pelit bahkan untuk investasi yang jelas-jelas menguntungkan."
+    },
+    "reversed": {
+      "makna": "Materialisme Berlebih · Melepas Kontrol",
+      "deskripsi": "Attachment berlebih pada materi dan kontrol finansial yang terlalu ketat justru menghalangi flow rezeki yang lebih besar. Kadang harus siap melepaskan sesuatu untuk mendapatkan yang jauh lebih banyak."
+    }
+  },
+  {
+    "id": 68,
+    "kartu": "Five of Pentacles",
+    "nama": "Lima Koin",
+    "emoji": "🥶",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Kesulitan Finansial · Feeling Excluded · Butuh Bantuan",
+      "deskripsi": "Periode yang secara finansial atau material terasa sangat berat, ditambah perasaan isolated atau excluded dari sekitarmu. Bantuan tersedia — tapi pertanyaannya: sudah seberapa sungguh-sungguh kamu mencarinya dan membuka diri untuk menerimanya?"
+    },
+    "reversed": {
+      "makna": "Pemulihan Finansial · Bantuan Datang",
+      "deskripsi": "Kondisi yang sulit mulai membaik secara bertahap dan nyata. Bantuan datang atau kondisi berubah ke arah yang lebih baik. Pemulihannya mungkin lambat, tapi arahnya sudah jelas dan konsisten menuju yang lebih baik."
+    }
+  },
+  {
+    "id": 69,
+    "kartu": "Six of Pentacles",
+    "nama": "Enam Koin",
+    "emoji": "🤲",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Kemurahan Hati · Memberi dan Menerima · Balance",
+      "deskripsi": "Energi kemurahan hati sedang mengalir dengan indah — entah kamu yang memberi atau menerima. Biarkan siklus ini berjalan secara natural dan dengan tulus, karena energi yang diberikan dengan ikhlas selalu kembali berlipat ganda."
+    },
+    "reversed": {
+      "makna": "Strings Attached · Imbalance Power",
+      "deskripsi": "Ada imbalance dalam siklus memberi dan menerima yang tidak diakui oleh semua pihak. Sesuatu yang terlihat seperti kemurahan hati mungkin datang dengan ekspektasi atau 'harga' yang tidak pernah terucapkan secara eksplisit."
+    }
+  },
+  {
+    "id": 70,
+    "kartu": "Seven of Pentacles",
+    "nama": "Tujuh Koin",
+    "emoji": "🌱",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Investasi Jangka Panjang · Menunggu Hasil · Evaluasi",
+      "deskripsi": "Kamu sudah bekerja keras dan sekarang dalam fase sabar menunggu hasil dari apa yang sudah ditanam dengan susah payah. Ini bukan idle — ini fase pematangan yang tidak bisa dipercepat tapi sangat perlu dan berharga untuk dilalui."
+    },
+    "reversed": {
+      "makna": "Investasi Kurang ROI · Evaluasi Ulang",
+      "deskripsi": "Kamu bekerja keras tapi hasilnya tidak sebanding dengan effort yang sudah dikeluarkan selama ini. Sudah saatnya evaluasi secara jujur dan tanpa ego: apakah arah, metode, atau bahkan tujuannya yang perlu diubah secara fundamental?"
+    }
+  },
+  {
+    "id": 71,
+    "kartu": "Eight of Pentacles",
+    "nama": "Delapan Koin",
+    "emoji": "🔨",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Dedikasi · Craft · Jalan Menuju Mastery",
+      "deskripsi": "Fokus total pada mengasah keahlian dengan ketekunan dan kesabaran yang luar biasa dan jarang ditemukan. Ini bukan buang waktu — ini investasi pada diri sendiri yang akan memberikan return yang sangat besar dalam jangka panjang."
+    },
+    "reversed": {
+      "makna": "Perfeksionisme · Asal Jadi",
+      "deskripsi": "Ada dua ekstrem yang sama-sama bermasalah: terlalu terobsesi dengan kesempurnaan sampai tidak pernah selesai, atau asal selesai tanpa usaha yang serius dan penuh. Cari titik tengah yang produktif dan sustainable."
+    }
+  },
+  {
+    "id": 72,
+    "kartu": "Nine of Pentacles",
+    "nama": "Sembilan Koin",
+    "emoji": "🌹",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Kemandirian Finansial · Kelimpahan · Hasil Kerja Keras",
+      "deskripsi": "Kamu sudah berhasil membangun sesuatu yang solid dan sekarang layak menikmati hasilnya dengan rasa bangga yang tulus dan penuh. Ini bukan keberuntungan — ini adalah akumulasi dari kerja keras, keputusan yang tepat, dan konsistensi."
+    },
+    "reversed": {
+      "makna": "Bergantung Finansial · Kemewahan Semu",
+      "deskripsi": "Kemandirian finansial yang sesungguhnya belum tercapai, atau gaya hidup yang terlihat mewah tapi ada ketergantungan yang disembunyikan dengan rapi. Ini bukan tentang malu, ini tentang arah yang lebih jelas dan honest ke depan."
+    }
+  },
+  {
+    "id": 73,
+    "kartu": "Ten of Pentacles",
+    "nama": "Sepuluh Koin",
+    "emoji": "🏛️",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Legacy · Kemakmuran Generasi · Fondasi Abadi",
+      "deskripsi": "Pencapaian yang melampaui dirimu sendiri dan memberikan dampak nyata bagi orang-orang di sekitarmu, bahkan generasi selanjutnya. Fondasi yang kamu bangun dengan integritas ini akan bertahan jauh melampaui momenmu."
+    },
+    "reversed": {
+      "makna": "Konflik Warisan · Nilai yang Bertabrakan",
+      "deskripsi": "Ada konflik soal uang, warisan, atau nilai-nilai yang dipegang dalam keluarga atau circle terdekat. Uang dan aset itu penting, tapi relasi dan integritas lebih mahal dari semua itu digabungkan."
+    }
+  },
+  {
+    "id": 74,
+    "kartu": "Page of Pentacles",
+    "nama": "Prajurit Koin",
+    "emoji": "📚",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Belajar · Ambisius Praktis · Terbuka pada Peluang",
+      "deskripsi": "Terbuka terhadap peluang baru dengan antusiasme yang fokus dan sangat praktis. Kemauan untuk terus belajar hal baru dengan serius adalah aset terbesarmu saat ini — jangan pernah sia-siakan kesempatan untuk bertumbuh."
+    },
+    "reversed": {
+      "makna": "Malas · Mimpi Tanpa Tindakan",
+      "deskripsi": "Mimpi besar ada tapi action yang konkret dan konsisten minim sekali. Antusiasme tanpa plan yang realistis dan eksekusi yang konsisten hanya akan jadi angan-angan yang perlahan menguap seiring berjalannya waktu."
+    }
+  },
+  {
+    "id": 75,
+    "kartu": "Knight of Pentacles",
+    "nama": "Ksatria Koin",
+    "emoji": "🐂",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Pekerja Keras · Reliable · Methodical",
+      "deskripsi": "Mungkin bukan yang paling cepat atau yang paling brilliant di ruangan, tapi kamu adalah yang paling konsisten dan paling bisa diandalkan kapanpun — dan dalam jangka panjang, itu yang benar-benar menang dan bertahan."
+    },
+    "reversed": {
+      "makna": "Monoton · Stuck · Terlalu Kaku",
+      "deskripsi": "Terlalu kaku dengan rutinitas sampai kehilangan fleksibilitas dan kemampuan untuk adapt dengan perubahan. Konsistensi itu bagus dan perlu, tapi stubbornness yang menghalangi pertumbuhan adalah masalah yang sama sekali berbeda."
+    }
+  },
+  {
+    "id": 76,
+    "kartu": "Queen of Pentacles",
+    "nama": "Ratu Koin",
+    "emoji": "🌺",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Practical Nurturer · Grounded · Kemakmuran",
+      "deskripsi": "Kemampuan menciptakan kelimpahan, kenyamanan, dan rasa aman di sekitarmu adalah superpower yang luar biasa besar dan langka. Kamu membuat orang-orang di sekitarmu merasa benar-benar taken care of dan dihargai."
+    },
+    "reversed": {
+      "makna": "Neglect Diri · Materialisme · Workaholic",
+      "deskripsi": "Kamu merawat semua orang dan semua hal di sekitarmu dengan penuh dedikasi yang luar biasa — tapi neglect kebutuhan dan kesehatanmu sendiri secara konsisten. Self-care bukan egois, itu prerequisite untuk bisa merawat orang lain."
+    }
+  },
+  {
+    "id": 77,
+    "kartu": "King of Pentacles",
+    "nama": "Raja Koin",
+    "emoji": "🤴",
+    "warna": "#fbbf24",
+    "suit": "Koin Bumi",
+    "suit_emoji": "🌍",
+    "upright": {
+      "makna": "Kemakmuran · Pemimpin Bisnis · Stabilitas",
+      "deskripsi": "Kemampuan membangun dan mempertahankan kemakmuran yang menjadi teladan yang sangat dihormati. Ambisimu material tapi caramu etis dan methodical — kombinasi yang sangat kuat, sustainable, dan layak ditiru."
+    },
+    "reversed": {
+      "makna": "Materialisme Korup · Workaholic · Serakah",
+      "deskripsi": "Fokus pada materi yang sudah melampaui batas sehat mengikis nilai-nilai yang jauh lebih penting dan lasting. Periksa apakah uang dan status sudah berubah dari alat menjadi tujuan akhir — itu tanda peringatan yang perlu ditangani serius."
     }
   }
 ]

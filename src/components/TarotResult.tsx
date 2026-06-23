@@ -107,6 +107,9 @@ function TarotCard({ drawn, index, revealed }: { drawn: DrawnCard; index: number
                   >
                     {drawn.card.nama}
                   </p>
+                  <p className="text-[8px] text-slate-500 mt-0.5 leading-tight">
+                    {drawn.card.suit_emoji} {drawn.card.suit}
+                  </p>
                 </div>
               </div>
 
