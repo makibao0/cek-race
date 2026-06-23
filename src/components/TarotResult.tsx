@@ -88,11 +88,11 @@ function TarotCard({ drawn, index, revealed }: { drawn: DrawnCard; index: number
 
               <div className="absolute inset-0 flex flex-col items-center justify-between p-2 pt-3 pb-3">
                 {/* Roman numeral */}
-                <span className="text-[9px] font-bold tracking-widest text-slate-400 uppercase">{String(drawn.card.id).padStart(2, '0')}</span>
+                <span className="text-xs font-bold tracking-widest text-slate-400 uppercase">{String(drawn.card.id).padStart(2, '0')}</span>
 
                 {/* Emoji */}
                 <div
-                  className="text-4xl drop-shadow-lg"
+                  className="text-5xl drop-shadow-lg"
                   style={{ filter: `drop-shadow(0 0 8px ${drawn.card.warna}80)` }}
                 >
                   {drawn.card.emoji}
@@ -100,14 +100,14 @@ function TarotCard({ drawn, index, revealed }: { drawn: DrawnCard; index: number
 
                 {/* Card name */}
                 <div className="text-center">
-                  <p className="text-[9px] text-slate-400 uppercase tracking-wider">{drawn.isReversed ? '↕ Terbalik' : '↑ Tegak'}</p>
+                  <p className="text-xs text-slate-400 uppercase tracking-wider">{drawn.isReversed ? '↕ Terbalik' : '↑ Tegak'}</p>
                   <p
-                    className="text-[11px] font-black leading-tight mt-0.5"
+                    className="text-sm font-black leading-tight mt-0.5"
                     style={{ color: drawn.card.warna }}
                   >
                     {drawn.card.nama}
                   </p>
-                  <p className="text-[8px] text-slate-500 mt-0.5 leading-tight">
+                  <p className="text-[10px] text-slate-500 mt-0.5 leading-tight">
                     {drawn.card.suit_emoji} {drawn.card.suit}
                   </p>
                 </div>
