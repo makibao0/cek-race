@@ -75,20 +75,9 @@ export default function BottomNav() {
             >
               <Icon className={`w-5 h-5 shrink-0 transition-transform duration-300 ${isActive ? 'scale-110' : ''}`} />
 
-              {/* Label: always visible on md+, hidden on mobile unless active */}
-              <span className={`
-                font-semibold whitespace-nowrap transition-all duration-300
-                text-[10px] mt-0.5
-                md:text-xs md:mt-0
-                ${isActive ? 'opacity-100' : 'opacity-0 h-0 overflow-hidden md:opacity-60 md:h-auto md:overflow-visible'}
-              `}>
+              <span className={`font-semibold whitespace-nowrap text-[10px] mt-0.5 md:text-xs md:mt-0 ${isActive ? 'opacity-100' : 'opacity-60'}`}>
                 {tab.label}
               </span>
-
-              {/* Active dot indicator on mobile */}
-              {isActive && (
-                <span className={`absolute bottom-1 w-1 h-1 rounded-full ${tab.dot} md:hidden`} />
-              )}
             </Link>
           );
         })}
