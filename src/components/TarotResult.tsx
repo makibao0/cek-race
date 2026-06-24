@@ -172,6 +172,12 @@ function TarotCard({
   );
 }
 
+const clientHash = (str: string) => {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) h = str.charCodeAt(i) + ((h << 5) - h);
+  return Math.abs(h);
+};
+
 export default function TarotResult({ cards, name }: Props) {
   const resultRef = useRef<HTMLDivElement>(null);
   const [revealed, setRevealed] = useState([false, false, false]);
@@ -288,6 +294,8 @@ export default function TarotResult({ cards, name }: Props) {
               const reading = drawn.isReversed
                 ? drawn.card.reversed
                 : drawn.card.upright;
+              const deskripsiPool = Array.isArray(reading.deskripsi) ? reading.deskripsi : [reading.deskripsi];
+              const deskripsi = deskripsiPool[clientHash(name + drawn.card.kartu + drawn.position) % deskripsiPool.length];
               const positionColors = [
                 "text-violet-300",
                 "text-amber-300",
@@ -325,7 +333,7 @@ export default function TarotResult({ cards, name }: Props) {
                     </div>
                   </div>
                   <p className="text-slate-300 text-md leading-relaxed">
-                    "{reading.deskripsi}"
+                    &ldquo;{deskripsi}&rdquo;
                   </p>
                 </div>
               );

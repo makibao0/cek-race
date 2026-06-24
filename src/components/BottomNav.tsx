@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Sparkles, Activity, Star, Moon } from 'lucide-react';
+import { Sparkles, Activity, Star, Moon, Heart } from 'lucide-react';
 
 const TABS = [
   {
@@ -45,6 +45,16 @@ const TABS = [
     activeShadow: 'shadow-[inset_0_0_15px_rgba(34,211,238,0.2)]',
     activeIcon: 'text-cyan-400',
   },
+  {
+    href: '/donasi',
+    label: 'Donasi',
+    icon: Heart,
+    activeGradient: 'from-rose-600/30 to-pink-600/30',
+    activeText: 'text-rose-300',
+    activeBorder: 'border-rose-500/30',
+    activeShadow: 'shadow-[inset_0_0_15px_rgba(244,63,94,0.2)]',
+    activeIcon: 'text-rose-400',
+  },
 ];
 
 export default function BottomNav() {
@@ -60,7 +70,7 @@ export default function BottomNav() {
             <Link
               key={tab.href}
               href={tab.href}
-              className={`flex items-center gap-1.5 px-3.5 py-2.5 rounded-xl transition-all duration-300 ${
+              className={`flex items-center gap-1 px-2.5 py-2.5 rounded-xl transition-all duration-300 ${
                 isActive
                   ? `bg-linear-to-r ${tab.activeGradient} ${tab.activeText} border ${tab.activeBorder} ${tab.activeShadow}`
                   : 'text-slate-400 hover:text-slate-200 hover:bg-white/5 border border-transparent'

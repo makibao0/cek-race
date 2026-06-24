@@ -9,11 +9,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Awal Baru · Spontanitas · Keberanian",
-      "deskripsi": "Energi paling fresh sedunia lagi memancar dari dirimu. Kamu siap terjun ke hal baru tanpa terlalu banyak mikir — dan somehow itu justru yang paling tepat saat ini. Bukan nekat, tapi percaya diri. Semesta lagi backing kamu penuh. Gas aja tanpa terlalu banyak plan yang ngalahin moment."
+      "deskripsi": [
+        "Energi paling fresh sedunia lagi memancar dari dirimu. Kamu siap terjun ke hal baru tanpa terlalu banyak mikir — dan somehow itu justru yang paling tepat saat ini. Bukan nekat, tapi percaya diri. Semesta lagi backing kamu penuh. Gas aja tanpa terlalu banyak plan yang ngalahin moment.",
+        "Ada percikan awal yang sangat kuat — rasa penasaran yang murni tanpa beban ekspektasi. Ikuti itu. Keberanian untuk tidak tahu mau ke mana adalah bentuk kepercayaan tertinggi kepada semesta.",
+        "Momen ini memanggilmu untuk lepas dari semua asumsi lama dan memulai dengan lembaran bersih. Jangan bawa bagasi dari perjalanan sebelumnya — itu akan memperlambat langkahmu yang seharusnya ringan.",
+        "Kamu berdiri di tepi sesuatu yang besar dan baru. Ketakutan itu wajar, tapi jangan biarkan ia jadi alasan untuk tidak melangkah. Sang Pejalan tahu bahwa jatuh pun adalah bagian dari petualangan."
+      ]
     },
     "reversed": {
       "makna": "Ceroboh · Impulsif · Kurang Rencana",
-      "deskripsi": "Versi impulsif dari semangatmu lagi on fire. Kamu checkout dulu baru lihat ongkir-nya. Add to cart dulu, mikir belakangan. Keputusan besar dibuat dalam hitungan detik. Mungkin perlu sedikit slow down dan pikir dua kali sebelum loncat — jurangnya beneran ada."
+      "deskripsi": [
+        "Versi impulsif dari semangatmu lagi on fire. Kamu checkout dulu baru lihat ongkir-nya. Add to cart dulu, mikir belakangan. Keputusan besar dibuat dalam hitungan detik. Mungkin perlu sedikit slow down dan pikir dua kali sebelum loncat — jurangnya beneran ada.",
+        "Semangat yang besar tapi arah yang belum jelas bisa berakhir di tempat yang tidak diinginkan. Pause sejenak, bukan untuk mundur, tapi untuk pastikan langkah pertamamu menghadap ke arah yang benar.",
+        "Ada energi yang ingin meledak tapi masih ada sesuatu yang menahan — mungkin rasa takut, mungkin kurangnya persiapan minimal. Sedikit riset tidak akan membunuh adventuremu.",
+        "Bertindak tanpa berpikir sama sekali adalah beda tipis dengan berani. Pastikan keberanianmu punya substansi, bukan hanya impuls yang akan kamu sesali di kemudian hari."
+      ]
     }
   },
   {
@@ -26,11 +36,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Manifestasi · Keterampilan · Kekuatan Penuh",
-      "deskripsi": "Semua alat ada di tanganmu — otak, kemampuan, koneksi, dan modal. Tinggal kamu yang mau eksekusi atau tetap nongkrong di phase 'nanti aja'. Energimu sedang di peak — ini bukan waktu buat ragu-ragu. Alam semesta udah siapin panggungnya, tinggal kamu yang mau naik atau enggak."
+      "deskripsi": [
+        "Semua alat ada di tanganmu — otak, kemampuan, koneksi, dan modal. Tinggal kamu yang mau eksekusi atau tetap nongkrong di phase 'nanti aja'. Energimu sedang di peak — ini bukan waktu buat ragu-ragu. Alam semesta udah siapin panggungnya, tinggal kamu yang mau naik atau enggak.",
+        "Semua elemen ada di hadapanmu — tanah, air, api, udara — semua resource yang dibutuhkan sudah tersedia. Yang kurang hanya satu: keputusanmu untuk benar-benar mulai menggunakannya.",
+        "Ini bukan soal menunggu lebih banyak skill atau koneksi atau uang. Apa yang ada sekarang sudah cukup untuk memulai. Sang Penyihir tahu bahwa kekuatan terbesar adalah yang digunakan, bukan yang disimpan.",
+        "Kamu sedang berada di frekuensi tertinggi — pikiran, niat, dan tindakanmu bisa sangat aligned sekarang. Ini jendela waktu yang langka. Manfaatkan sebelum momentum-nya berlalu."
+      ]
     },
     "reversed": {
       "makna": "Manipulasi · Skill Terpendam · Bluffing",
-      "deskripsi": "Potensimu ada tapi belum keluar secara maksimal. Atau kamu lagi pake skill-mu untuk hal yang kurang tepat — kayak jago ngeles, jago bluffing, atau master of procrastination. Redirect energi itu ke hal yang lebih produktif sebelum terlambat."
+      "deskripsi": [
+        "Potensimu ada tapi belum keluar secara maksimal. Atau kamu lagi pake skill-mu untuk hal yang kurang tepat — kayak jago ngeles, jago bluffing, atau master of procrastination. Redirect energi itu ke hal yang lebih produktif sebelum terlambat.",
+        "Skill ada tapi dipakai ke arah yang salah — bisa untuk self-sabotage, mengesankan orang yang salah, atau menunda hal yang sebenarnya penting. Redirect energi itu.",
+        "Ada gap besar antara apa yang kamu katakan bisa kamu lakukan dan apa yang sebenarnya kamu eksekusi. Jujur pada dirimu sendiri tentang perbedaan itu sebelum melangkah lebih jauh.",
+        "Potensi yang tidak digunakan akan menggerogoti dari dalam. Kamu tahu kemampuanmu — pertanyaannya adalah kenapa masih disimpan dan tidak dikeluarkan."
+      ]
     }
   },
   {
@@ -43,11 +63,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Intuisi · Misteri · Alam Bawah Sadar",
-      "deskripsi": "Alam bawah sadarmu lagi kirim sinyal kencang banget — tapi kamu sibuk scroll dan skip reels. Coba dengerin feeling-mu lebih sering, karena intuisimu sekarang lebih akurat dari ramalan zodiak mana pun. Ada sesuatu yang perlu kamu tahu tapi belum terungkap — sabar."
+      "deskripsi": [
+        "Alam bawah sadarmu lagi kirim sinyal kencang banget — tapi kamu sibuk scroll dan skip reels. Coba dengerin feeling-mu lebih sering, karena intuisimu sekarang lebih akurat dari ramalan zodiak mana pun. Ada sesuatu yang perlu kamu tahu tapi belum terungkap — sabar.",
+        "Ada yang bisa diketahui tanpa dicari — jawaban yang datang saat kamu diam, bukan saat kamu sibuk mencari. Percayai momen tenang itu lebih dari momen bising.",
+        "Sesuatu yang tersembunyi akan terungkap pada waktunya. Bukan karena kamu paksa, tapi karena memang sudah waktunya. Sang Pendeta Agung mengajarkan bahwa timing alam semesta selalu lebih tepat dari jadwal manusia.",
+        "Intuisimu sedang dalam mode sangat tajam. Jangan dustakan perasaan pertama yang muncul meski belum bisa dijelaskan secara logis — ada wisdom di sana yang lebih dalam dari kata-kata."
+      ]
     },
     "reversed": {
       "makna": "Rahasia Tersimpan · Intuisi Diabaikan",
-      "deskripsi": "Kamu punya firasat tapi kamu abaikan karena rasanya nggak masuk akal. Ada informasi yang disembunyikan dari kamu, atau kamu sendiri yang menyembunyikan sesuatu dari orang-orang terdekat. Bukan berarti jelek — tapi ada saatnya semua perlu dibuka."
+      "deskripsi": [
+        "Kamu punya firasat tapi kamu abaikan karena rasanya nggak masuk akal. Ada informasi yang disembunyikan dari kamu, atau kamu sendiri yang menyembunyikan sesuatu dari orang-orang terdekat. Bukan berarti jelek — tapi ada saatnya semua perlu dibuka.",
+        "Kamu terlalu banyak mendengarkan suara luar sampai suara batinmu tidak bisa didengar sama sekali. Ciptakan ruang untuk silence dan lihat apa yang muncul dari sana.",
+        "Ada informasi yang disembunyikan — entah dari kamu atau yang kamu sembunyikan dari dirimu sendiri. Kebenaran yang tidak nyaman tetap lebih baik dari ilusi yang nyaman.",
+        "Insting yang diabaikan terlalu sering akan melemah. Mulai dengarkan lagi sebelum kemampuan itu memudar lebih jauh dari yang kamu sadari."
+      ]
     }
   },
   {
@@ -60,11 +90,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Kelimpahan · Kreativitas · Kesuburan",
-      "deskripsi": "Periode subur banget secara kreatif, finansial, maupun relasional. Apapun yang kamu tanam sekarang akan tumbuh berlipat. Bisa berupa bisnis, karya seni, hubungan, atau bahkan tanaman hias yang mendadak subur. Energimu lagi nurturing dan produktif — manfaatin."
+      "deskripsi": [
+        "Periode subur banget secara kreatif, finansial, maupun relasional. Apapun yang kamu tanam sekarang akan tumbuh berlipat. Bisa berupa bisnis, karya seni, hubungan, atau bahkan tanaman hias yang mendadak subur. Energimu lagi nurturing dan produktif — manfaatin.",
+        "Apapun yang kamu beri perhatian dan kasih sayang sekarang akan tumbuh melampaui ekspektasimu. Ini bukan soal kerja keras saja, tapi tentang energi yang kamu bawa ke dalam prosesnya.",
+        "Sang Dewi Bumi mengingatkan bahwa kelimpahan bukan sesuatu yang harus dikejar — ia adalah kondisi alami ketika kamu aligned dengan ritme hidupmu sendiri. Slow down dan biarkan tumbuh secara natural.",
+        "Fase produktif yang sangat subur sedang berlangsung. Entah itu proyek, hubungan, atau pertumbuhan personal — semua yang ditanam dengan kasih sekarang akan berbuah lebih dari yang diperkirakan."
+      ]
     },
     "reversed": {
       "makna": "Ketergantungan · Stagnasi · Kurang Cinta Diri",
-      "deskripsi": "Kamu lagi terlalu bergantung pada orang lain untuk validasi, atau satu sumber penghasilan. Atau mungkin kamu neglect diri sendiri demi ngurusin orang lain terus. Inget, pesawat pun minta kamu pasang masker sendiri dulu sebelum bantu orang lain."
+      "deskripsi": [
+        "Kamu lagi terlalu bergantung pada orang lain untuk validasi, atau satu sumber penghasilan. Atau mungkin kamu neglect diri sendiri demi ngurusin orang lain terus. Inget, pesawat pun minta kamu pasang masker sendiri dulu sebelum bantu orang lain.",
+        "Kamu memberi terlalu banyak ke luar sampai tidak ada yang tersisa untuk dirimu sendiri. Ingat bahwa pohon yang tidak disiram tidak bisa terus berbuah untuk orang lain.",
+        "Stagnasi kreatif atau emosional sedang terjadi. Mungkin karena terlalu banyak mengkonsumsi tanpa menciptakan, atau terlalu banyak menerima tanpa memberi. Cek balance-nya.",
+        "Ada sesuatu yang seharusnya tumbuh tapi terhambat — mungkin oleh ketakutan, lingkungan yang tidak supportive, atau kurangnya nurturing yang konsisten. Identifikasi hambatannya."
+      ]
     }
   },
   {
@@ -77,11 +117,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Otoritas · Struktur · Kepemimpinan",
-      "deskripsi": "Energi bos besar sedang merasukimu. Saatnya ambil kendali situasi dan berhenti nunggu orang lain yang mulai duluan. Buat sistem, buat aturan, dan eksekusi dengan disiplin. Kalau bukan kamu yang pegang kendali, siapa lagi?"
+      "deskripsi": [
+        "Energi bos besar sedang merasukimu. Saatnya ambil kendali situasi dan berhenti nunggu orang lain yang mulai duluan. Buat sistem, buat aturan, dan eksekusi dengan disiplin. Kalau bukan kamu yang pegang kendali, siapa lagi?",
+        "Saatnya membangun fondasi yang solid, bukan hanya impian yang indah. Struktur, sistem, dan aturan yang jelas adalah tanda kedewasaan, bukan kekakuan yang perlu dihindari.",
+        "Ada kebutuhan akan kepemimpinan yang tegas dan jelas di situasi ini. Ambil peran itu bukan karena ingin berkuasa, tapi karena situasinya memang butuh seseorang yang bisa memberi arah dengan yakin.",
+        "Sang Kaisar mengingatkan bahwa stabilitas sejati dibangun di atas aturan yang konsisten dan tanggung jawab yang diemban dengan integritas. Ini saatnya kamu jadi orang yang paling bisa diandalkan."
+      ]
     },
     "reversed": {
       "makna": "Kaku · Terlalu Dominan · Keras Kepala",
-      "deskripsi": "Kamu lagi keras kepala level boss stage akhir game RPG. Caramu adalah satu-satunya cara, pendapatmu paling benar, dan diskusi berasa debat kusir. Coba dengerin orang lain juga — mereka juga punya insight yang valid, bahkan kalau kamu nggak mau akui."
+      "deskripsi": [
+        "Kamu lagi keras kepala level boss stage akhir game RPG. Caramu adalah satu-satunya cara, pendapatmu paling benar, dan diskusi berasa debat kusir. Coba dengerin orang lain juga — mereka juga punya insight yang valid, bahkan kalau kamu nggak mau akui.",
+        "Kekuasaan yang digunakan tanpa empati adalah tirani. Periksa apakah caramu memimpin atau mengontrol situasi ini sudah seimbang antara ketegasan dan kemanusiaan.",
+        "Aturan yang kaku tanpa fleksibilitas akan menghancurkan apa yang coba kamu bangun. Struktur yang baik adalah yang melayani tujuan, bukan yang memenjarakan semua orang di dalamnya.",
+        "Ada resistance terhadap otoritas atau aturan yang mungkin valid, tapi mungkin juga hanya ego yang tidak mau diatur. Bedakan keduanya sebelum bereaksi."
+      ]
     }
   },
   {
@@ -94,11 +144,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Tradisi · Bimbingan · Kebijaksanaan",
-      "deskripsi": "Ada wisdom yang perlu kamu cari dari orang yang lebih berpengalaman — bisa mentor, orang tua, atau senior yang sering kamu anggap kolot. Atau justru kamu yang dipanggil jadi pembimbing bagi orang lain. Ilmu perlu dibagikan, bukan disimpan sendirian."
+      "deskripsi": [
+        "Ada wisdom yang perlu kamu cari dari orang yang lebih berpengalaman — bisa mentor, orang tua, atau senior yang sering kamu anggap kolot. Atau justru kamu yang dipanggil jadi pembimbing bagi orang lain. Ilmu perlu dibagikan, bukan disimpan sendirian.",
+        "Ada wisdom yang tersedia dari tradisi, sistem, atau orang yang lebih berpengalaman — tapi hanya jika kamu mau menurunkan ego dan benar-benar mau belajar. Humility membuka pintu yang pride tutup.",
+        "Komunitas dan belonging sedang sangat relevan sekarang. Menemukan atau kembali ke kelompok yang berbagi nilai-nilai yang sama bisa memberikan fondasi yang sangat dibutuhkan saat ini.",
+        "Sang Guru Agung mengajarkan bahwa ritual dan tradisi punya power yang jauh melampaui penampilan luarnya. Ikuti prosesnya dengan sepenuh hati, bukan setengah-setengah."
+      ]
     },
     "reversed": {
       "makna": "Dogma · Pemberontakan · Anti-Mainstream",
-      "deskripsi": "Kamu lagi challengin status quo dan semua aturan yang ada. Itu bagus — inovasi lahir dari situ. Tapi pastikan pemberontakanmu punya substansi, bukan sekadar rebel karena pengen keliatan beda. Rusakin sistem yang rusak, tapi jangan rusakin yang masih jalan."
+      "deskripsi": [
+        "Kamu lagi challengin status quo dan semua aturan yang ada. Itu bagus — inovasi lahir dari situ. Tapi pastikan pemberontakanmu punya substansi, bukan sekadar rebel karena pengen keliatan beda. Rusakin sistem yang rusak, tapi jangan rusakin yang masih jalan.",
+        "Saatnya pertanyakan dogma yang selama ini diterima begitu saja. Bukan untuk menghancurkannya, tapi untuk memahami apakah masih relevan atau sudah waktunya di-update.",
+        "Institusi atau sistem yang seharusnya membantumu justru sedang membatasimu secara tidak perlu. Cari cara untuk tetap operate dengan integritas di luar struktur yang tidak lagi melayanimu.",
+        "Ada kemunafikan yang perlu diungkap — entah dalam sistem yang kamu ikuti atau dalam caramu sendiri menjalankan nilai yang kamu klaim pegang. Jujur adalah obat terbaiknya."
+      ]
     }
   },
   {
@@ -111,11 +171,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Cinta · Pilihan · Keselarasan",
-      "deskripsi": "Ada keputusan besar yang menanti — dan ini bukan cuma soal asmara. Pilihanmu sekarang akan nentuin arah hidupmu ke depan dengan signifikan. Pilih sesuai nilai dan hatimu, bukan sesuai ekspektasi orang lain. Dan kalau soal cinta: energinya lagi sangat bagus."
+      "deskripsi": [
+        "Ada keputusan besar yang menanti — dan ini bukan cuma soal asmara. Pilihanmu sekarang akan nentuin arah hidupmu ke depan dengan signifikan. Pilih sesuai nilai dan hatimu, bukan sesuai ekspektasi orang lain. Dan kalau soal cinta: energinya lagi sangat bagus.",
+        "Pilihan yang ada di hadapanmu bukan hanya tentang siapa atau apa yang dipilih, tapi tentang siapa dirimu yang akan terbawa oleh pilihan itu. Pilih yang paling aligned dengan nilai terdalam.",
+        "Ada harmonisasi yang sedang terjadi — antara hati dan pikiran, antara dirimu dan orang lain, antara apa yang kamu inginkan dan apa yang baik bagimu. Nikmati alignment yang langka ini.",
+        "Sang Kekasih mengingatkan bahwa cinta sejati dimulai dari pilihan — bukan hanya perasaan yang datang dan pergi. Pilih setiap hari, secara aktif dan sadar."
+      ]
     },
     "reversed": {
       "makna": "Konflik Batin · Ketidaksesuaian · Drama",
-      "deskripsi": "Hatimu bilang A, pikiranmu bilang B, dan ex-mu tiba-tiba DM bilang C. Kamu lagi dalam konflik internal yang bikin susah fokus. Sebelum bisa harmonis dengan orang lain, selaraskan dulu apa yang kamu mau dari dalam dirimu sendiri."
+      "deskripsi": [
+        "Hatimu bilang A, pikiranmu bilang B, dan ex-mu tiba-tiba DM bilang C. Kamu lagi dalam konflik internal yang bikin susah fokus. Sebelum bisa harmonis dengan orang lain, selaraskan dulu apa yang kamu mau dari dalam dirimu sendiri.",
+        "Ada konflik internal yang perlu diselesaikan sebelum bisa membuat keputusan yang baik tentang hal lain. Pecah dalam dirimu sendiri akan terus memproyeksikan keluar.",
+        "Memilih karena takut kehilangan sangat berbeda dengan memilih karena sungguh-sungguh menginginkan. Pastikan keputusanmu lahir dari yang kedua.",
+        "Hubungan atau situasi yang ada saat ini mungkin tidak seselaras yang terlihat dari luar. Perlu kejujuran yang brave untuk mengakui dan mengatasinya."
+      ]
     }
   },
   {
@@ -128,11 +198,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Determinasi · Kemenangan · Kontrol",
-      "deskripsi": "Kamu lagi di mode gas pol — fokus tajam, tekad kuat, dan nggak ada yang bisa ngalang-ngalangi. Ini saatnya tancap dan jangan biarkan distraksi menarikmu keluar dari jalur. Kemenangan ada di depan, tapi butuh konsistensi dan disiplin penuh untuk sampai ke sana."
+      "deskripsi": [
+        "Kamu lagi di mode gas pol — fokus tajam, tekad kuat, dan nggak ada yang bisa ngalang-ngalangi. Ini saatnya tancap dan jangan biarkan distraksi menarikmu keluar dari jalur. Kemenangan ada di depan, tapi butuh konsistensi dan disiplin penuh untuk sampai ke sana.",
+        "Fokus penuh dan kemauan yang kuat adalah senjatamu saat ini. Jadikan hambatan sebagai bukti bahwa kamu sudah di jalur yang benar, bukan alasan untuk berhenti.",
+        "Ada kemenangan yang sedang menunggu di ujung usaha keras yang sedang kamu jalani. Tapi butuh kontrol diri yang tinggi — atas emosi, atas godaan untuk menyerah, atas energi yang perlu dijaga.",
+        "Kereta Kemenangan tidak melambangkan kecepatan semata, tapi kontrol atas kecepatan itu. Gas pada waktu yang tepat, rem ketika perlu — itulah kebijaksanaan si pemenang sejati."
+      ]
     },
     "reversed": {
       "makna": "Kurang Kontrol · Impulsif · Ugal-ugalan",
-      "deskripsi": "Kamu lagi ugal-ugalan secara emosional atau dalam pengambilan keputusan. Gas terus boleh, tapi kalau nggak ada setir dan rem, yang kena bukan cuma kamu. Slow down sebentar, pastikan arahmu benar, baru kencengin lagi."
+      "deskripsi": [
+        "Kamu lagi ugal-ugalan secara emosional atau dalam pengambilan keputusan. Gas terus boleh, tapi kalau nggak ada setir dan rem, yang kena bukan cuma kamu. Slow down sebentar, pastikan arahmu benar, baru kencengin lagi.",
+        "Energi yang dikeluarkan tanpa arah yang jelas akan menguras tanpa menghasilkan. Berhenti sebentar untuk pastikan kamu masih menuju ke tempat yang memang mau kamu tuju.",
+        "Ada agresivitas atau impulsivitas yang sedang mengendalikanmu, bukan kamu yang mengendalikannya. Ini adalah perbedaan yang sangat krusial untuk dikenali.",
+        "Kontrol yang berlebihan juga bisa jadi masalah — kadang perlu memberi ruang untuk hal-hal mengalir secara natural daripada dipaksakan ke arah tertentu."
+      ]
     }
   },
   {
@@ -145,11 +225,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Keberanian · Kesabaran · Kekuatan Batin",
-      "deskripsi": "Kekuatan sejatimu bukan dari otot, tapi dari kesabaran, keteguhan, dan compassion yang kamu punya. Kamu lebih tangguh dari yang kamu kira — buktinya kamu masih berdiri setelah semua yang sudah kamu lewati."
+      "deskripsi": [
+        "Kekuatan sejatimu bukan dari otot, tapi dari kesabaran, keteguhan, dan compassion yang kamu punya. Kamu lebih tangguh dari yang kamu kira — buktinya kamu masih berdiri setelah semua yang sudah kamu lewati.",
+        "Kekuatan yang paling tahan lama bukan yang meledak keras tapi yang menyala konsisten. Temperamu, kesabaranmu, kelembutanmu — semua itu adalah manifestasi dari power yang sangat dalam.",
+        "Ada tantangan yang butuh bukan kekerasanmu tapi kelembutanmu. Paradoxnya, kelembutan yang terkontrol jauh lebih kuat dari agresi yang lepas kendali.",
+        "Kamu sudah membuktikan dirimu mampu menghadapi hal-hal yang sulit lebih dari sekali. Percayai sejarahmu sendiri sebagai bukti bahwa kamu punya apa yang dibutuhkan sekarang."
+      ]
     },
     "reversed": {
       "makna": "Ragu Diri · Insecure · Kekuatan Terkuras",
-      "deskripsi": "Kamu lagi fase insecure yang bikin underestimate diri sendiri. Inner critic-mu lagi toxic banget dan kamu percaya semua omongannya. Ingat: singa juga pernah jadi anak singa yang lemah. Kekuatanmu masih ada, cuma lagi butuh recharge."
+      "deskripsi": [
+        "Kamu lagi fase insecure yang bikin underestimate diri sendiri. Inner critic-mu lagi toxic banget dan kamu percaya semua omongannya. Ingat: singa juga pernah jadi anak singa yang lemah. Kekuatanmu masih ada, cuma lagi butuh recharge.",
+        "Inner critic yang terlalu keras sedang sabotage kemampuanmu untuk bergerak maju. Suara itu bukan kebenaran — itu hanya ketakutan yang sudah terlalu lama diberi mikrofon.",
+        "Ada sesuatu yang menguras energimu secara konsisten tanpa kamu sadari. Identifikasi dan address itu sebelum habis sepenuhnya.",
+        "Kelemahan yang diakui dengan jujur jauh lebih kuat dari kepura-puraan yang kuat. Minta bantuan bukan kalah — itu cara paling cerdas untuk menang."
+      ]
     }
   },
   {
@@ -162,11 +252,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Introspeksi · Pencarian Diri · Kebijaksanaan Sunyi",
-      "deskripsi": "Saatnya menyendiri sebentar dan dengerin suara batinmu sendiri — bukan suara notifikasi atau suara orang-orang di sekitarmu. Periode silent mode ini justru penting untuk nemuin clarity dan arah selanjutnya. Bukan antisosial, tapi investasi ke dalam diri."
+      "deskripsi": [
+        "Saatnya menyendiri sebentar dan dengerin suara batinmu sendiri — bukan suara notifikasi atau suara orang-orang di sekitarmu. Periode silent mode ini justru penting untuk nemuin clarity dan arah selanjutnya. Bukan antisosial, tapi investasi ke dalam diri.",
+        "Jawaban yang kamu cari tidak ada di luar sana — ada dalam dirimu sendiri, menunggu di tempat yang tenang. Perjalanan ke dalam adalah yang paling penting sekarang.",
+        "Ini bukan saatnya untuk bergaul, bukan saatnya untuk perform. Ini saatnya untuk retreat, reflect, dan reconnect dengan siapa kamu sebenarnya di balik semua peran yang kamu mainkan.",
+        "Lampu Sang Pertapa bersinar untuk dirinya sendiri dulu — dan dari situ, menerangi jalan bagi orang lain yang tepat. Isi dirimu dulu sebelum menjadi cahaya bagi yang lain."
+      ]
     },
     "reversed": {
       "makna": "Isolasi Berlebihan · Kesepian · Penolakan Bantuan",
-      "deskripsi": "Kamu udah terlalu lama di mode hermit sampai mulai ngerasa terputus dari dunia. Menyendiri itu perlu, tapi ini udah kebablasan. Udah saatnya keluar dari gua, reconnect sama orang-orang yang peduli, dan biarkan orang lain masuk ke hidupmu lagi."
+      "deskripsi": [
+        "Kamu udah terlalu lama di mode hermit sampai mulai ngerasa terputus dari dunia. Menyendiri itu perlu, tapi ini udah kebablasan. Udah saatnya keluar dari gua, reconnect sama orang-orang yang peduli, dan biarkan orang lain masuk ke hidupmu lagi.",
+        "Isolasi yang sudah terlalu lama ini bukan lagi retreat yang sehat — sudah saatnya membuka pintu dan kembali terhubung dengan dunia di luar.",
+        "Ada keengganan untuk meminta bantuan atau menerima perspektif orang lain. Self-sufficiency yang ekstrem bisa jadi prison tersendiri yang membatasimu dari berkembang.",
+        "Persembunyian dari masalah tidak akan menyelesaikannya. Lampu di tangan Sang Pertapa justru digunakan untuk menerangi dan menghadapi kegelapan, bukan untuk bersembunyi dari sana."
+      ]
     }
   },
   {
@@ -179,11 +279,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Siklus · Keberuntungan · Momentum",
-      "deskripsi": "Roda kehidupanmu lagi berputar ke atas! Ini momentum yang sayang banget kalau dilewatkan. Manfaatkan setiap peluang yang muncul. Tapi ingat — roda terus berputar, jadi jangan lupa nabung dan invest saat lagi di atas. Keberuntungan suka sama orang yang siap."
+      "deskripsi": [
+        "Roda kehidupanmu lagi berputar ke atas! Ini momentum yang sayang banget kalau dilewatkan. Manfaatkan setiap peluang yang muncul. Tapi ingat — roda terus berputar, jadi jangan lupa nabung dan invest saat lagi di atas. Keberuntungan suka sama orang yang siap.",
+        "Roda berputar dan sekarang kamu ada di posisi yang menguntungkan. Ini bukan kebetulan — ini akumulasi dari pilihan-pilihan yang sudah kamu buat. Manfaatkan momentum ini sepenuhnya.",
+        "Perubahan besar sedang dalam perjalanan — atau mungkin sudah mulai kamu rasakan. Bukan sesuatu yang perlu ditakuti, tapi yang perlu dihadapi dengan kesiapan dan fleksibilitas.",
+        "Roda Nasib mengingatkan bahwa tidak ada yang permanen — baik yang baik maupun yang buruk. Bersyukurlah di saat baik dan bertahan dengan cerdas di saat sulit."
+      ]
     },
     "reversed": {
       "makna": "Nasib Buruk Sementara · Lagi di Bawah",
-      "deskripsi": "Lagi di titik bawah rodanya? Tenang, ini sementara — siklus alam semesta memang begitu. Sambil nunggu momentum balik, kurangin pengeluaran impulsif, perbanyak sabar, dan jangan buat keputusan besar dari posisi panik. Roda pasti akan berputar lagi."
+      "deskripsi": [
+        "Lagi di titik bawah rodanya? Tenang, ini sementara — siklus alam semesta memang begitu. Sambil nunggu momentum balik, kurangin pengeluaran impulsif, perbanyak sabar, dan jangan buat keputusan besar dari posisi panik. Roda pasti akan berputar lagi.",
+        "Putaran roda sedang ke arah bawah dan itu memang tidak enak. Tapi remember — roda tidak pernah berhenti. Yang terpenting adalah apa yang kamu lakukan selama di bawah.",
+        "Ada pola negatif yang terus berulang dalam hidupmu. Ini bukan nasib buruk semata — ini sinyal bahwa ada sesuatu dalam dirimu yang perlu berubah agar siklus ini bisa break.",
+        "Melawan arus perubahan yang sedang terjadi akan lebih melelahkan dari menyesuaikan diri. Adaptasi bukan kelemahan — itu kebijaksanaan dalam menghadapi ketidakpastian."
+      ]
     }
   },
   {
@@ -196,11 +306,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Keadilan · Konsekuensi · Keseimbangan",
-      "deskripsi": "Karma lagi aktif bekerja dengan penuh efisiensi. Semua keputusan dan tindakanmu sebelumnya akan ketemu balasannya — yang baik maupun yang kurang baik. Ini bukan ancaman, ini netralnya alam semesta."
+      "deskripsi": [
+        "Karma lagi aktif bekerja dengan penuh efisiensi. Semua keputusan dan tindakanmu sebelumnya akan ketemu balasannya — yang baik maupun yang kurang baik. Ini bukan ancaman, ini netralnya alam semesta.",
+        "Karma sedang bekerja secara aktif dan akurat. Apa yang sudah kamu lakukan dengan integritas akan diakui, dan apa yang dilakukan dengan tidak jujur akan menemukan konsekuensinya.",
+        "Ada keputusan penting yang harus dibuat berdasarkan fakta dan prinsip, bukan perasaan atau tekanan sosial. Sang Keadilan tidak bisa dipengaruhi oleh siapa yang lebih populer.",
+        "Keadilan yang sejati membutuhkan keberanian untuk mengakui kebenaran, bahkan ketika kebenaran itu tidak nyaman bagimu sendiri. Jadilah hakim yang adil untuk dirimu sendiri terlebih dahulu."
+      ]
     },
     "reversed": {
       "makna": "Ketidakadilan · Penghindaran · Sistem Rusak",
-      "deskripsi": "Kamu lagi ngerasa hidup nggak adil — dan mungkin memang betul begitu. Sistem rusak itu nyata. Tapi ngeluh dan nggak ngapa-ngapain juga nggak ngubah situasi. Cari apa yang bisa kamu kontrol dan ambil tindakan dari situ."
+      "deskripsi": [
+        "Kamu lagi ngerasa hidup nggak adil — dan mungkin memang betul begitu. Sistem rusak itu nyata. Tapi ngeluh dan nggak ngapa-ngapain juga nggak ngubah situasi. Cari apa yang bisa kamu kontrol dan ambil tindakan dari situ.",
+        "Ada ketidakadilan yang sedang terjadi — entah kamu yang melakukannya atau yang mengalaminya. Dalam kedua kasus, mendiamkannya hanya memperpanjang masalahnya.",
+        "Konsekuensi dari keputusan masa lalu sedang datang, dan menghindar hanya akan membuatnya semakin besar. Hadapi dan selesaikan sekarang sebelum terlambat.",
+        "Sistem yang seharusnya fair sedang bekerja dengan tidak adil. Jangan menyerah pada ketidakadilan itu, tapi juga jangan habiskan semua energi di pertempuran yang tidak bisa dimenangkan sendiri."
+      ]
     }
   },
   {
@@ -213,11 +333,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Jeda · Perspektif Baru · Pengorbanan",
-      "deskripsi": "Kamu lagi di fase pause yang mungkin frustasi, tapi ini justru waktu terbaik untuk ganti perspektif total. Coba lihat situasimu dari sudut pandang yang berbeda — bahkan upside down sekalipun. Seringkali solusi paling jenius datang dari perspektif yang paling nggak terduga."
+      "deskripsi": [
+        "Kamu lagi di fase pause yang mungkin frustasi, tapi ini justru waktu terbaik untuk ganti perspektif total. Coba lihat situasimu dari sudut pandang yang berbeda — bahkan upside down sekalipun. Seringkali solusi paling jenius datang dari perspektif yang paling nggak terduga.",
+        "Fase jeda yang tidak nyaman ini sebenarnya adalah pemberian. Waktu untuk melihat dari angle yang berbeda jarang tersedia di tengah kesibukan. Gunakan dengan bijak.",
+        "Sang Tergantung memilih jeda-nya secara sadar — dan dari perspektif terbalik itulah ia menemukan wisdom yang tidak bisa ditemukan dari sudut pandang biasa. Undanglah perspektif baru.",
+        "Pengorbanan yang diminta sekarang mungkin terasa tidak adil. Tapi ada yang harus dilepaskan agar yang lebih penting bisa datang. Percayai prosesnya meski belum terlihat ujungnya."
+      ]
     },
     "reversed": {
       "makna": "Penundaan Sia-sia · Nggak Mau Move On",
-      "deskripsi": "Kamu nunggu sesuatu yang nggak akan datang dalam bentuk yang kamu harapkan. Atau kamu udah lama nolak melepaskan situasi yang sudah expired. Pengorbananmu sudah cukup — saatnya ambil langkah maju, bukan terus gantung di tempat yang sama."
+      "deskripsi": [
+        "Kamu nunggu sesuatu yang nggak akan datang dalam bentuk yang kamu harapkan. Atau kamu udah lama nolak melepaskan situasi yang sudah expired. Pengorbananmu sudah cukup — saatnya ambil langkah maju, bukan terus gantung di tempat yang sama.",
+        "Kamu terlambat dalam situasi yang harusnya sudah selesai lama — entah karena resistance atau karena inertia. Sudah waktunya buat keputusan dan bergerak.",
+        "Pengorbanan yang terus dilakukan tanpa kejelasan kapan berakhir bisa jadi tanda bahwa ini bukan pengorbanan yang perlu, tapi martyr complex yang perlu diatasi.",
+        "Ada yang perlu diselesaikan dengan benar, bukan setengah jalan. Jangan keluar dari proses ini terlalu cepat hanya karena tidak nyaman — selesaikan dulu."
+      ]
     }
   },
   {
@@ -230,11 +360,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Akhir · Transformasi · Awal Baru",
-      "deskripsi": "Santai dulu — kartu ini bukan soal mati fisik. Ini soal sesuatu dalam hidupmu yang perlu berakhir supaya yang baru bisa dimulai. Relationship toxic, kebiasaan buruk, pekerjaan yang sudah expired, atau versi lamamu yang sudah tidak relevan. Lepaskan dengan damai."
+      "deskripsi": [
+        "Santai dulu — kartu ini bukan soal mati fisik. Ini soal sesuatu dalam hidupmu yang perlu berakhir supaya yang baru bisa dimulai. Relationship toxic, kebiasaan buruk, pekerjaan yang sudah expired, atau versi lamamu yang sudah tidak relevan. Lepaskan dengan damai.",
+        "Penutupan satu chapter bukanlah akhir dari cerita — ini transisi menuju yang jauh lebih sesuai dengan siapa kamu sekarang. Biarkan yang sudah selesai benar-benar selesai.",
+        "Sang Transformasi datang bukan untuk menghancurkan, tapi untuk membersihkan. Apa yang pergi memang harus pergi agar yang baru bisa datang ke ruang yang kosong itu.",
+        "Perubahan yang terasa menakutkan ini adalah evolusi yang tidak bisa dihindari. Lawan dan akan lebih menyakitkan. Terima dengan sadar dan prosesnya akan jauh lebih bermakna."
+      ]
     },
     "reversed": {
       "makna": "Resistensi Perubahan · Melekat pada Masa Lalu",
-      "deskripsi": "Kamu terlalu melekat pada hal-hal yang seharusnya sudah kamu tinggalkan. Kayak makanan basi yang masih disimpen di kulkas karena 'sayang'. Perubahan itu menakutkan, tapi menolaknya justru lebih melelahkan. Biarkan yang lama pergi agar yang baru bisa datang."
+      "deskripsi": [
+        "Kamu terlalu melekat pada hal-hal yang seharusnya sudah kamu tinggalkan. Kayak makanan basi yang masih disimpen di kulkas karena 'sayang'. Perubahan itu menakutkan, tapi menolaknya justru lebih melelahkan. Biarkan yang lama pergi agar yang baru bisa datang.",
+        "Sesuatu yang sudah seharusnya berakhir masih kamu tahan dengan keras. Bertanya pada diri sendiri: apakah ini masih worth it, atau ini hanya ketakutan akan unknown yang menahan?",
+        "Resistance terhadap perubahan yang tak terelakkan ini hanya memperpanjang transisi yang sudah perlu terjadi. Biaya dari terus menunda semakin mahal setiap harinya.",
+        "Ada stagnasi yang sangat dalam — seperti musim yang tidak mau berganti. Sesuatu dalam dirimu tahu perlu berubah tapi belum siap. Beri dirimu waktu, tapi jangan tanpa batas."
+      ]
     }
   },
   {
@@ -247,11 +387,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Keseimbangan · Moderasi · Kesabaran",
-      "deskripsi": "Alam semesta lagi minta kamu untuk slow down dan temukan keseimbangan sejati. Nggak perlu all-or-nothing di segala hal. Middle path itu bukan berarti setengah-setengah — justru di situlah sustainability hidup."
+      "deskripsi": [
+        "Alam semesta lagi minta kamu untuk slow down dan temukan keseimbangan sejati. Nggak perlu all-or-nothing di segala hal. Middle path itu bukan berarti setengah-setengah — justru di situlah sustainability hidup.",
+        "Tidak semua sesuatu perlu diputuskan hari ini. Sang Penyeimbang mengajarkan bahwa proses yang sabar dan penuh perhatian menghasilkan sesuatu yang jauh lebih lasting dari yang terburu-buru.",
+        "Ada seni dalam mencampur hal-hal yang berbeda menjadi sesuatu yang harmonis. Kamu sedang belajar bagaimana menyeimbangkan aspek-aspek kehidupan yang tampaknya bertentangan.",
+        "Ini saat yang tepat untuk healing — bukan drama, bukan extremes, tapi proses penyembuhan yang tenang dan konsisten yang membawa keseimbangan ke dalam tubuh, pikiran, dan jiwa."
+      ]
     },
     "reversed": {
       "makna": "Berlebihan · Tidak Seimbang · Extreme",
-      "deskripsi": "Kamu lagi di mode extreme — entah workaholic gila-gilaan sampai lupa makan, atau rebahan total sampai produktivitas nol. Dua-duanya nggak sustainable dan nggak sehat. Cari titik tengah yang bisa bikin kamu jalan terus dalam jangka panjang."
+      "deskripsi": [
+        "Kamu lagi di mode extreme — entah workaholic gila-gilaan sampai lupa makan, atau rebahan total sampai produktivitas nol. Dua-duanya nggak sustainable dan nggak sehat. Cari titik tengah yang bisa bikin kamu jalan terus dalam jangka panjang.",
+        "Semua atau tidak sama sekali — pendekatan ini tidak akan membawamu ke mana yang kamu tuju. Ada kebutuhan mendesak untuk mencari titik tengah yang sustainable.",
+        "Excess dalam satu area hidup sedang melemahkan semua area lainnya. Audit dengan jujur: di mana kamu berlebihan dan di mana kamu kekurangan?",
+        "Ketidaksabaran yang kamu rasakan sekarang adalah sinyal untuk slow down, bukan untuk gas lebih keras. Proses yang dilewati terlalu cepat sering harus diulang dari awal."
+      ]
     }
   },
   {
@@ -264,11 +414,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Terjebak · Obsesi · Belenggu",
-      "deskripsi": "Ada sesuatu yang bikin kamu merasa terjebak — bisa habit buruk, relationship toxic, pola pikir negatif, atau ketagihan scroll media sosial sampai jam 3 pagi. Yang bikin unik: belenggu ini seringkali kamu pasang sendiri tanpa sadar. Kamu tahu apa itu."
+      "deskripsi": [
+        "Ada sesuatu yang bikin kamu merasa terjebak — bisa habit buruk, relationship toxic, pola pikir negatif, atau ketagihan scroll media sosial sampai jam 3 pagi. Yang bikin unik: belenggu ini seringkali kamu pasang sendiri tanpa sadar. Kamu tahu apa itu.",
+        "Belenggu yang paling kuat adalah yang kamu pikir tidak bisa kamu lepas, padahal kuncinya ada di tanganmu sendiri sejak awal. Saatnya berani melihat itu dengan jujur.",
+        "Ada dependensi yang tidak sehat — pada orang, substansi, pola pikir, atau situasi — yang perlu diakui sebelum bisa ditangani. Pengakuan adalah langkah pertama yang terberat.",
+        "Sang Iblis tidak memaksamu — dia hanya menawarkan dan kamu yang memilih untuk tetap. Pertanyaan yang paling penting: apa yang membuatmu tetap memilih untuk tinggal di sana?"
+      ]
     },
     "reversed": {
       "makna": "Pembebasan · Melepas Belenggu · Sadar Diri",
-      "deskripsi": "Kamu lagi dalam proses melepaskan diri dari apa yang dulu mengikatmu. Mungkin butuh waktu, mungkin prosesnya nggak mulus, tapi arahnya sudah benar. Hampir bebas — tahan terus dan jangan balik lagi ke pola yang sudah kamu tinggalkan."
+      "deskripsi": [
+        "Kamu lagi dalam proses melepaskan diri dari apa yang dulu mengikatmu. Mungkin butuh waktu, mungkin prosesnya nggak mulus, tapi arahnya sudah benar. Hampir bebas — tahan terus dan jangan balik lagi ke pola yang sudah kamu tinggalkan.",
+        "Kamu sedang dalam proses melepaskan sesuatu yang sudah lama membelenggu — dan itu butuh keberanian yang luar biasa. Teruskan prosesnya meski tidak mudah.",
+        "Sadar akan belenggu sendiri adalah langkah pertama yang sangat besar. Sekarang butuh tindakan konkret untuk benar-benar bergerak keluar, bukan hanya menyadarinya.",
+        "Ada risiko untuk jatuh kembali ke pola lama yang comfortable meski tidak sehat. Waspada terhadap rationalisasi yang biasanya muncul di saat seperti ini."
+      ]
     }
   },
   {
@@ -281,11 +441,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Perubahan Mendadak · Kekacauan · Revelasi",
-      "deskripsi": "Perubahan besar dan tiba-tiba sedang terjadi atau akan segera terjadi. Mungkin mengejutkan, mungkin menyakitkan — tapi seringkali ini adalah hal yang diperlukan. Fondasi yang rapuh memang perlu diruntuhkan agar yang lebih solid bisa dibangun di atasnya."
+      "deskripsi": [
+        "Perubahan besar dan tiba-tiba sedang terjadi atau akan segera terjadi. Mungkin mengejutkan, mungkin menyakitkan — tapi seringkali ini adalah hal yang diperlukan. Fondasi yang rapuh memang perlu diruntuhkan agar yang lebih solid bisa dibangun di atasnya.",
+        "Apa yang runtuh memang perlu runtuh — fondasi yang rapuh tidak layak untuk mimpi yang besar. Dari puing inilah yang jauh lebih solid akan dibangun.",
+        "Revelasi yang mengejutkan ini mungkin terasa menghancurkan, tapi ia membersihkan ilusi yang selama ini menghalangimu dari melihat kenyataan dengan jelas. Ini liberation, bukan bencana.",
+        "Sang Menara mengingatkan bahwa kita tidak bisa terus membangun di atas yang sudah retak. Kadang semesta yang harus intervensi karena kita tidak mau melakukannya sendiri."
+      ]
     },
     "reversed": {
       "makna": "Menghindari Bencana · Perubahan Ditunda",
-      "deskripsi": "Kamu berhasil dodge drama besar... untuk sementara. Atau kamu lagi nunda-nunda menghadapi masalah yang sudah menumpuk. Menara itu akan runtuh cepat atau lambat — lebih baik kamu yang kendalikan kapan dan bagaimana daripada mendadak collapse sendiri."
+      "deskripsi": [
+        "Kamu berhasil dodge drama besar... untuk sementara. Atau kamu lagi nunda-nunda menghadapi masalah yang sudah menumpuk. Menara itu akan runtuh cepat atau lambat — lebih baik kamu yang kendalikan kapan dan bagaimana daripada mendadak collapse sendiri.",
+        "Kamu berhasil menghindari krisis besar — tapi jangan sampai ini membuatmu lupa untuk perbaiki yang bermasalah sebelum meledak di waktu yang paling tidak tepat.",
+        "Ada ketakutan akan perubahan yang begitu besar sehingga kamu memilih untuk tetap di situasi yang sudah jelas tidak bekerja. Berapa lama lagi ini bisa berlanjut?",
+        "Chaos yang sedang terjadi bisa dikelola kalau kamu mau menghadapinya secara langsung dan jujur. Menghindar hanya akan membuat robohannya lebih besar nanti."
+      ]
     }
   },
   {
@@ -298,11 +468,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Harapan · Inspirasi · Pemulihan",
-      "deskripsi": "Setelah semua chaos yang kamu lewati, ada cahaya harapan yang nyata dan terang di depan. Energi semestamu lagi sangat positif dan healing. Percaya prosesnya, percaya dirimu, dan yakin bahwa semuanya memang akan baik-baik saja."
+      "deskripsi": [
+        "Setelah semua chaos yang kamu lewati, ada cahaya harapan yang nyata dan terang di depan. Energi semestamu lagi sangat positif dan healing. Percaya prosesnya, percaya dirimu, dan yakin bahwa semuanya memang akan baik-baik saja.",
+        "Setelah badai panjang, ada ketenangan dan harapan yang genuine menunggu. Sang Bintang tidak menjanjikan bahwa semuanya akan mudah, tapi bahwa cahaya itu nyata dan akan ditemukan.",
+        "Ini saatnya untuk healing yang sesungguhnya — bukan hanya memendam dan pura-pura baik-baik saja, tapi membiarkan luka benar-benar menutup dengan cara yang alami dan tulus.",
+        "Ada inspirasi yang mengalir dengan sangat deras sekarang. Percayai visi yang datang karena itu bukan sekadar mimpi kosong — ada potensi nyata di baliknya yang perlu ditindaklanjuti."
+      ]
     },
     "reversed": {
       "makna": "Putus Asa · Kehilangan Arah · Krisis Keyakinan",
-      "deskripsi": "Kamu lagi kehilangan sense of purpose dan nggak tahu lagi harus melangkah ke mana. Rasanya kayak ngorek langit malam tapi nggak ada bintang yang keliatan. Wajar kok, tapi jangan dibiarkan terlalu lama. Cahaya itu masih ada — mungkin cuma perlu kamu cari dari arah yang berbeda."
+      "deskripsi": [
+        "Kamu lagi kehilangan sense of purpose dan nggak tahu lagi harus melangkah ke mana. Rasanya kayak ngorek langit malam tapi nggak ada bintang yang keliatan. Wajar kok, tapi jangan dibiarkan terlalu lama. Cahaya itu masih ada — mungkin cuma perlu kamu cari dari arah yang berbeda.",
+        "Harapan yang sudah tipis perlu dinyalakan kembali dari tempat yang mungkin tidak terduga. Cari satu hal kecil yang masih bisa dipercaya dan mulai dari sana.",
+        "Cynicism dan pessimisme yang sedang dominan adalah luka yang belum sembuh, bukan kebenaran tentang dunia. Bedakan antara realisme yang sehat dan pesimisme yang memasung.",
+        "Ada impian yang sudah lama ditaruh dalam laci karena takut kecewa. Mungkin saatnya dibuka kembali dan dievaluasi dengan mata yang lebih jelas sekarang."
+      ]
     }
   },
   {
@@ -315,11 +495,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Ilusi · Ketidakpastian · Alam Bawah Sadar",
-      "deskripsi": "Segala sesuatu tidak seperti yang terlihat — ada yang disembunyikan, ada yang belum terungkap, dan intuisimu terus kasih sinyal aneh. Percayai insting, tapi juga jangan sampai parno dan curiga berlebihan. Kabut akan terangkat pada waktunya."
+      "deskripsi": [
+        "Segala sesuatu tidak seperti yang terlihat — ada yang disembunyikan, ada yang belum terungkap, dan intuisimu terus kasih sinyal aneh. Percayai insting, tapi juga jangan sampai parno dan curiga berlebihan. Kabut akan terangkat pada waktunya.",
+        "Ketidakpastian ini adalah kondisi sementara yang akan berlalu. Sementara menunggu kejelasan, percayai feeling-mu lebih dari semua interpretasi dan opini orang lain.",
+        "Ada yang sedang berjalan di bawah permukaan yang belum bisa dilihat dengan jelas. Bersabar dan berhati-hatilah — tidak semua yang terlihat adalah apa adanya.",
+        "Sang Rembulan mengajarkan bahwa gelap tidak berarti kosong — banyak yang bisa dipelajari dan ditemukan di kegelapan yang terasa menakutkan ini kalau berani dinavigasi."
+      ]
     },
     "reversed": {
       "makna": "Kebingungan Teratasi · Kejelasan Datang",
-      "deskripsi": "Kabut mulai terangkat! Situasi yang dulu membingungkan dan penuh ilusi mulai keliatan jelas wujud aslinya. Kamu mulai bisa bedain mana yang genuine dan mana yang sekadar pertunjukan."
+      "deskripsi": [
+        "Kabut mulai terangkat! Situasi yang dulu membingungkan dan penuh ilusi mulai keliatan jelas wujud aslinya. Kamu mulai bisa bedain mana yang genuine dan mana yang sekadar pertunjukan.",
+        "Kebingungan mulai mencair dan gambaran yang lebih jelas sedang muncul. Gunakan clarity baru ini untuk membuat keputusan yang sudah terlalu lama tertunda.",
+        "Ketakutan yang tidak berdasar sedang mereda. Apa yang tampak menakutkan di kegelapan ternyata tidak sekuat yang dibayangkan saat dilihat dalam cahaya.",
+        "Ada kelegaan dari konfusi yang berlangsung lama. Tapi tetap berhati-hati — tidak semua ilusi sudah hilang dan masih ada yang perlu diverifikasi dengan seksama."
+      ]
     }
   },
   {
@@ -332,11 +522,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Kebahagiaan · Vitalitas · Keberhasilan",
-      "deskripsi": "Kartu paling bright dan happy di seluruh tarot! Energimu sedang bersinar sangat terang, keberuntungan berpihak kepadamu, dan hidup terasa genuinely menyenangkan. Nikmatin momen ini sepenuhnya tanpa rasa bersalah. Kamu berhak happy, dan semesta setuju."
+      "deskripsi": [
+        "Kartu paling bright dan happy di seluruh tarot! Energimu sedang bersinar sangat terang, keberuntungan berpihak kepadamu, dan hidup terasa genuinely menyenangkan. Nikmatin momen ini sepenuhnya tanpa rasa bersalah. Kamu berhak happy, dan semesta setuju.",
+        "Ini periode paling bright dalam waktu yang cukup lama. Semuanya terasa lebih ringan, lebih clear, dan lebih possible dari sebelumnya. Nikmati ini sepenuhnya tanpa rasa bersalah.",
+        "Keceriaan dan vitalitas yang kamu rasakan sekarang adalah kondisi alami yang deserved. Biarkan sinar itu juga menerangi orang-orang di sekitarmu yang mungkin sedang butuh kehangatan.",
+        "Sang Surya mengajarkan bahwa kebahagiaan yang genuine bukan dari tidak ada masalah, tapi dari energi yang cukup dan jelas untuk menghadapinya. Kamu punya itu sekarang."
+      ]
     },
     "reversed": {
       "makna": "Sedikit Redup · Overconfident · Kebahagiaan Tertunda",
-      "deskripsi": "Energimu masih positif secara fundamental, tapi ada bayangan kecil yang ngalangin sinarnya. Mungkin kamu terlalu PD sampai jadi jumawa, atau kebahagiaanmu lagi ditahan oleh ekspektasi dan pendapat orang lain. Ingat sinar matahari: nggak perlu izin siapa pun untuk bersinar."
+      "deskripsi": [
+        "Energimu masih positif secara fundamental, tapi ada bayangan kecil yang ngalangin sinarnya. Mungkin kamu terlalu PD sampai jadi jumawa, atau kebahagiaanmu lagi ditahan oleh ekspektasi dan pendapat orang lain. Ingat sinar matahari: nggak perlu izin siapa pun untuk bersinar.",
+        "Ada sesuatu yang menghalangi sinar — bisa ego yang terlalu besar, ekspektasi yang tidak realistis, atau perbandingan dengan orang lain yang tidak perlu. Lepaskan itu.",
+        "Optimisme yang berlebihan tanpa dasar bisa menjadi bumerang. Tetap positive, tapi juga stay grounded dan realistic tentang apa yang ada di depan.",
+        "Kebahagiaan yang sedang tertunda ini bukan hilang selamanya — ada yang perlu diselesaikan dulu sebelum bisa fully enjoy. Selesaikan, dan sinar itu akan kembali."
+      ]
     }
   },
   {
@@ -349,11 +549,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Kebangkitan · Panggilan Jiwa · Evaluasi Besar",
-      "deskripsi": "Kamu lagi di momen reckoning — saatnya evaluasi besar dan dengar panggilan jiwa yang sebenarnya. Ini bukan soal penilaian orang lain, tapi penilaian dirimu sendiri terhadap hidupmu sendiri. Apakah kamu sudah hidup sesuai nilai-nilaimu?"
+      "deskripsi": [
+        "Kamu lagi di momen reckoning — saatnya evaluasi besar dan dengar panggilan jiwa yang sebenarnya. Ini bukan soal penilaian orang lain, tapi penilaian dirimu sendiri terhadap hidupmu sendiri. Apakah kamu sudah hidup sesuai nilai-nilaimu?",
+        "Ada panggilan yang sangat jelas dari dalam — arah yang benar yang sudah kamu tahu tapi belum berani ikuti sepenuhnya. Ini saatnya merespons panggilan itu dengan sungguh-sungguh.",
+        "Evaluasi besar sedang terjadi. Bukan tentang penilaian dari luar, tapi tentang kejujuranmu pada dirimu sendiri: apakah hidup yang sedang kamu jalani adalah hidup yang benar-benar kamu pilih?",
+        "Sang Penghakiman mengingatkan bahwa kebangkitan terbesar selalu didahului oleh evaluasi yang sangat jujur dan sering tidak nyaman. Beranilah untuk melihat dengan clear."
+      ]
     },
     "reversed": {
       "makna": "Menyalahkan Diri · Keraguan · Tidak Mau Evaluasi",
-      "deskripsi": "Kamu terlalu keras dalam menghakimi diri sendiri — inner critic-mu lagi on overdrive. Atau kamu justru menghindari evaluasi jujur karena takut sama kebenarannya. Saatnya berdamai dengan masa lalu agar bisa melangkah ke depan."
+      "deskripsi": [
+        "Kamu terlalu keras dalam menghakimi diri sendiri — inner critic-mu lagi on overdrive. Atau kamu justru menghindari evaluasi jujur karena takut sama kebenarannya. Saatnya berdamai dengan masa lalu agar bisa melangkah ke depan.",
+        "Ada penghakiman yang sangat keras pada dirimu sendiri — kesalahan masa lalu yang tidak bisa dimaafkan. Tapi pengampunan diri adalah prerequisite untuk bisa bergerak maju.",
+        "Denial terhadap kebenaran tentang dirimu sendiri tidak bisa berlangsung selamanya. Semakin lama ditunda, semakin besar biayanya ketika akhirnya harus dihadapi.",
+        "Penilaian yang terlalu fokus pada apa yang sudah salah, bukan pada apa yang bisa diperbaiki, adalah penjara yang tidak perlu. Ubah perspektif ke arah yang lebih konstruktif."
+      ]
     }
   },
   {
@@ -366,11 +576,21 @@
     "suit_emoji": "⭐",
     "upright": {
       "makna": "Penyelesaian · Pencapaian · Integrasi",
-      "deskripsi": "Siklus besar dalam hidupmu hampir atau sudah selesai. Kamu sudah melewati banyak sekali — dan sekarang sampai di titik yang layak kamu rayakan. Ini bukan akhir, ini graduation menuju siklus berikutnya yang lebih besar. Selamat!"
+      "deskripsi": [
+        "Siklus besar dalam hidupmu hampir atau sudah selesai. Kamu sudah melewati banyak sekali — dan sekarang sampai di titik yang layak kamu rayakan. Ini bukan akhir, ini graduation menuju siklus berikutnya yang lebih besar. Selamat!",
+        "Sebuah siklus besar telah selesai dan kamu berdiri di puncaknya dengan pengalaman yang sangat kaya. Ini bukan akhir — ini adalah kelulusan menuju petualangan yang lebih besar.",
+        "Integrasi dari semua yang sudah dipelajari dan dialami sedang terjadi. Kamu menjadi versi yang lebih utuh dan lebih bijak dari dirimu sendiri — dan itu adalah pencapaian terbesar.",
+        "Sang Dunia merayakan bukan hanya pencapaian, tapi perjalanannya. Setiap tantangan, setiap pelajaran, setiap momen — semua itu menjadikanmu the complete version of yourself ini."
+      ]
     },
     "reversed": {
       "makna": "Penyelesaian Tertunda · Shortcut · Setengah Jalan",
-      "deskripsi": "Kamu hampir sampai di garis finish tapi sepertinya mau ambil jalan pintas di ujung perjalanan. Jangan — selesaikan dengan benar dan lengkap supaya kamu bisa puas dan bangga secara total. Setengah selesai itu sama dengan setengah mulai."
+      "deskripsi": [
+        "Kamu hampir sampai di garis finish tapi sepertinya mau ambil jalan pintas di ujung perjalanan. Jangan — selesaikan dengan benar dan lengkap supaya kamu bisa puas dan bangga secara total. Setengah selesai itu sama dengan setengah mulai.",
+        "Garis finish sudah dekat tapi kamu sedang tergoda untuk ambil shortcut yang akan meninggalkan sesuatu yang penting tidak terselesaikan. Jangan — selesaikan dengan benar.",
+        "Ada perasaan bahwa sesuatu belum benar-benar selesai, meski di permukaan tampak sudah. Dengarkan perasaan itu dan identifikasi apa yang masih perlu ditangani.",
+        "Kegagalan untuk fully close satu chapter akan terus membebani semua chapter berikutnya. Butuh keberanian untuk benar-benar menutup yang sudah seharusnya selesai."
+      ]
     }
   },
   {
@@ -383,11 +603,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Inspirasi · Percikan Awal · Hasrat Baru",
-      "deskripsi": "Ide cemerlang baru saja meledak di kepalamu seperti kembang api dadakan. Energi ini perlu disalurkan SEKARANG sebelum padam. Mulai aja dulu, detail belakangan — momennya lagi perfect dan nggak akan nunggu kamu lama-lama mikir."
+      "deskripsi": [
+        "Ide cemerlang baru saja meledak di kepalamu seperti kembang api dadakan. Energi ini perlu disalurkan SEKARANG sebelum padam. Mulai aja dulu, detail belakangan — momennya lagi perfect dan nggak akan nunggu kamu lama-lama mikir.",
+        "Percikan ini adalah hadiah dari semesta — jangan biarkan ia padam karena terlalu banyak analisis. Tangkap energi ini dan mulailah dengan satu tindakan konkret sekarang juga.",
+        "Ada hasrat baru yang muncul dan terasa sangat berbeda dari sebelumnya. Ini bukan sekedar mood — ini adalah sinyal nyata tentang arah yang aligned dengan siapa kamu sebenarnya.",
+        "Kreativitas dan ambisi sedang dalam fase paling fertile. Apapun yang dimulai sekarang membawa potensi besar yang mungkin tidak kamu bayangkan saat memulainya."
+      ]
     },
     "reversed": {
       "makna": "Mandek · Energi Terganjal · Prokrastinasi",
-      "deskripsi": "Idenya ada, semangatnya entah lagi kemana. Kamu tahu mau ngapain tapi susah banget mulai. Paksa satu langkah kecil saja — momentum biasanya datang setelah langkah pertama, bukan sebelumnya."
+      "deskripsi": [
+        "Idenya ada, semangatnya entah lagi kemana. Kamu tahu mau ngapain tapi susah banget mulai. Paksa satu langkah kecil saja — momentum biasanya datang setelah langkah pertama, bukan sebelumnya.",
+        "Energi yang ingin keluar tapi terus tersumbat. Cek apa yang menghalangi — apakah rasa takut, kurangnya support, atau hanya kebiasaan menunda yang sudah terlalu lama?",
+        "Start yang terus-terusan gagal bisa jadi tanda bahwa arahnya perlu dikalibrasi ulang, bukan hanya dipaksa lebih keras. Dengarkan sinyal resistensi itu.",
+        "Prokrastinasi yang sudah terlalu lama ini bukan tentang kesiapan — kamu tidak akan pernah merasa 100% siap. Mulai dengan 30% siap dan biarkan prosesnya yang mengajarkan sisanya."
+      ]
     }
   },
   {
@@ -400,11 +630,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Visi · Perencanaan · Dunia di Tanganmu",
-      "deskripsi": "Kamu sudah punya fondasi yang bagus dan sekarang saatnya plan langkah berikutnya yang lebih besar. Dunia terbuka lebar di depanmu — pilih arah dengan bold, bukan dengan ragu-ragu yang bikin momentumnya hilang."
+      "deskripsi": [
+        "Kamu sudah punya fondasi yang bagus dan sekarang saatnya plan langkah berikutnya yang lebih besar. Dunia terbuka lebar di depanmu — pilih arah dengan bold, bukan dengan ragu-ragu yang bikin momentumnya hilang.",
+        "Dunia terbuka lebar di depanmu dan hanya ketakutanlah yang bisa membuat kamu memilih untuk tetap di tempat yang sama. Pilih arah dengan berani dan mulai bergerak.",
+        "Fase perencanaan ini sangat penting — bukan untuk tunda aksi, tapi untuk pastikan aksi yang diambil memiliki arah yang jelas. Plan yang baik adalah yang memungkinkan penyesuaian.",
+        "Ada dua jalan di depan yang sama-sama menarik. Pilih yang paling aligned dengan siapa kamu ingin menjadi, bukan yang paling aman atau yang paling diharapkan orang lain."
+      ]
     },
     "reversed": {
       "makna": "Takut Melangkah · Analisis Berlebih",
-      "deskripsi": "Terlalu banyak planning sampai nggak pernah eksekusi. Peta sudah digambar berkali-kali tapi perjalanannya belum dimulai. Kapan rencananya jadi kenyataan? Analisis itu perlu, tapi ada titiknya harus berhenti dan mulai jalan."
+      "deskripsi": [
+        "Terlalu banyak planning sampai nggak pernah eksekusi. Peta sudah digambar berkali-kali tapi perjalanannya belum dimulai. Kapan rencananya jadi kenyataan? Analisis itu perlu, tapi ada titiknya harus berhenti dan mulai jalan.",
+        "Visi yang terlalu jauh tanpa execution roadmap yang jelas adalah fantasma yang menguras energi. Bawa mimpimu turun ke bumi dan jadikan lebih konkret dan actionable.",
+        "Ketakutan akan masa depan yang tidak pasti mengunci kamu di tempat yang jelas-jelas sudah terlalu kecil. Ketidakpastian adalah harga yang harus dibayar untuk pertumbuhan.",
+        "Terlalu banyak opsi yang dipertimbangkan tanpa keputusan yang dibuat. Membuat keputusan yang imperfect jauh lebih baik dari tidak pernah membuat keputusan sama sekali."
+      ]
     }
   },
   {
@@ -417,11 +657,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Ekspansi · Menanti Hasil · Progress",
-      "deskripsi": "Benih yang kamu tanam sudah berkecambah dan kapal-kapalmu mulai berlayar ke cakrawala. Ini fase menunggu yang produktif — stay ready untuk ketika hasilnya mulai berdatangan dari arah yang mungkin tidak kamu duga."
+      "deskripsi": [
+        "Benih yang kamu tanam sudah berkecambah dan kapal-kapalmu mulai berlayar ke cakrawala. Ini fase menunggu yang produktif — stay ready untuk ketika hasilnya mulai berdatangan dari arah yang mungkin tidak kamu duga.",
+        "Kapal-kapalmu sudah berlayar — sekarang saatnya menjaga momentum dan bersiap untuk menerima apa yang sudah kamu kirimkan ke luar sana. Hasilnya sedang dalam perjalanan.",
+        "Ekspansi yang kamu impikan sudah mulai terwujud. Ini bukan saatnya untuk meragukan keputusan yang sudah dibuat — ini saatnya untuk tetap fokus dan continue building.",
+        "Ada kesabaran aktif yang dibutuhkan sekarang. Bukan diam tanpa aksi, tapi tetap bergerak sambil menunggu hasil dari usaha yang sudah dilakukan sebelumnya matang."
+      ]
     },
     "reversed": {
       "makna": "Keterlambatan · Ekspansi Terhambat",
-      "deskripsi": "Progress terhambat oleh faktor yang di luar kontrolmu — atau mungkin juga yang di dalam kontrolmu. Identifikasi mana yang bisa diubah dan fokus di sana dulu daripada mengeluhkan yang tidak bisa."
+      "deskripsi": [
+        "Progress terhambat oleh faktor yang di luar kontrolmu — atau mungkin juga yang di dalam kontrolmu. Identifikasi mana yang bisa diubah dan fokus di sana dulu daripada mengeluhkan yang tidak bisa.",
+        "Ada sesuatu yang menghambat progress yang harusnya sudah lebih jauh dari sekarang. Apakah hambatannya eksternal atau internal? Bedakan keduanya sebelum bertindak.",
+        "Ekspektasi yang tidak realistis tentang timeline membuat kamu frustrated terhadap progress yang sebenarnya sudah ada. Calibrate ulang ekspektasimu.",
+        "Rencana yang sudah disusun dengan baik sedang mengalami delay yang di luar kontrol. Adaptasi dan jangan biarkan frustrasi mengubah strategi yang sebenarnya sudah benar."
+      ]
     }
   },
   {
@@ -434,11 +684,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Selebrasi · Stabilitas · Rumah",
-      "deskripsi": "Saatnya rayakan pencapaian yang sudah kamu capai — besar maupun kecil. Istirahat sejenak, apresiasi prosesnya, dan nikmati momen stabilitas yang sudah kamu bangun dengan susah payah ini. Kamu berhak perayaan yang proper."
+      "deskripsi": [
+        "Saatnya rayakan pencapaian yang sudah kamu capai — besar maupun kecil. Istirahat sejenak, apresiasi prosesnya, dan nikmati momen stabilitas yang sudah kamu bangun dengan susah payah ini. Kamu berhak perayaan yang proper.",
+        "Milestone ini layak dirayakan sepenuh hati. Terlalu sering kita lewati pencapaian tanpa benar-benar berhenti untuk menghargainya. Berhentilah dan rayakan ini dengan proper.",
+        "Ada harmoni dan kegembiraan di rumah atau di circle terdekat yang perlu dijaga dan dirawat. Fondasi yang stabil ini adalah yang memungkinkan semua hal lain tumbuh.",
+        "Empat Tongkat mengingatkan bahwa stabilitas bukan stagnansi — ia adalah platform yang kuat untuk meluncur lebih tinggi. Nikmati dan gunakan kestabilan ini dengan bijak."
+      ]
     },
     "reversed": {
       "makna": "Disharmoni · Ketidakstabilan",
-      "deskripsi": "Ada yang tidak harmonis di lingkungan terdekatmu — entah di rumah, keluarga, atau inner circle. Di luar kelihatan fine tapi dalamnya ada ketegangan yang perlu diakui dan diselesaikan, bukan didiamkan."
+      "deskripsi": [
+        "Ada yang tidak harmonis di lingkungan terdekatmu — entah di rumah, keluarga, atau inner circle. Di luar kelihatan fine tapi dalamnya ada ketegangan yang perlu diakui dan diselesaikan, bukan didiamkan.",
+        "Ada keretakan di balik facade harmoni yang perlu diakui sebelum bisa diperbaiki. Masalah yang diabaikan di rumah akan terus mempengaruhi semua aspek kehidupan lainnya.",
+        "Perayaan yang kamu butuhkan terus tertunda karena selalu ada yang lebih penting. Tapi celebrating progress adalah bagian dari proses, bukan distraksi dari tujuan.",
+        "Fondasi yang tampak kokoh sebenarnya perlu penguatan. Jangan menunggu sampai retak sempurna untuk mulai memperbaiki — maintain sekarang jauh lebih mudah."
+      ]
     }
   },
   {
@@ -451,11 +711,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Kompetisi · Konflik Kecil · Ego Bertabrakan",
-      "deskripsi": "Banyak pihak dengan agenda dan ego masing-masing lagi rebutan pengaruh dan perhatian di sekelilingmu. Navigate dengan smart — menangkan yang perlu dimenangkan, biarkan yang tidak worth your time and energy."
+      "deskripsi": [
+        "Banyak pihak dengan agenda dan ego masing-masing lagi rebutan pengaruh dan perhatian di sekelilingmu. Navigate dengan smart — menangkan yang perlu dimenangkan, biarkan yang tidak worth your time and energy.",
+        "Gesekan dan kompetisi yang ada sekarang, meski melelahkan, sebenarnya mendorongmu untuk perform lebih baik. Jadikan tekanan ini sebagai bahan bakar, bukan beban.",
+        "Ada banyak perspektif yang berbeda dan semua merasa paling benar. Seni di sini bukan memenangkan debat, tapi memfasilitasi energi itu ke arah yang produktif.",
+        "Konflik kecil yang terjadi sekarang adalah kesempatan untuk memperjelas posisi dan prinsipmu. Stand your ground tapi tetap open terhadap kemungkinan yang kamu belum pikirkan."
+      ]
     },
     "reversed": {
       "makna": "Konflik Mereda · Damai Rapuh",
-      "deskripsi": "Konflik yang ada mulai mereda atau sengaja dihindari semua pihak. Damai yang rapuh lebih baik dari perang yang tidak perlu — tapi pastikan isu utamanya tetap diselesaikan suatu saat, bukan hanya dikubur hidup-hidup."
+      "deskripsi": [
+        "Konflik yang ada mulai mereda atau sengaja dihindari semua pihak. Damai yang rapuh lebih baik dari perang yang tidak perlu — tapi pastikan isu utamanya tetap diselesaikan suatu saat, bukan hanya dikubur hidup-hidup.",
+        "Konflik yang sudah mereda ini meninggalkan pelajaran penting. Ambil waktu untuk refleksi: apa yang bisa dipelajari dari dinamika yang baru saja terjadi?",
+        "Kedamaian yang terasa sekarang mungkin hanya gencatan senjata, bukan resolusi sejati. Pastikan isu utama benar-benar diselesaikan, bukan hanya tersapu di bawah karpet.",
+        "Ada kemungkinan untuk keluar dari pola konflik yang berulang jika kamu mau be the first to change the dynamic. Itu butuh ego yang kuat tapi rendah hati."
+      ]
     }
   },
   {
@@ -468,11 +738,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Kemenangan · Pengakuan · Sukses Publik",
-      "deskripsi": "Momen kemenangan dan pengakuan yang sangat kamu deserve akhirnya datang. Terima dengan graceful dan rayakan dengan sepantasnya — kamu sudah kerja keras untuk ini dan orang-orang melihatnya."
+      "deskripsi": [
+        "Momen kemenangan dan pengakuan yang sangat kamu deserve akhirnya datang. Terima dengan graceful dan rayakan dengan sepantasnya — kamu sudah kerja keras untuk ini dan orang-orang melihatnya.",
+        "Kemenangan ini adalah pembuktian nyata bahwa kerja kerasmu tidak sia-sia. Terima pengakuan ini dengan graceful — bukan dengan merendah palsu dan bukan dengan arogan.",
+        "Energi yang positif dari keberhasilan ini akan menarik lebih banyak hal-hal baik. Jaga momentum dan jangan biarkan rasa nyaman dari kemenangan ini membuat kamu berhenti bergerak.",
+        "Ada yang sangat menarik dari cara Enam Tongkat terbentang — kemenangan yang dibagikan dengan orang lain selalu terasa lebih berarti dari yang dinikmati sendirian."
+      ]
     },
     "reversed": {
       "makna": "Ego Terluka · Kemenangan Tanpa Apresiasi",
-      "deskripsi": "Pengakuan yang kamu harapkan tidak datang dalam bentuk yang kamu bayangkan. Atau kemenangan ada tapi terasa hampa. Cek apakah definisi suksesmu sudah benar-benar milikmu sendiri, bukan versi orang lain."
+      "deskripsi": [
+        "Pengakuan yang kamu harapkan tidak datang dalam bentuk yang kamu bayangkan. Atau kemenangan ada tapi terasa hampa. Cek apakah definisi suksesmu sudah benar-benar milikmu sendiri, bukan versi orang lain.",
+        "Kemenangan yang seharusnya kamu rayakan terasa hampa. Periksa: apakah tujuan yang diperjuangkan memang benar-benar milikmu, atau milik ekspektasi orang lain?",
+        "Pengakuan yang tidak datang setelah usaha keras yang nyata itu menyakitkan. Tapi nilai dari kontribusimu tidak bergantung pada apakah ada yang mengakuinya.",
+        "Ego yang terluka setelah kegagalan atau kurangnya pengakuan butuh dikelola dengan dewasa. Jangan biarkan satu setback mendefinisikan track record yang lebih panjang."
+      ]
     }
   },
   {
@@ -485,11 +765,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Mempertahankan · Ketahanan · Stand Your Ground",
-      "deskripsi": "Kamu di posisi yang diinginkan banyak orang dan harus defend dari berbagai sudut sekaligus. Tetap di tanahmu sendiri, percaya pada apa yang sudah kamu bangun, dan jangan bergeser hanya karena tekanan dari luar."
+      "deskripsi": [
+        "Kamu di posisi yang diinginkan banyak orang dan harus defend dari berbagai sudut sekaligus. Tetap di tanahmu sendiri, percaya pada apa yang sudah kamu bangun, dan jangan bergeser hanya karena tekanan dari luar.",
+        "Posisi yang kamu pertahankan saat ini memang worth it. Jangan goyah hanya karena tekanan dari banyak arah — kamu punya alasan yang kuat untuk tetap di sini.",
+        "Pertahanan yang baik bukan reaktif dan penuh panik, tapi proaktif dan terencana. Kamu tahu serangan dari mana saja yang akan datang — bersiaplah dengan tenang.",
+        "Tujuh Tongkat mengingatkan bahwa keberhasilan yang kamu capai pasti menarik kompetitor. Ini tanda bahwa kamu memang sudah di tempat yang benar dan bernilai."
+      ]
     },
     "reversed": {
       "makna": "Kewalahan · Menyerah Terlalu Cepat",
-      "deskripsi": "Lelah mempertahankan posisimu di tengah tekanan dari semua arah. Penting untuk tahu kapan bertahan dan kapan menyesuaikan strategi — ini bukan menyerah, ini kebijaksanaan yang disebut orang bijak sebagai taktis."
+      "deskripsi": [
+        "Lelah mempertahankan posisimu di tengah tekanan dari semua arah. Penting untuk tahu kapan bertahan dan kapan menyesuaikan strategi — ini bukan menyerah, ini kebijaksanaan yang disebut orang bijak sebagai taktis.",
+        "Kelelahan dari terus-menerus defend diri ini sudah mencapai titik yang tidak sustainable. Pertimbangkan: apakah ada yang bisa di-delegate, dikompromikan, atau ditinggalkan?",
+        "Menyerah pada tekanan yang tidak worth dihadapi bukan kelemahan — itu kebijaksanaan untuk memilih pertempuran yang benar-benar penting. Tidak semua hills worth dying on.",
+        "Ada cara lain untuk menghadapi situasi ini yang tidak mengharuskan kamu berperang terus-menerus. Cari creative solution yang mengubah dinamiknya, bukan hanya bertahan."
+      ]
     }
   },
   {
@@ -502,11 +792,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Kecepatan · Berita Cepat · Momentum",
-      "deskripsi": "Semua bergerak sangat cepat sekarang — berita datang, keputusan perlu dibuat, dan perubahan terjadi dalam hitungan hari. Siapkan diri untuk ride the momentum ini, bukan melawannya. Energi cepat ini akan segera berlalu."
+      "deskripsi": [
+        "Semua bergerak sangat cepat sekarang — berita datang, keputusan perlu dibuat, dan perubahan terjadi dalam hitungan hari. Siapkan diri untuk ride the momentum ini, bukan melawannya. Energi cepat ini akan segera berlalu.",
+        "Semua bergerak dalam kecepatan tinggi sekarang — jangan coba kendalikan semuanya, fokus pada yang paling penting dan biarkan yang lain mengalir.",
+        "Berita, perkembangan, dan momentum sedang datang dari banyak arah sekaligus. Ride the wave ini dengan tetap grounded agar tidak kehilangan arah di tengah kecepatannya.",
+        "Delapan Tongkat mengingatkan bahwa ada window waktu yang sempit tapi sangat optimal sekarang. Act now karena energy ini tidak akan bertahan selamanya."
+      ]
     },
     "reversed": {
       "makna": "Keterlambatan · Komunikasi Bermasalah",
-      "deskripsi": "Yang harusnya cepat malah tersangkut entah di mana. Informasi tidak sampai, reply telat, dan semua orang saling tunggu. Cek ulang apakah ada yang miscommunication di rantai komunikasimu — kemungkinan besar ada."
+      "deskripsi": [
+        "Yang harusnya cepat malah tersangkut entah di mana. Informasi tidak sampai, reply telat, dan semua orang saling tunggu. Cek ulang apakah ada yang miscommunication di rantai komunikasimu — kemungkinan besar ada.",
+        "Sesuatu yang harusnya sudah bergerak cepat malah tersangkut entah di mana. Trace back dan cari di mana bottleneck-nya — kemungkinan besar ada satu titik yang perlu dibenahi.",
+        "Komunikasi yang bermasalah sedang menyebabkan banyak hal terhambat. Clarify, simplify, dan pastikan semua pihak yang relevan punya informasi yang sama dan benar.",
+        "Energi yang terlalu tersebar di terlalu banyak arah menghasilkan kecepatan yang terasa tapi progress yang minimal. Konsolidasi fokusmu sebelum melanjutkan."
+      ]
     }
   },
   {
@@ -519,11 +819,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Ketahanan · Hampir Sampai · Waspada",
-      "deskripsi": "Kamu udah melewati banyak banget dan hampir sampai di garis finish — tapi jaga tetap waspada. Satu putaran lagi. Jangan menyerah sekarang karena kamu sudah di 90% perjalanannya. Ini bukan waktunya berhenti."
+      "deskripsi": [
+        "Kamu udah melewati banyak banget dan hampir sampai di garis finish — tapi jaga tetap waspada. Satu putaran lagi. Jangan menyerah sekarang karena kamu sudah di 90% perjalanannya. Ini bukan waktunya berhenti.",
+        "Kamu sudah sangat jauh — terlalu jauh untuk menyerah sekarang. Luka-luka yang ada adalah bukti perjuangan, bukan tanda bahwa kamu kalah.",
+        "Waspada itu perlu, tapi jangan biarkan jadi paranoia yang menghalangimu dari memanfaatkan bantuan yang genuine. Tidak semua yang datang adalah ancaman.",
+        "Satu putaran lagi. Kamu sudah di fase terakhir dari perjalanan yang sangat panjang ini. Kumpulkan semua sisa energi dan selesaikan dengan kuat."
+      ]
     },
     "reversed": {
       "makna": "Paranoia · Kelelahan Ekstrim",
-      "deskripsi": "Terlalu lama bertahan sampai kamu jadi sangat defensive dan susah trust siapapun. Kelelahan ini nyata dan butuh ditangani dengan serius — bukan ditekan demi terlihat kuat di mata orang lain."
+      "deskripsi": [
+        "Terlalu lama bertahan sampai kamu jadi sangat defensive dan susah trust siapapun. Kelelahan ini nyata dan butuh ditangani dengan serius — bukan ditekan demi terlihat kuat di mata orang lain.",
+        "Pertahanan yang terlalu ketat sampai tidak ada yang bisa masuk — termasuk bantuan yang genuine dan peluang yang baik. Turunkan sedikit saja tembok itu.",
+        "Kelelahan yang sangat ekstrim ini butuh recovery yang serius, bukan terus dipush. Istirahat bukan menyerah — itu strategi survival yang paling bijak.",
+        "Trauma dari pertempuran sebelumnya sedang membuatmu over-vigilant terhadap ancaman yang mungkin tidak ada. Recognize dan address ini sebelum makin menguras energi."
+      ]
     }
   },
   {
@@ -536,11 +846,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Beban Berlebih · Over-responsible · Kelelahan",
-      "deskripsi": "Kamu menanggung terlalu banyak tanggung jawab — mungkin karena kamu yang paling capable di antara semua orang. Tapi ini tidak sustainable. Delegasi itu bukan kelemahan, itu strategi cerdas untuk bertahan jangka panjang."
+      "deskripsi": [
+        "Kamu menanggung terlalu banyak tanggung jawab — mungkin karena kamu yang paling capable di antara semua orang. Tapi ini tidak sustainable. Delegasi itu bukan kelemahan, itu strategi cerdas untuk bertahan jangka panjang.",
+        "Beban ini berat, tapi kamu pilih untuk membawanya karena ada tujuan di ujungnya yang benar-benar penting bagimu. Ingat mengapa kamu mulai ketika terasa terlalu berat.",
+        "Minta bantuan bukan gagal — itu cara paling cerdas untuk sampai ke tujuan dengan sisa energi yang cukup untuk menikmati pencapaiannya. Tidak semua harus kamu tanggung sendiri.",
+        "Tanggung jawab yang sebesar ini adalah bukti kepercayaan yang besar. Tapi kepercayaan yang baik tidak pernah memintamu untuk hancur di proses menanggungnya."
+      ]
     },
     "reversed": {
       "makna": "Melepas Beban · Akhirnya Minta Bantuan",
-      "deskripsi": "Kamu akhirnya mulai melepaskan beberapa beban yang bukan tanggung jawabmu sendiri. Minta bantuan itu bukan kalah — itu cerdas. Perjalananmu jauh lebih ringan mulai sekarang dan jangkauanmu justru akan lebih jauh."
+      "deskripsi": [
+        "Kamu akhirnya mulai melepaskan beberapa beban yang bukan tanggung jawabmu sendiri. Minta bantuan itu bukan kalah — itu cerdas. Perjalananmu jauh lebih ringan mulai sekarang dan jangkauanmu justru akan lebih jauh.",
+        "Kamu akhirnya mulai melihat bahwa beban yang kamu pikul selama ini bukan semua milikmu. Sudah saatnya kembalikan yang bukan tanggung jawabmu kepada yang seharusnya.",
+        "Ada kelegaan yang sedang datang — beban mulai berkurang dan langkah mulai terasa lebih ringan. Ini hasil dari keputusan yang akhirnya berani kamu buat.",
+        "Proses melepas beban yang sudah terlalu lama ditanggung tidak instan. Bersabarlah dengan dirimu sendiri dalam proses ini dan rayakan setiap kilogram yang berhasil diletakkan."
+      ]
     }
   },
   {
@@ -553,11 +873,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Antusias · Eksplorasi · Berani Mencoba",
-      "deskripsi": "Energi segar dan antusias yang siap explore tanpa takut terlihat tidak tahu. Ikuti rasa ingin tahu ini dengan tangan terbuka — itu akan membawamu ke tempat yang mengejutkan dengan cara yang sangat menyenangkan."
+      "deskripsi": [
+        "Energi segar dan antusias yang siap explore tanpa takut terlihat tidak tahu. Ikuti rasa ingin tahu ini dengan tangan terbuka — itu akan membawamu ke tempat yang mengejutkan dengan cara yang sangat menyenangkan.",
+        "Rasa ingin tahu yang segar dan tanpa pretensi ini adalah aset terbesar yang kamu miliki sekarang. Jangan sembunyikan antusiasme itu demi terlihat lebih cool atau sophisticated.",
+        "Ada energy yang sangat fresh dan genuine dari seseorang atau situasi yang memasuki hidupmu. Sambut dengan tangan terbuka dan biarkan ia membawa perspektif yang belum pernah ada.",
+        "Prajurit Tongkat mengingatkan bahwa menjadi pemula dalam sesuatu yang baru adalah privilege yang perlu dinikmati, bukan dipermalukan."
+      ]
     },
     "reversed": {
       "makna": "Terburu-buru · Kurang Follow-through",
-      "deskripsi": "Excited di awal tapi susah jaga energinya sampai akhir. Banyak yang dimulai, sedikit yang selesai. Coba commit ke satu hal dulu dan lihat sampai selesai sebelum mulai proyek atau adventure berikutnya."
+      "deskripsi": [
+        "Excited di awal tapi susah jaga energinya sampai akhir. Banyak yang dimulai, sedikit yang selesai. Coba commit ke satu hal dulu dan lihat sampai selesai sebelum mulai proyek atau adventure berikutnya.",
+        "Excitement yang besar tapi action yang minim menciptakan energi yang mandek. Satu langkah kecil hari ini jauh lebih valuable dari planning yang sempurna tapi tidak pernah dieksekusi.",
+        "Ada tendensi untuk melebih-lebihkan kemampuan sebelum ada proof of concept yang nyata. Sedikit lebih humble dan ground your enthusiasm dengan action yang konkret.",
+        "Proyek atau adventure yang dimulai dengan penuh semangat tapi ditinggalkan di tengah jalan adalah pola yang perlu di-interrupt. Commit ke satu hal dulu sampai benar-benar selesai."
+      ]
     }
   },
   {
@@ -570,11 +900,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Berani · Petualangan · Penuh Gairah",
-      "deskripsi": "Petualang yang siap gas tanpa terlalu banyak mikir konsekuensi — dan somehow itu often works. Energi dan charismamu menular dan orang-orang tertarik pada nyala api yang kamu bawa ke mana pun kamu pergi."
+      "deskripsi": [
+        "Petualang yang siap gas tanpa terlalu banyak mikir konsekuensi — dan somehow itu often works. Energi dan charismamu menular dan orang-orang tertarik pada nyala api yang kamu bawa ke mana pun kamu pergi.",
+        "Energi dan charismamu sedang sangat tinggi dan menular. Gunakan ini untuk momentum yang kamu butuhkan — tapi jangan lupa untuk bawa orang-orang sekitarmu ikut serta.",
+        "Aksi tanpa takut adalah kelebihan besar Ksatria Tongkat, tapi pastikan setidaknya ada compass minimal yang mengarahkanmu. Berani dan terarah adalah kombinasi paling powerful.",
+        "Ada adventure yang memanggil dan kamu sangat tepat untuk menjawabnya. Pergi dan bawa energimu yang infectious itu — dunia butuh orang-orang yang mau bergerak."
+      ]
     },
     "reversed": {
       "makna": "Gegabah · Temperamental · Sering Ganti Arah",
-      "deskripsi": "Energi yang bagus tapi tanpa arah yang konsisten. Setiap ada distraksi baru langsung ditinggal yang lama. Impulsivitas tanpa strategi akan melelahkanmu sendiri lebih cepat dari yang kamu kira — dan kamu akan berakhir di titik yang sama."
+      "deskripsi": [
+        "Energi yang bagus tapi tanpa arah yang konsisten. Setiap ada distraksi baru langsung ditinggal yang lama. Impulsivitas tanpa strategi akan melelahkanmu sendiri lebih cepat dari yang kamu kira — dan kamu akan berakhir di titik yang sama.",
+        "Impulsivitas yang tidak terkendali sedang menimbulkan collateral damage yang mungkin tidak kamu perhatikan. Slow down sebentar dan lihat dampak dari setiap tindakanmu.",
+        "Terlalu banyak arah yang dikejar sekaligus membuat tidak ada yang benar-benar sampai ke tujuan. Pilih satu dan habiskan energimu di sana dulu sampai tuntas.",
+        "Temperamen yang mudah meledak sedang merusak relasi penting. Ada cara yang lebih efektif untuk menyalurkan intensitasmu tanpa mengorbankan koneksi yang berharga."
+      ]
     }
   },
   {
@@ -587,11 +927,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Karismatik · Percaya Diri · Passionate",
-      "deskripsi": "Kamu jadi pusat perhatian bukan karena minta tapi karena genuinely jadi dirimu yang paling authentic dan passionate. Magnetic energy ini powerful dan menginspirasi orang di sekitarmu tanpa harus berusaha keras."
+      "deskripsi": [
+        "Kamu jadi pusat perhatian bukan karena minta tapi karena genuinely jadi dirimu yang paling authentic dan passionate. Magnetic energy ini powerful dan menginspirasi orang di sekitarmu tanpa harus berusaha keras.",
+        "Kepercayaan dirimu yang genuine — bukan yang dipaksakan — sedang menciptakan medan gravitasi yang menarik semua hal yang tepat ke arahmu secara natural.",
+        "Kamu paling efektif ketika beroperasi dari tempat yang authentic dan passionate. Jangan redupkan itu demi kenyamanan orang lain yang sebenarnya iri, bukan genuinely concerned.",
+        "Ratu Tongkat mengingatkan bahwa leadership yang paling powerful adalah yang datang dari dalam — dari kejelasan tentang siapa dirimu dan apa yang kamu percaya."
+      ]
     },
     "reversed": {
       "makna": "Insecure · Burnout · Mencari Validasi",
-      "deskripsi": "Percaya dirimu sedang goyah dan kamu coba kompensasi dengan cara yang kurang sehat — entah dengan drama, dominasi, atau mencari validasi dari luar terus-menerus. Balik ke dalam diri dulu untuk recharge kekuatan aslimu."
+      "deskripsi": [
+        "Percaya dirimu sedang goyah dan kamu coba kompensasi dengan cara yang kurang sehat — entah dengan drama, dominasi, atau mencari validasi dari luar terus-menerus. Balik ke dalam diri dulu untuk recharge kekuatan aslimu.",
+        "Rasa tidak aman yang muncul sekarang bukan cerminan dari siapa kamu sebenarnya. Reconnect dengan sumber kekuatan yang genuine sebelum mencarinya di luar dirimu.",
+        "Ada drama atau manipulasi yang terjadi — entah yang dilakukan atau yang ditujukan padamu. Dalam kedua kasus, energy yang diinvestasikan di sana sangat tidak worth it.",
+        "Burnout dari terus perform dan menjaga image adalah tanda bahwa kamu perlu recharge yang serius. Kembali ke dasar: apa yang benar-benar penting dan apa yang bisa dilepaskan?"
+      ]
     }
   },
   {
@@ -604,11 +954,21 @@
     "suit_emoji": "🔥",
     "upright": {
       "makna": "Visioner · Pemimpin · Inspirasi Sejati",
-      "deskripsi": "Natural leader yang membawa visi besar dan orang-orang mau ikut bukan karena harus tapi karena genuinely terinspirasi. Ini saat terbaik untuk mulai atau pimpin sesuatu yang meaningful, besar, dan lasting."
+      "deskripsi": [
+        "Natural leader yang membawa visi besar dan orang-orang mau ikut bukan karena harus tapi karena genuinely terinspirasi. Ini saat terbaik untuk mulai atau pimpin sesuatu yang meaningful, besar, dan lasting.",
+        "Visi yang jelas dan kemampuan untuk menginspirasi orang lain untuk ikut bergerak adalah kombinasi yang sangat langka dan sangat kuat. Kamu sedang dalam momen terbaik untuk menggunakannya.",
+        "Raja Tongkat tidak hanya bermimpi besar — ia juga menyelesaikan apa yang dimulai dengan energi yang sama besarnya. Jangan biarkan api enthusiasm mati sebelum hasil nyata tercipta.",
+        "Leadership yang benar-benar inspiring bukan dari otoritas yang dipaksakan, tapi dari contoh yang dijalani dengan genuine passion dan integritas yang tidak bisa dibuat-buat."
+      ]
     },
     "reversed": {
       "makna": "Arogan · Pemarah · Egomaniak",
-      "deskripsi": "Kualitas leadership ada tapi sedang dibayangi ego yang membesar dan temperamen yang meledak-ledak. Pemimpin sejati mengendalikan dirinya sendiri sebelum bisa memimpin orang lain — itu hukum pertama kepemimpinan."
+      "deskripsi": [
+        "Kualitas leadership ada tapi sedang dibayangi ego yang membesar dan temperamen yang meledak-ledak. Pemimpin sejati mengendalikan dirinya sendiri sebelum bisa memimpin orang lain — itu hukum pertama kepemimpinan.",
+        "Kualitas kepemimpinan yang ada sedang tertutupi oleh ego yang terlalu besar atau temperamen yang tidak terkontrol. Kembali ke fundamentals: memimpin berarti melayani, bukan menguasai.",
+        "Ada tendency untuk overthink semua dari atas tanpa benar-benar terhubung dengan realita di lapangan. Turun dan lihat sendiri apa yang sebenarnya terjadi.",
+        "Wewenang yang digunakan untuk intimidasi bukan untuk inspirasi akan menghasilkan compliance tapi bukan commitment. Dan hanya yang kedua yang benar-benar valuable."
+      ]
     }
   },
   {
@@ -621,11 +981,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Cinta Baru · Emosi Meluap · Intuisi Terbuka",
-      "deskripsi": "Overflow of pure emotion yang sangat menyenangkan — entah jatuh cinta mendalam, inspirasi kreatif yang mengalir deras, atau koneksi spiritual yang tiba-tiba terasa sangat nyata. Biarkan cangkir ini penuh dan tumpah dengan natural."
+      "deskripsi": [
+        "Overflow of pure emotion yang sangat menyenangkan — entah jatuh cinta mendalam, inspirasi kreatif yang mengalir deras, atau koneksi spiritual yang tiba-tiba terasa sangat nyata. Biarkan cangkir ini penuh dan tumpah dengan natural.",
+        "Cangkir ini penuh sampai meluap — dan itu bukan masalah, itu berkah. Biarkan kepenuhan emosional ini mengalir ke semua aspek hidupmu secara natural.",
+        "Ada pembukaan hati yang genuine sedang terjadi. Entah itu terhadap orang baru, peluang baru, atau bahkan terhadap dirimu sendiri. Biarkan ia terjadi tanpa terlalu banyak kontrol.",
+        "Ini adalah kartu dari awal yang paling murni secara emosional dan spiritual. Apa yang dimulai dari tempat ini — dari kasih yang tulus — punya daya tahan yang luar biasa kuat."
+      ]
     },
     "reversed": {
       "makna": "Emosi Terblokir · Hati Tertutup",
-      "deskripsi": "Perasaan yang ingin sekali kamu express tapi ada sesuatu yang menghalangi — entah ketakutan, luka lama, atau pertahanan yang sudah terlalu tebal. Cangkir penuh tapi tutupnya dikunci rapat oleh dirimu sendiri."
+      "deskripsi": [
+        "Perasaan yang ingin sekali kamu express tapi ada sesuatu yang menghalangi — entah ketakutan, luka lama, atau pertahanan yang sudah terlalu tebal. Cangkir penuh tapi tutupnya dikunci rapat oleh dirimu sendiri.",
+        "Ada blokade emosional yang membuat perasaan tidak bisa mengalir secara natural. Apakah ini proteksi yang diperlukan, atau tembok yang sudah tidak lagi relevan?",
+        "Emosi yang mau keluar tapi terus ditahan akan mencari jalannya sendiri — sering dalam bentuk yang tidak kamu harapkan. Lebih baik express dengan sadar dari pada bocor tanpa kontrol.",
+        "Ada potensi koneksi yang besar tapi sesuatu yang menghalangi — mungkin rasa takut, mungkin luka lama, mungkin timing yang belum tepat. Identifikasi dan address itu."
+      ]
     }
   },
   {
@@ -638,11 +1008,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Koneksi Mutual · Partnership · Saling Memilih",
-      "deskripsi": "Ada yang melihatmu dan kamu melihat mereka — pada level yang sama dalamnya dan dengan intensitas yang sama. Entah romantis atau partnership profesional, ini koneksi yang genuinely worth dirawat dan diperjuangkan."
+      "deskripsi": [
+        "Ada yang melihatmu dan kamu melihat mereka — pada level yang sama dalamnya dan dengan intensitas yang sama. Entah romantis atau partnership profesional, ini koneksi yang genuinely worth dirawat dan diperjuangkan.",
+        "Koneksi yang sedang terjalin ini berbeda dari yang biasanya — ada keseimbangan yang genuine dan saling menghargai yang jarang ditemukan. Jaga dan rawat ini dengan serius.",
+        "Dua Cangkir adalah kartu perjanjian yang paling tulus — bukan kontrak legal, tapi janji hati yang dipegang oleh kedua belah pihak secara equal dan voluntary.",
+        "Ada chemistry yang nyata di sini — entah romantis, persahabatan, atau kemitraan profesional. Chemistry tanpa komitmen hanya momen; dengan komitmen, ia menjadi sesuatu yang lasting."
+      ]
     },
     "reversed": {
       "makna": "Disconnection · Satu Pihak Lebih Invested",
-      "deskripsi": "Hubungan yang ada mulai kehilangan nyala-nya atau ada imbalance yang belum diakui oleh kedua pihak. Perlu intentional effort untuk reconnect — atau honest conversation tentang apakah ini masih worth dilanjutkan."
+      "deskripsi": [
+        "Hubungan yang ada mulai kehilangan nyala-nya atau ada imbalance yang belum diakui oleh kedua pihak. Perlu intentional effort untuk reconnect — atau honest conversation tentang apakah ini masih worth dilanjutkan.",
+        "Ketidakseimbangan dalam hubungan ini perlu diakui dan dibicarakan sebelum menjadi resentment yang jauh lebih sulit untuk diselesaikan.",
+        "Ada disconnection yang perlahan terjadi tanpa disadari oleh kedua pihak. Sebelum jarak itu terlalu besar, ada percakapan yang sangat perlu terjadi sekarang.",
+        "Hubungan yang awalnya sangat promising ini sedang kehilangan sesuatu yang fundamental. Identifikasi apa itu dan putuskan apakah bisa dan worth untuk dikembalikan."
+      ]
     }
   },
   {
@@ -655,11 +1035,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Persahabatan · Selebrasi · Komunitas",
-      "deskripsi": "Waktu terbaik untuk kumpul dan rayakan bersama orang-orang yang genuinely ada untuk kamu suka maupun duka. Persahabatanmu sedang di fase yang paling nourishing dan joyful — nikmatin momen ini sepenuhnya."
+      "deskripsi": [
+        "Waktu terbaik untuk kumpul dan rayakan bersama orang-orang yang genuinely ada untuk kamu suka maupun duka. Persahabatanmu sedang di fase yang paling nourishing dan joyful — nikmatin momen ini sepenuhnya.",
+        "Ada alasan untuk merayakan bersama orang-orang yang benar-benar ada untukmu. Momen kebersamaan yang genuine ini adalah salah satu hal paling berharga dalam hidup.",
+        "Komunitas yang supportive adalah asset hidup yang sering diremehkan. Investasikan waktu dan energi untuk relasi-relasi yang genuinely nourishing ini.",
+        "Tiga Cangkir mengingatkan bahwa keberhasilan yang paling manis adalah yang dibagi — baik keberhasilanmu sendiri maupun keberhasilan orang-orang yang kamu sayangi."
+      ]
     },
     "reversed": {
       "makna": "Drama Pertemanan · Gosip · Toxic Triangle",
-      "deskripsi": "Ada yang tidak beres dalam dinamika pertemananmu — gosip berputar, iri-irian yang tidak diucapkan, atau toxic triangle yang menciptakan ketegangan bawah permukaan. Evaluasi siapa yang tulus dan siapa yang tidak."
+      "deskripsi": [
+        "Ada yang tidak beres dalam dinamika pertemananmu — gosip berputar, iri-irian yang tidak diucapkan, atau toxic triangle yang menciptakan ketegangan bawah permukaan. Evaluasi siapa yang tulus dan siapa yang tidak.",
+        "Ada yang tidak harmonis dalam dinamika pertemananmu yang perlu diakui. Gosip, iri hati, atau ketidakjujuran dalam lingkaran terdekat sangat menguras lebih dari yang disadari.",
+        "Socializing yang terasa seperti kewajiban bukan kesenangan adalah tanda bahwa kamu perlu evaluasi circle-mu. Tidak semua yang ada di sekitarmu perlu tetap ada.",
+        "Kesenangan jangka pendek yang berlebihan bisa mengorbankan hal-hal jangka panjang yang lebih penting. Ada balance yang perlu dicari di sini."
+      ]
     }
   },
   {
@@ -672,11 +1062,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Kontemplasi · Apatis · Mencari Makna",
-      "deskripsi": "Semuanya terasa 'gitu-gitu aja' dan kamu tidak excited dengan hal apapun yang ditawarkan saat ini. Ini fase introspeksi yang perlu — tapi jangan sampai apatis menghalangimu dari peluang bagus yang ada tepat di depanmu."
+      "deskripsi": [
+        "Semuanya terasa 'gitu-gitu aja' dan kamu tidak excited dengan hal apapun yang ditawarkan saat ini. Ini fase introspeksi yang perlu — tapi jangan sampai apatis menghalangimu dari peluang bagus yang ada tepat di depanmu.",
+        "Kebosanan dan apatis yang kamu rasakan adalah sinyal, bukan kondisi permanen. Ada sesuatu yang perlu berubah — entah situasinya, atau caramu melihat situasi itu.",
+        "Sangat mudah untuk miss peluang yang ada di depan mata saat sedang tenggelam dalam ketidakpuasan terhadap apa yang ada. Angkat kepala dan lihat sekitarmu dengan fresh eyes.",
+        "Empat Cangkir mengajarkan bahwa kontemplasi yang terlalu dalam bisa menjadi jebakan. Ada saatnya untuk berhenti introspeksi dan mulai bertindak."
+      ]
     },
     "reversed": {
       "makna": "Mulai Terbuka · Keluar dari Kelesuan",
-      "deskripsi": "Fase withdrawal dan kebosanan mulai berakhir akhirnya. Kamu mulai mau terbuka lagi pada kemungkinan dan peluang baru. Sambut ini dengan tangan terbuka — momen ini akan berlalu kalau tidak segera ditangkap."
+      "deskripsi": [
+        "Fase withdrawal dan kebosanan mulai berakhir akhirnya. Kamu mulai mau terbuka lagi pada kemungkinan dan peluang baru. Sambut ini dengan tangan terbuka — momen ini akan berlalu kalau tidak segera ditangkap.",
+        "Kebosanan yang berlangsung lama akhirnya mulai memberikan sinyal yang jelas tentang apa yang sebenarnya diinginkan. Gunakan clarity baru ini untuk bergerak.",
+        "Kamu mulai sadar dan terbuka lagi terhadap kemungkinan-kemungkinan yang ada di sekitarmu. Ini adalah kemajuan yang nyata — jangan kembali ke mode withdrawal.",
+        "Ada energi yang mulai kembali setelah periode yang sangat flat. Sambut ini dan biarkan ia membawa kamu ke tempat yang lebih hidup dan engaged."
+      ]
     }
   },
   {
@@ -689,11 +1089,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Kehilangan · Penyesalan · Grief",
-      "deskripsi": "Kamu sedang berduka atas sesuatu yang hilang atau tidak berjalan sesuai harapan — dan itu valid sepenuhnya. Luangkan waktu untuk merasakan kesedihan ini. Tapi jangan sampai lupa melihat apa yang masih tersisa dan bisa diselamatkan."
+      "deskripsi": [
+        "Kamu sedang berduka atas sesuatu yang hilang atau tidak berjalan sesuai harapan — dan itu valid sepenuhnya. Luangkan waktu untuk merasakan kesedihan ini. Tapi jangan sampai lupa melihat apa yang masih tersisa dan bisa diselamatkan.",
+        "Kesedihan yang kamu rasakan itu valid dan perlu dirasakan sepenuhnya. Jangan skip tahap grief ini — tapi juga jangan biarkan ia menjadi rumah permanen.",
+        "Ada yang hilang, tapi ada juga yang masih tersisa. Saat ini mungkin belum bisa melihatnya, tapi yang tersisa itu berharga dan perlu dijaga.",
+        "Lima Cangkir mengingatkan bahwa kehilangan adalah bagian dari hidup yang tidak bisa dihindari, tapi cara kita merespons kehilangan itulah yang mendefinisikan perjalanan selanjutnya."
+      ]
     },
     "reversed": {
       "makna": "Penerimaan · Moving On · Healing",
-      "deskripsi": "Kamu mulai bisa menerima kehilangan dan melihat ke depan tanpa beban yang sama beratnya. Proses ini tidak linear dan tidak harus sempurna — yang penting arahnya sudah mulai benar dan langkahnya mulai ke depan."
+      "deskripsi": [
+        "Kamu mulai bisa menerima kehilangan dan melihat ke depan tanpa beban yang sama beratnya. Proses ini tidak linear dan tidak harus sempurna — yang penting arahnya sudah mulai benar dan langkahnya mulai ke depan.",
+        "Proses healing yang sudah dimulai ini perlu dihargai. Kamu sudah melewati bagian paling sulit dan mulai bisa melihat ke depan dengan lebih tenang.",
+        "Penerimaan yang datang setelah rasa sakit ini bukan berarti tidak peduli — ini adalah tanda kedewasaan emosional yang sangat nyata dan penting.",
+        "Ada langkah kecil menuju maju yang sudah bisa diambil sekarang. Tidak perlu semua sekaligus — satu langkah kecil sudah jauh lebih baik dari tetap di tempat yang sama."
+      ]
     }
   },
   {
@@ -706,11 +1116,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Nostalgia · Kenangan Indah · Masa Kecil",
-      "deskripsi": "Masa lalu sedang memanggil dengan cara yang indah — kenangan indah, orang-orang dari dulu, atau pola yang familiar dan nyaman. Nikmati kunjungan nostalgic ini tapi ingat untuk kembali ke masa kini yang tidak kalah berharganya."
+      "deskripsi": [
+        "Masa lalu sedang memanggil dengan cara yang indah — kenangan indah, orang-orang dari dulu, atau pola yang familiar dan nyaman. Nikmati kunjungan nostalgic ini tapi ingat untuk kembali ke masa kini yang tidak kalah berharganya.",
+        "Masa lalu yang indah itu memang indah — tapi ia tetap berada di masa lalu. Kunjungi sebagai sumber inspirasi, bukan sebagai pelarian dari masa kini yang perlu dijalani.",
+        "Ada reconnection yang manis dan genuine sedang terjadi — entah dengan seseorang, dengan tempat, atau dengan bagian dirimu yang sudah lama tidak dikunjungi.",
+        "Enam Cangkir mengingatkan bahwa kepolosan dan ketulusan masa kecil adalah kualitas yang worth dibawa ke dalam kedewasaan — bukan sebagai naivitas, tapi sebagai kemurnian intention."
+      ]
     },
     "reversed": {
       "makna": "Terjebak di Masa Lalu · Sulit Move On",
-      "deskripsi": "Kamu terlalu banyak hidup di kenangan dan harapan masa lalu sampai susah hadir dan menikmati masa kini. Kenangan itu manis, tapi hidupmu ada di sini, sekarang, di momen ini yang sedang kamu lewatkan."
+      "deskripsi": [
+        "Kamu terlalu banyak hidup di kenangan dan harapan masa lalu sampai susah hadir dan menikmati masa kini. Kenangan itu manis, tapi hidupmu ada di sini, sekarang, di momen ini yang sedang kamu lewatkan.",
+        "Nostalgia yang berlebihan sedang menghalangimu dari fully invest dalam masa kini yang menawarkan kemungkinan-kemungkinan yang sama atau bahkan lebih besar.",
+        "Masa lalu yang idealized seringkali tidak seindah yang diingat. Memory kita sangat selektif dalam apa yang disimpan. Lihat lebih realistis sebelum ingin kembali ke sana.",
+        "Ada trauma masa kecil atau masa lalu yang belum benar-benar diproses dan sedang mempengaruhi cara kamu navigate hidup sekarang. Ini layak mendapat perhatian profesional."
+      ]
     }
   },
   {
@@ -723,11 +1143,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Ilusi · Fantasi · Pilihan Membingungkan",
-      "deskripsi": "Terlalu banyak opsi dan kemungkinan sampai susah bedain mana yang nyata dan mana yang sekadar wishful thinking. Ground diri ke realita dulu sebelum mengambil keputusan apapun — clarity akan datang kalau kamu mau diam sejenak."
+      "deskripsi": [
+        "Terlalu banyak opsi dan kemungkinan sampai susah bedain mana yang nyata dan mana yang sekadar wishful thinking. Ground diri ke realita dulu sebelum mengambil keputusan apapun — clarity akan datang kalau kamu mau diam sejenak.",
+        "Di antara semua ilusi dan fantasy yang berputar, ada satu yang genuine dan real. Tantangannya adalah membedakan yang mana — dan itu butuh ketenangan, bukan lebih banyak analisis.",
+        "Terlalu banyak opsi juga bisa menjadi bentuk kelumpuhan tersendiri. Pilih satu yang paling align dengan values-mu dan commit — clarity akan datang setelah tindakan, bukan sebelumnya.",
+        "Tujuh Cangkir mengingatkan bahwa tidak semua yang berkilau adalah emas. Sebelum mengejar, pastikan kamu mengejar sesuatu yang nyata dan worth the effort."
+      ]
     },
     "reversed": {
       "makna": "Clarity Datang · Pilihan Nyata Terlihat",
-      "deskripsi": "Kabut ilusi mulai terangkat dan kamu bisa melihat mana opsi yang benar-benar viable dan mana yang cuma fantasi. Saatnya buat keputusan yang solid berdasarkan kenyataan, bukan berdasarkan harapan atau imajinasi semata."
+      "deskripsi": [
+        "Kabut ilusi mulai terangkat dan kamu bisa melihat mana opsi yang benar-benar viable dan mana yang cuma fantasi. Saatnya buat keputusan yang solid berdasarkan kenyataan, bukan berdasarkan harapan atau imajinasi semata.",
+        "Kabut kebingungan mulai terangkat dan gambaran yang lebih jelas tentang apa yang benar-benar kamu inginkan mulai terlihat. Gunakan clarity yang baru datang ini dengan bijak.",
+        "Kamu mulai bisa membedakan mana yang realita dan mana yang hanya wishful thinking. Ini progress yang sangat penting yang akan membantu navigasi keputusan yang ada.",
+        "Ada kesadaran baru tentang apa yang selama ini mengelabui atau mengalihkan perhatianmu. Armed dengan insight ini, keputusan selanjutnya akan jauh lebih grounded."
+      ]
     }
   },
   {
@@ -740,11 +1170,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Meninggalkan · Mencari Lebih · Walk Away",
-      "deskripsi": "Kamu memilih untuk pergi dari sesuatu yang sudah tidak lagi nourish kamu — meski masih ada sisa yang bisa disimpan. Ini bukan kekalahan atau pengabaian, ini keberanian untuk menghargai dirimu sendiri dan apa yang kamu layak dapatkan."
+      "deskripsi": [
+        "Kamu memilih untuk pergi dari sesuatu yang sudah tidak lagi nourish kamu — meski masih ada sisa yang bisa disimpan. Ini bukan kekalahan atau pengabaian, ini keberanian untuk menghargai dirimu sendiri dan apa yang kamu layak dapatkan.",
+        "Pergi dari sesuatu yang tidak lagi melayanimu adalah salah satu tindakan self-love yang paling profound. Meski berat, kamu tahu ini adalah langkah yang tepat.",
+        "Ada keberanian yang sangat besar dalam keputusan untuk leave behind yang familiar demi mencari yang lebih berarti. Sang pengelana Eight of Cups berjalan di bawah bulan — tenang, penuh tekad.",
+        "Delapan Cangkir yang ditinggalkan itu bukan wasted — itu adalah fondasi yang memungkinkanmu untuk sekarang bisa melangkah ke sesuatu yang lebih aligned dengan siapa kamu sekarang."
+      ]
     },
     "reversed": {
       "makna": "Bertahan · Takut Meninggalkan · Stuck",
-      "deskripsi": "Kamu tahu sudah saatnya pergi tapi tetap bertahan karena comfort zone, rasa bersalah, atau ketakutan tentang 'terus gimana?'. Pertanyaan itu harus dijawab, bukan dihindari — jawaban itu ada di dalam dirimu sendiri."
+      "deskripsi": [
+        "Kamu tahu sudah saatnya pergi tapi tetap bertahan karena comfort zone, rasa bersalah, atau ketakutan tentang 'terus gimana?'. Pertanyaan itu harus dijawab, bukan dihindari — jawaban itu ada di dalam dirimu sendiri.",
+        "Ada yang perlu ditinggalkan tapi kamu belum bisa karena berbagai alasan yang mungkin valid, mungkin juga hanya ketakutan. Honest dengan dirimu sendiri tentang perbedaannya.",
+        "Stuck dalam situasi yang kamu tahu harus diakhiri sangat melelahkan. Apa satu langkah kecil yang bisa diambil sekarang untuk mulai bergerak ke arah yang lebih baik?",
+        "Rasa takut akan unknown di depan lebih kuat dari rasa tidak nyaman yang ada sekarang. Tapi rasa tidak nyaman yang familiar akan terus ada jika tidak ada yang berubah."
+      ]
     }
   },
   {
@@ -757,11 +1197,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Kepuasan · Wish Granted · Happy Ending",
-      "deskripsi": "The wish card! Sesuatu yang kamu inginkan dalam waktu lama akan segera terwujud, atau mungkin sudah ada di depanmu tapi kamu belum notice karena terlalu sibuk menginginkan yang belum ada. Nikmati kepuasan yang sangat kamu deserve ini."
+      "deskripsi": [
+        "The wish card! Sesuatu yang kamu inginkan dalam waktu lama akan segera terwujud, atau mungkin sudah ada di depanmu tapi kamu belum notice karena terlalu sibuk menginginkan yang belum ada. Nikmati kepuasan yang sangat kamu deserve ini.",
+        "Apa yang kamu inginkan dalam waktu yang sangat lama ini sedang dalam proses mewujud. Bersyukur sekarang, bahkan sebelum fully terwujud, adalah energi yang mempercepat proses itu.",
+        "Sembilan Cangkir mengajarkan bahwa kepuasan sejati datang dari dalam, bukan dari pencapaian di luar. Tapi tidak ada salahnya menikmati pencapaian luar sebagai bonus yang menyenangkan.",
+        "Ada kebahagiaan yang sangat genuine dan yang kamu deserve sepenuhnya. Biarkan dirimu merasakannya secara penuh tanpa qualifiers atau disclaimers."
+      ]
     },
     "reversed": {
       "makna": "Kebahagiaan Dangkal · Belum Puas",
-      "deskripsi": "Di permukaan terlihat punya segalanya, tapi ada kekosongan di dalam yang belum terpenuhi. Kepuasan sejati butuh lebih dari pencapaian material atau validasi dari orang lain. Inner work dulu sebelum outer work bisa benar-benar terasa meaningful."
+      "deskripsi": [
+        "Di permukaan terlihat punya segalanya, tapi ada kekosongan di dalam yang belum terpenuhi. Kepuasan sejati butuh lebih dari pencapaian material atau validasi dari orang lain. Inner work dulu sebelum outer work bisa benar-benar terasa meaningful.",
+        "Kepenuhan yang terlihat dari luar menyembunyikan kekosongan yang dirasakan dari dalam. Apa yang benar-benar kurang dan apa yang bisa mulai diisi dari sekarang?",
+        "Mengejar kepuasan dari hal-hal eksternal sebagai pengganti dari kebutuhan internal yang belum terpenuhi adalah treadmill yang tidak akan pernah berhenti.",
+        "Ada kebanggaan atau gengsi yang menghalangi kamu untuk mengakui bahwa ada yang kurang. Menurunkan dinding itu adalah langkah pertama menuju kepuasan yang nyata."
+      ]
     }
   },
   {
@@ -774,11 +1224,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Harmoni Keluarga · Fulfillment · Happy Ever After",
-      "deskripsi": "Kebahagiaan sejati dalam relasi dan 'rumah' dalam arti paling mendalam — circle yang saling mencintai dan mendukung. Ini puncak kepuasan emosional yang sangat layak kamu syukuri dan jaga dengan sepenuh hati."
+      "deskripsi": [
+        "Kebahagiaan sejati dalam relasi dan 'rumah' dalam arti paling mendalam — circle yang saling mencintai dan mendukung. Ini puncak kepuasan emosional yang sangat layak kamu syukuri dan jaga dengan sepenuh hati.",
+        "Ini adalah puncak dari semua yang kamu impikan tentang kebahagiaan bersama orang-orang yang kamu cinta. Momen ini layak untuk sepenuhnya dinikmati dan disyukuri.",
+        "Keluarga dalam arti paling luas — yang darah maupun yang dipilih — adalah harta yang paling lasting yang bisa dimiliki. Investasikan di sini dengan sepenuh hati.",
+        "Sepuluh Cangkir mengingatkan bahwa visi tentang hidup yang fulfilled dan penuh kasih itu bukan utopia — ia nyata dan kamu sedang berada di atau menuju ke sana."
+      ]
     },
     "reversed": {
       "makna": "Disharmoni · Ekspektasi vs Realita",
-      "deskripsi": "Ada ketidakharmonisan dalam circle terdekatmu yang perlu ditangani dengan empati, kesabaran, dan komunikasi yang jujur. 'Happy family' itu bukan default — harus dibangun dan dirawat aktif setiap hari oleh semua pihak."
+      "deskripsi": [
+        "Ada ketidakharmonisan dalam circle terdekatmu yang perlu ditangani dengan empati, kesabaran, dan komunikasi yang jujur. 'Happy family' itu bukan default — harus dibangun dan dirawat aktif setiap hari oleh semua pihak.",
+        "Di balik fasad kebahagiaan keluarga ada dynamic yang lebih kompleks yang butuh diakui dan diatasi. Harmony yang dipaksakan bukan harmony yang sesungguhnya.",
+        "Ada ekspektasi yang tidak realistis tentang seperti apa seharusnya kehidupan keluarga atau relasi terdekat. Gap antara ekspektasi dan realita ini perlu dikelola dengan dewasa.",
+        "Konflik yang ada dalam circle terdekat butuh penanganan yang jujur dan empatik. Mendiamkan hanya akan menumpuk sampai meledak di momen yang paling tidak tepat."
+      ]
     }
   },
   {
@@ -791,11 +1251,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Pesan Emosional · Kreativitas · Intuisi Muda",
-      "deskripsi": "Pesan atau berita yang emotionally significant akan datang dari arah yang tidak kamu duga. Tetap open, percaya intuisimu, dan izinkan dirimu untuk merespon dengan hati bukan hanya kepala yang selalu mau menganalisis segalanya."
+      "deskripsi": [
+        "Pesan atau berita yang emotionally significant akan datang dari arah yang tidak kamu duga. Tetap open, percaya intuisimu, dan izinkan dirimu untuk merespon dengan hati bukan hanya kepala yang selalu mau menganalisis segalanya.",
+        "Ada pesan atau sinyal yang datang dari arah yang tidak terduga — dari mimpi, intuisi, atau momen serendipitous yang terasa terlalu tepat untuk jadi kebetulan. Perhatikan.",
+        "Kreativitas yang polos dan bebas dari pertimbangan 'apakah ini bagus' adalah apa yang dibutuhkan sekarang. Buat, express, dan jangan hakimi hasilnya terlalu dini.",
+        "Prajurit Cangkir membawa fish yang surprising — pengingat bahwa kehidupan emosional bisa membawa kejutan yang sangat menyenangkan jika kamu tetap open dan present."
+      ]
     },
     "reversed": {
       "makna": "Emotional Immaturity · Sulk Mode",
-      "deskripsi": "Kamu atau seseorang di sekitarmu bereaksi secara emosional yang kurang dewasa — sulk, tantrum, atau menghilang tanpa komunikasi. Pause dulu sebelum respond, karena reaksi pertama seringkali bukan yang terbaik."
+      "deskripsi": [
+        "Kamu atau seseorang di sekitarmu bereaksi secara emosional yang kurang dewasa — sulk, tantrum, atau menghilang tanpa komunikasi. Pause dulu sebelum respond, karena reaksi pertama seringkali bukan yang terbaik.",
+        "Reaksi emosional yang berlebihan tanpa pertimbangan yang matang sedang menimbulkan masalah yang tidak perlu. Pause, breathe, dan respond — bukan react.",
+        "Ada immaturity emosional yang perlu di-address, baik dalam dirimu maupun dalam seseorang di sekitarmu. Komunikasi yang dewasa adalah kuncinya.",
+        "Harapan yang terlalu romantis tentang sesuatu atau seseorang akan bertabrakan dengan realita pada akhirnya. Lebih baik mulai manage ekspektasi dari sekarang."
+      ]
     }
   },
   {
@@ -808,11 +1278,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Romantis · Charming · Idealis",
-      "deskripsi": "Sosok yang datang membawa perasaan yang menggebu, kata-kata yang indah, dan visi yang sangat romantis. Ini bisa dirimu sendiri atau seseorang yang sedang atau akan masuk ke hidupmu dengan cara yang memorable."
+      "deskripsi": [
+        "Sosok yang datang membawa perasaan yang menggebu, kata-kata yang indah, dan visi yang sangat romantis. Ini bisa dirimu sendiri atau seseorang yang sedang atau akan masuk ke hidupmu dengan cara yang memorable.",
+        "Ada seseorang atau sesuatu yang datang membawa energy yang sangat romantis dan penuh perasaan. Terima dengan hati terbuka tapi tetap grounded dalam realita.",
+        "Ini adalah waktu untuk membiarkan perasaan memimpin — dalam kreativitas, dalam hubungan, dalam keputusan. Kepala yang terlalu dominan kadang perlu dikesampingkan.",
+        "Ksatria Cangkir yang charming ini mengingatkan bahwa merasakan sesuatu dengan penuh dan mendalam adalah kekuatan, bukan kelemahan yang perlu disembunyikan."
+      ]
     },
     "reversed": {
       "makna": "Moody · Tidak Realistis · Jatuh Cinta dengan Ide",
-      "deskripsi": "Romantisisme yang berlebihan sampai kehilangan konteks realita. Kamu atau seseorang jatuh cinta dengan ide tentang seseorang, bukan orangnya yang sesungguhnya — dan itu perbedaan yang sangat besar dan sangat penting."
+      "deskripsi": [
+        "Romantisisme yang berlebihan sampai kehilangan konteks realita. Kamu atau seseorang jatuh cinta dengan ide tentang seseorang, bukan orangnya yang sesungguhnya — dan itu perbedaan yang sangat besar dan sangat penting.",
+        "Romantisme yang terlalu besar sedang kabur melihat red flags yang nyata. Perasaan yang intens itu valid, tapi juga butuh diimbangi dengan kepala yang tetap jernih.",
+        "Ada yang jatuh cinta dengan ide tentang seseorang atau situasi, bukan dengan kenyataannya. Perbedaan antara keduanya perlu dibedakan sebelum terlanjur terlibat lebih dalam.",
+        "Moodiness yang tidak konsisten sedang mempengaruhi reliabilitas dan kepercayaan yang orang berikan. Cari stabilitas emosional yang lebih — untuk kebaikanmu sendiri."
+      ]
     }
   },
   {
@@ -825,11 +1305,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Empatik · Intuitif · Penuh Kasih",
-      "deskripsi": "Kapasitas empatik dan intuitifmu sedang di puncak. Orang-orang datang padamu untuk dilihat, didengar, dan dikuatkan — dan kamu mampu memberikan itu semua dengan tulus, penuh, dan tanpa menghakimi."
+      "deskripsi": [
+        "Kapasitas empatik dan intuitifmu sedang di puncak. Orang-orang datang padamu untuk dilihat, didengar, dan dikuatkan — dan kamu mampu memberikan itu semua dengan tulus, penuh, dan tanpa menghakimi.",
+        "Kepekaan emosionalmu yang dalam adalah kekuatan luar biasa yang memungkinkanmu untuk hadir bagi orang lain dengan cara yang sangat few orang bisa lakukan.",
+        "Ratu Cangkir mengingatkan bahwa menjaga hati yang terbuka sambil menjaga boundaries yang sehat bukan kontradiksi — itu adalah kesempurnaan emosional yang paling mature.",
+        "Intuisimu sedang sangat tajam dan dapat dipercaya sekarang. Percayai apa yang kamu rasakan tentang situasi dan orang-orang di sekitarmu — lebih dari yang mungkin bisa dijelaskan."
+      ]
     },
     "reversed": {
       "makna": "Co-dependent · Emotional Overwhelm",
-      "deskripsi": "Kamu terlalu banyak absorb emosi orang lain sampai kehilangan batas antara perasaanmu sendiri dan perasaan mereka. Emotional boundaries itu bukan egois — itu penting untuk keberlangsunganmu dalam jangka panjang."
+      "deskripsi": [
+        "Kamu terlalu banyak absorb emosi orang lain sampai kehilangan batas antara perasaanmu sendiri dan perasaan mereka. Emotional boundaries itu bukan egois — itu penting untuk keberlangsunganmu dalam jangka panjang.",
+        "Batas antara empati dan absorbing emosi orang lain sudah terlalu tipis. Perlu energetic boundaries yang lebih jelas agar kamu bisa tetap hadir tanpa kehilangan dirimu sendiri.",
+        "Emotional overwhelm sedang nyata dan perlu ditangani. Mungkin saatnya untuk retreat sejenak dan isi ulang — kamu tidak bisa terus memberi dari cangkir yang kosong.",
+        "Ada co-dependensi yang tidak sehat yang perlu diakui. Caring for others adalah beautiful, tapi saat itu menjadi compulsion yang mengorbankan dirimu sendiri, itu butuh evaluasi."
+      ]
     }
   },
   {
@@ -842,11 +1332,21 @@
     "suit_emoji": "💧",
     "upright": {
       "makna": "Kedewasaan Emosional · Diplomat · Pemimpin Berempati",
-      "deskripsi": "Kemampuan memimpin dengan hati yang terbuka tanpa kehilangan kejelasan pikiran adalah sesuatu yang sangat langka. Orang-orang menaruh kepercayaan pada kebijaksanaan dan ketenangan yang kamu pancarkan."
+      "deskripsi": [
+        "Kemampuan memimpin dengan hati yang terbuka tanpa kehilangan kejelasan pikiran adalah sesuatu yang sangat langka. Orang-orang menaruh kepercayaan pada kebijaksanaan dan ketenangan yang kamu pancarkan.",
+        "Kemampuan untuk memimpin dengan wisdom emosional — tidak reaktif, tidak dingin, tapi genuine dan grounded — adalah kualitas kepemimpinan yang paling rare dan paling dibutuhkan.",
+        "Raja Cangkir menunjukkan bahwa kematangan emosional bukan tentang tidak merasakan, tapi tentang memilih bagaimana merespons apa yang dirasakan dengan bijak dan tenang.",
+        "Ada trust yang sangat besar diberikan kepadamu karena kapasitas empati dan kebijaksanaanmu yang terbukti. Emban itu dengan penuh integritas dan ketulusan."
+      ]
     },
     "reversed": {
       "makna": "Manipulatif Emosional · Unstable",
-      "deskripsi": "Emosi sedang sangat volatile dan memengaruhi kemampuanmu dalam mengambil keputusan yang sehat dan bijak untuk semua pihak. Stabilkan diri dulu sebelum membuat keputusan yang berpotensi berdampak besar."
+      "deskripsi": [
+        "Emosi sedang sangat volatile dan memengaruhi kemampuanmu dalam mengambil keputusan yang sehat dan bijak untuk semua pihak. Stabilkan diri dulu sebelum membuat keputusan yang berpotensi berdampak besar.",
+        "Emosi yang biasanya terkelola dengan baik sedang volatile dan tidak terprediksi. Ada sesuatu yang mengguncang fondasi stabilitas emosionalmu — identifikasi dan address itu.",
+        "Manipulasi emosional — entah yang dilakukan atau yang dialami — sedang terjadi dalam dinamika yang perlu segera ditangani dengan jujur dan tegas.",
+        "Kapasitas untuk hadir secara emosional sedang terkuras. Recovery serius dibutuhkan sebelum bisa kembali menjadi support system yang reliable bagi diri sendiri dan orang lain."
+      ]
     }
   },
   {
@@ -859,11 +1359,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Kebenaran · Clarity Total · Breakthrough Mental",
-      "deskripsi": "Kejelasan seperti sambaran kilat datang memotong semua kebingungan dan kekaburan. Kamu bisa melihat situasi dengan sangat jernih dan tahu persis langkah apa yang perlu diambil. Act on this clarity sekarang — jangan tunda."
+      "deskripsi": [
+        "Kejelasan seperti sambaran kilat datang memotong semua kebingungan dan kekaburan. Kamu bisa melihat situasi dengan sangat jernih dan tahu persis langkah apa yang perlu diambil. Act on this clarity sekarang — jangan tunda.",
+        "Kebenaran yang datang seperti sambaran kilat ini mungkin tidak nyaman, tapi ia membebaskan. Clarity yang menyakitkan selalu lebih baik dari illusion yang nyaman.",
+        "Ini adalah momentum untuk komunikasi yang sangat jelas dan tanpa basa-basi. Katakan apa yang perlu dikatakan dengan presisi dan kejujuran yang tidak compromised.",
+        "Pedang Pertama mengajarkan bahwa pikiran yang jernih adalah senjata terkuat yang ada. Gunakan untuk memotong kebingungan dan melihat inti dari setiap situasi yang ada."
+      ]
     },
     "reversed": {
       "makna": "Kebingungan · Distorsi Informasi",
-      "deskripsi": "Pikiranmu sedang sangat cloudy dan susah sekali melihat situasi dengan jernih. Tunda keputusan besar sampai clarity datang — membuat keputusan dari keadaan bingung dan emosional jarang berakhir dengan baik."
+      "deskripsi": [
+        "Pikiranmu sedang sangat cloudy dan susah sekali melihat situasi dengan jernih. Tunda keputusan besar sampai clarity datang — membuat keputusan dari keadaan bingung dan emosional jarang berakhir dengan baik.",
+        "Pikiranmu sedang dalam keadaan yang sangat cloudy dan tidak bisa dipercaya untuk membuat keputusan besar. Tunggu sampai clarity kembali sebelum eksekusi apapun.",
+        "Ada misinformasi atau distorsi yang sedang mempengaruhi cara kamu melihat situasi. Verifikasi sumber dan cross-check sebelum bereaksi atau membuat keputusan.",
+        "Kata-kata yang diucapkan dalam kondisi tidak jernih ini bisa menimbulkan kerusakan yang sulit diperbaiki. Think before you speak — bahkan jika itu butuh jeda yang panjang."
+      ]
     }
   },
   {
@@ -876,11 +1386,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Buntu · Tidak Mau Memilih · Pura-pura Tidak Tahu",
-      "deskripsi": "Kamu tahu kedua opsi dengan sangat baik tapi memilih untuk menutup mata dan tidak memilih. Tapi refusing to choose juga adalah sebuah pilihan — dan biasanya bukan pilihan yang memberikan hasil terbaik."
+      "deskripsi": [
+        "Kamu tahu kedua opsi dengan sangat baik tapi memilih untuk menutup mata dan tidak memilih. Tapi refusing to choose juga adalah sebuah pilihan — dan biasanya bukan pilihan yang memberikan hasil terbaik.",
+        "Impasse ini tidak akan selesai dengan sendirinya. Ada keputusan yang harus dibuat meski tidak ada opsi yang sempurna. Memilih dengan data yang tidak lengkap adalah life skill yang perlu dikuasai.",
+        "Menutup mata dari situasi tidak membuatnya hilang — ia hanya terus ada di luar jangkauan kesadaranmu sambil terus berkembang. Buka mata dan hadapi.",
+        "Dua Pedang mengajarkan bahwa pura-pura tidak tahu bukan perlindungan — itu penundaan dari rasa sakit yang akan datang dengan cara yang lebih besar jika semakin lama."
+      ]
     },
     "reversed": {
       "makna": "Stalemate Berakhir · Informasi Baru",
-      "deskripsi": "Kebuntuan mulai cair akhirnya. Informasi atau perspektif baru akan datang yang membantu kamu melihat dengan lebih jelas dan akhirnya bisa membuat keputusan yang sudah lama tertunda ini."
+      "deskripsi": [
+        "Kebuntuan mulai cair akhirnya. Informasi atau perspektif baru akan datang yang membantu kamu melihat dengan lebih jelas dan akhirnya bisa membuat keputusan yang sudah lama tertunda ini.",
+        "Informasi yang lama ditunggu akhirnya mulai datang dan membantu kamu melihat situasi dengan lebih jelas dari sebelumnya. Gunakan untuk buat keputusan yang selama ini tertunda.",
+        "Kebuntuan yang sudah lama ini mulai mencair berkat perspektif baru atau perubahan situasi. Saatnya bergerak dari titik stuck yang sudah terlalu lama ini.",
+        "Kamu mulai lebih jujur dengan dirimu sendiri tentang apa yang sebenarnya terjadi. Kejujuran internal ini adalah fondasi dari semua keputusan yang lebih baik ke depannya."
+      ]
     }
   },
   {
@@ -893,11 +1413,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Patah Hati · Pengkhianatan · Grief",
-      "deskripsi": "Rasa sakit yang sangat nyata dan valid sedang kamu rasakan — entah dari pengkhianatan, kekecewaan besar, atau kehilangan yang tidak terduga. Allow yourself to feel it sepenuhnya, bukan ditekan ke dalam."
+      "deskripsi": [
+        "Rasa sakit yang sangat nyata dan valid sedang kamu rasakan — entah dari pengkhianatan, kekecewaan besar, atau kehilangan yang tidak terduga. Allow yourself to feel it sepenuhnya, bukan ditekan ke dalam.",
+        "Rasa sakit ini nyata dan valid. Tidak perlu diminimize atau ditutup-tutupi. Merasakannya secara penuh adalah bagian dari proses yang akhirnya akan membawa pada healing yang genuine.",
+        "Tiga Pedang mengingatkan bahwa luka dari pengkhianatan atau kekecewaan tidak sembuh dengan pretending kuat. Ia sembuh dengan diakui, dirasakan, dan secara sadar diproses.",
+        "Ada grief di sini yang perlu dihormati. Biarkan dirimu berduka dengan wajar — waktu yang kamu butuhkan untuk ini adalah waktu yang sangat berharga, bukan dibuang."
+      ]
     },
     "reversed": {
       "makna": "Healing dari Luka · Menerima Kenyataan",
-      "deskripsi": "Luka-luka yang dalam mulai menutup meski masih terasa perih. Kamu tidak harus sepenuhnya sembuh untuk bisa melangkah maju — cukup kuat untuk satu langkah kecil ke depan sudah lebih dari cukup."
+      "deskripsi": [
+        "Luka-luka yang dalam mulai menutup meski masih terasa perih. Kamu tidak harus sepenuhnya sembuh untuk bisa melangkah maju — cukup kuat untuk satu langkah kecil ke depan sudah lebih dari cukup.",
+        "Luka yang dalam perlahan mulai menutup. Ini bukan berarti melupakan — ini berarti belajar untuk carry it differently, dengan cara yang tidak lagi melumpuhkan.",
+        "Ada rekonsiliasi yang mungkin terjadi — entah dengan orang lain atau dengan dirimu sendiri tentang apa yang sudah terjadi. Forgiveness bukan untuk mereka, tapi untuk kebebasanmu sendiri.",
+        "Intensitas rasa sakit sudah berkurang dan kamu mulai bisa melihat pelajaran yang tersembunyi di balik pengalaman yang sangat sulit ini. Pelajaran itu berharga dan akan terus berguna."
+      ]
     }
   },
   {
@@ -910,11 +1440,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Istirahat · Meditasi · Pemulihan",
-      "deskripsi": "Kamu BUTUH istirahat total dari pertempuran dan tekanan yang terus-menerus. Ini bukan menyerah — ini retreat strategis untuk mengisi ulang energi sebelum kembali ke arena dengan jauh lebih kuat dari sebelumnya."
+      "deskripsi": [
+        "Kamu BUTUH istirahat total dari pertempuran dan tekanan yang terus-menerus. Ini bukan menyerah — ini retreat strategis untuk mengisi ulang energi sebelum kembali ke arena dengan jauh lebih kuat dari sebelumnya.",
+        "Ini bukan saatnya untuk bertarung — ini saatnya untuk retreat yang cerdas dan intentional. Keheningan dan istirahat bukan kelemahan, tapi bagian esensial dari siklus yang efektif.",
+        "Empat Pedang mengajarkan bahwa seorang pejuang yang tidak beristirahat adalah pejuang yang mudah dikalahkan. Hormati kebutuhan tubuh dan pikiranmu untuk recovery.",
+        "Dalam ketenangan ini ada jawaban yang tidak bisa ditemukan di tengah kegaduhan. Biarkan pikiran settle sebelum kembali ke medan perang yang menunggu."
+      ]
     },
     "reversed": {
       "makna": "Kembali Bergerak · Sudah Cukup Istirahat",
-      "deskripsi": "Periode istirahat dan pemulihan sudah cukup dan tubuh-pikiranmu siap untuk kembali bergerak maju. Jangan biarkan istirahat yang sehat berubah menjadi inertia yang justru menghalangi progressmu."
+      "deskripsi": [
+        "Periode istirahat dan pemulihan sudah cukup dan tubuh-pikiranmu siap untuk kembali bergerak maju. Jangan biarkan istirahat yang sehat berubah menjadi inertia yang justru menghalangi progressmu.",
+        "Istirahat yang cukup sudah dilakukan dan sekarang energimu sudah cukup terisi untuk kembali bergerak. Jangan biarkan rest mode berubah menjadi permanent avoidance.",
+        "Ada urgensi yang perlu direspons sekarang — tidak bisa terus dalam mode pause. Ambil langkah kecil untuk kembali engage dengan situasi yang telah ditinggalkan.",
+        "Pemulihan sedang berlangsung dengan baik. Tandanya adalah rasa ingin bergerak yang mulai muncul kembali. Dengarkan itu dan mulai perlahan-lahan kembali ke dunia."
+      ]
     }
   },
   {
@@ -927,11 +1467,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Konflik · Pyrrhic Victory · Menang dengan Cara Kotor",
-      "deskripsi": "Kamu bisa menang di sini — tapi dengan cara apa, dan dengan mengorbankan apa? Kemenangan yang menghabiskan semua sumber daya, relasi, dan integritas bukan benar-benar kemenangan di akhir hari."
+      "deskripsi": [
+        "Kamu bisa menang di sini — tapi dengan cara apa, dan dengan mengorbankan apa? Kemenangan yang menghabiskan semua sumber daya, relasi, dan integritas bukan benar-benar kemenangan di akhir hari.",
+        "Memenangkan argumen dengan mengorbankan relasi tidak pernah benar-benar menang. Lima Pedang mengajarkan bahwa kemenangan yang kosong seringkali lebih merugikan dari kekalahan yang bermartabat.",
+        "Ada konflik di sini yang tidak akan memberikan winner yang genuine — hanya degrees of loss. Pertimbangkan apakah worth untuk dilanjutkan atau lebih wise untuk diakhiri.",
+        "Ketika semua yang tersisa adalah ego dan bukan substansi, sudah saatnya untuk melangkah pergi. Ada keberanian yang lebih besar dalam berdamai dari pada terus bertempur."
+      ]
     },
     "reversed": {
       "makna": "Damai · Move On dari Pertengkaran",
-      "deskripsi": "Konflik ini sudah tidak worth dilanjutkan lebih jauh dan semua pihak mulai lelah. Lebih bijak untuk ambil pelajaran yang bisa diambil dan pergi dengan kepala tegak daripada terus pertahankan ego yang sudah kelelahan."
+      "deskripsi": [
+        "Konflik ini sudah tidak worth dilanjutkan lebih jauh dan semua pihak mulai lelah. Lebih bijak untuk ambil pelajaran yang bisa diambil dan pergi dengan kepala tegak daripada terus pertahankan ego yang sudah kelelahan.",
+        "Konflik yang sudah berlangsung lama ini mulai mendekati resolusi — meski mungkin bukan yang diharapkan di awal. Terima apa yang bisa diselamatkan dan move forward.",
+        "Ada kesediaan yang mulai muncul untuk berdamai dan melepaskan keperluan untuk menang atau benar. Ini adalah tanda kedewasaan yang sangat penting.",
+        "Pelajaran dari pertempuran yang tidak perlu ini sudah cukup jelas. Bawa wisdom itu ke depan agar tidak mengulangi dynamic yang sama di kesempatan berikutnya."
+      ]
     }
   },
   {
@@ -944,11 +1494,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Transisi · Meninggalkan Kesulitan · Menuju Ketenangan",
-      "deskripsi": "Kamu sedang bergerak perlahan tapi pasti menuju perairan yang lebih tenang setelah badai panjang yang melelahkan. Perjalanannya tidak instant dan mungkin masih ada sisa-sisa ombak, tapi arahnya sudah sangat benar."
+      "deskripsi": [
+        "Kamu sedang bergerak perlahan tapi pasti menuju perairan yang lebih tenang setelah badai panjang yang melelahkan. Perjalanannya tidak instant dan mungkin masih ada sisa-sisa ombak, tapi arahnya sudah sangat benar.",
+        "Transisi ini mungkin lambat dan tidak dramatik, tapi arahnya jelas dan benar. Setiap hari yang berlalu membawa sedikit lebih banyak jarak dari badai yang sudah perlahan-lahan ditinggalkan.",
+        "Enam Pedang mengingatkan bahwa healing tidak selalu terlihat dramatis — sering terasa seperti perjalanan perahu yang tenang di atas air yang perlahan menjadi lebih calmer.",
+        "Ada guide atau situasi yang sedang membawamu ke tempat yang lebih tenang. Percayai proses ini meski belum bisa melihat sepenuhnya ke mana arahnya pergi."
+      ]
     },
     "reversed": {
       "makna": "Stuck · Tidak Bisa Pergi",
-      "deskripsi": "Kamu tahu harus bergerak ke depan tapi ada sesuatu yang terus menarik kembali ke tempat yang menyakitkan dan menahan. Identifikasi 'jangkar' itu — apakah layak untuk terus dipegang atau sudah saatnya dilepas sepenuhnya?"
+      "deskripsi": [
+        "Kamu tahu harus bergerak ke depan tapi ada sesuatu yang terus menarik kembali ke tempat yang menyakitkan dan menahan. Identifikasi 'jangkar' itu — apakah layak untuk terus dipegang atau sudah saatnya dilepas sepenuhnya?",
+        "Ada sesuatu yang terus menarikmu kembali ke tempat yang sudah seharusnya kamu tinggalkan. Identifikasi 'jangkar' itu dan putuskan apakah memang layak untuk tetap dipegang.",
+        "Proses healing yang seharusnya bergerak maju sedang mengalami setback. Ini normal — healing tidak linear. Yang penting adalah arah jangka panjangnya, bukan titik hari ini.",
+        "Ketakutan akan ketidakpastian di depan lebih kuat dari ketidaknyamanan yang ada sekarang. Tapi keamanan yang palsu di tempat yang salah bukan solusi yang sustainable."
+      ]
     }
   },
   {
@@ -961,11 +1521,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Strategi Tersembunyi · Cunning · Solo Mission",
-      "deskripsi": "Butuh taktik yang lebih subtil dalam situasi ini. Tidak semua pertempuran dimenangkan dengan frontal dan terang-terangan — kadang perlu bergerak diam-diam dan cerdik untuk mencapai tujuan yang penting bagimu."
+      "deskripsi": [
+        "Butuh taktik yang lebih subtil dalam situasi ini. Tidak semua pertempuran dimenangkan dengan frontal dan terang-terangan — kadang perlu bergerak diam-diam dan cerdik untuk mencapai tujuan yang penting bagimu.",
+        "Ada kalanya kamu perlu bergerak cerdik dan tidak langsung untuk mencapai tujuan yang legitimate. Strategi bukan berarti tidak jujur jika digunakan untuk hal yang benar.",
+        "Perhatikan apakah ada yang tidak jujur dalam situasimu — entah yang kamu lakukan atau yang dilakukan kepada kamu. Intuisi tentang hal ini sering lebih akurat dari yang ingin kita akui.",
+        "Tujuh Pedang mengajarkan bahwa tidak semua pertempuran dimenangkan dengan frontal. Kadang kebijaksanaan strategis adalah bentuk keberanian yang paling matang."
+      ]
     },
     "reversed": {
       "makna": "Tipu Daya Terungkap · Jujur pada Diri Sendiri",
-      "deskripsi": "Ada yang disembunyikan dari kamu atau kamu sendiri yang menyembunyikan sesuatu — dari orang lain maupun dari diri sendiri. Saatnya untuk jujur sebelum kebohongan itu terlalu besar untuk ditutup-tutupi lebih lama lagi."
+      "deskripsi": [
+        "Ada yang disembunyikan dari kamu atau kamu sendiri yang menyembunyikan sesuatu — dari orang lain maupun dari diri sendiri. Saatnya untuk jujur sebelum kebohongan itu terlalu besar untuk ditutup-tutupi lebih lama lagi.",
+        "Tipu daya yang sudah berlangsung — entah dari pihak manapun — sedang atau akan segera terungkap. Kejujuran sekarang jauh lebih baik dari ketahuan nanti.",
+        "Ada guilt dari tindakan atau keputusan yang kurang jujur yang perlu diakui. Mengakui dan memperbaikinya sekarang jauh lebih baik dari menanggung bebannya terus.",
+        "Kesempatan untuk kembali ke integritas setelah periode yang gray area ini sangat berharga. Ambil kesempatan ini untuk reset dan kembali ke cara yang kamu proud of."
+      ]
     }
   },
   {
@@ -978,11 +1548,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Self-Imposed Prison · Batasan Pikiran",
-      "deskripsi": "Kamu merasa sangat terjebak dan tidak berdaya. Tapi banyak pedang yang memagarimu itu sebenarnya ada di pikiranmu sendiri, bukan realita yang sesungguhnya. Satu langkah kecil untuk test batas itu akan membuktikannya dengan dramatis."
+      "deskripsi": [
+        "Kamu merasa sangat terjebak dan tidak berdaya. Tapi banyak pedang yang memagarimu itu sebenarnya ada di pikiranmu sendiri, bukan realita yang sesungguhnya. Satu langkah kecil untuk test batas itu akan membuktikannya dengan dramatis.",
+        "Batasan yang kamu rasa begitu nyata dan membelenggu itu — berapa banyak di antaranya yang actually ada, dan berapa banyak yang hanya konstruksi dalam pikiranmu sendiri?",
+        "Delapan Pedang mengajarkan bahwa penjara terbesar sering ada dalam pikiran kita sendiri. Satu langkah kecil untuk test satu batas yang diasumsikan bisa mengubah segalanya.",
+        "Ada bantuan yang tersedia jika kamu mau membuka mata untuk melihatnya. Rasa terjebak ini sangat nyata secara subjektif, tapi tidak sepermanen yang terasa sekarang."
+      ]
     },
     "reversed": {
       "makna": "Pembebasan Diri · Sadar akan Kekuatan Sendiri",
-      "deskripsi": "Kamu mulai sadar bahwa banyak batasan selama ini adalah constructs dalam pikiranmu, bukan tembok nyata yang tidak bisa diterobos. Saatnya buka penutup mata dan mulai bergerak — kebebasan itu lebih dekat dari yang kamu kira."
+      "deskripsi": [
+        "Kamu mulai sadar bahwa banyak batasan selama ini adalah constructs dalam pikiranmu, bukan tembok nyata yang tidak bisa diterobos. Saatnya buka penutup mata dan mulai bergerak — kebebasan itu lebih dekat dari yang kamu kira.",
+        "Kamu mulai sadar bahwa banyak batasan yang selama ini membatasi ternyata bisa dikuasai. Kesadaran ini adalah awal dari kebebasan yang sesungguhnya.",
+        "Ada tindakan yang berani dan kamu ambil untuk melepaskan dirimu dari situasi yang membelenggu. Beri dirimu credit yang pantas atas keberanian yang sangat nyata ini.",
+        "Perspektif yang selama ini memenjarakan sudah mulai bergeser. Dengan cara pandang yang baru, opsi-opsi yang sebelumnya tidak terlihat mulai muncul ke permukaan."
+      ]
     }
   },
   {
@@ -995,11 +1575,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Kecemasan · Nightmare · Overthinking Malam Hari",
-      "deskripsi": "Kekhawatiran dan kecemasan sedang di level tertinggi — terutama di tengah malam saat pikiran berlari sendiri tanpa kontrol. Yang ditakutkan biasanya jauh lebih buruk di kepala daripada kenyataan sesungguhnya di luar sana."
+      "deskripsi": [
+        "Kekhawatiran dan kecemasan sedang di level tertinggi — terutama di tengah malam saat pikiran berlari sendiri tanpa kontrol. Yang ditakutkan biasanya jauh lebih buruk di kepala daripada kenyataan sesungguhnya di luar sana.",
+        "Kecemasan yang terasa sangat real di malam hari sering jauh lebih besar dari ancaman yang sebenarnya. Ini bukan berarti perasaanmu tidak valid — tapi mungkin perlu diproporsikan.",
+        "Pikiran yang berputar tanpa henti ini adalah tanda bahwa ada sesuatu yang butuh perhatian dan tidak bisa terus diabaikan. Address the root, bukan hanya manage symptomnya.",
+        "Sembilan Pedang mengajarkan bahwa overthinking yang kronis adalah beban yang sangat berat. Ada strategi konkret — journaling, therapy, breathing — yang bisa membantu break the cycle."
+      ]
     },
     "reversed": {
       "makna": "Harapan Datang · Worst Sudah Lewat",
-      "deskripsi": "Periode anxiety dan kegelapan yang paling intens sudah atau akan segera berlalu. Pagi selalu datang setelah malam yang terpanjang sekalipun. Satu langkah kecil keluar dari spiral pikiran negatif adalah awal pemulihan."
+      "deskripsi": [
+        "Periode anxiety dan kegelapan yang paling intens sudah atau akan segera berlalu. Pagi selalu datang setelah malam yang terpanjang sekalipun. Satu langkah kecil keluar dari spiral pikiran negatif adalah awal pemulihan.",
+        "Perlahan tapi pasti, kegelapan yang sangat intense itu mulai terangkat. Pagi memang selalu datang setelah malam yang terpanjang — dan kamu hampir sampai di sana.",
+        "Anxiety yang paling parah sudah mulai mereda. Ini bukan berarti semua masalah selesai, tapi kemampuanmu untuk menghadapinya sudah jauh lebih baik dari sebelumnya.",
+        "Perspektif yang lebih seimbang mulai kembali. Saat di puncak kecemasan, semuanya terasa catastrophic — sekarang kamu mulai bisa melihat dengan lebih proportional."
+      ]
     }
   },
   {
@@ -1012,11 +1602,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Pengkhianatan Total · Titik Terendah · Akhir Menyakitkan",
-      "deskripsi": "Ini titik terbawah yang sangat painful — dan dari sini, satu-satunya arah yang tersedia adalah ke atas. Biarkan ini benar-benar berakhir sepenuhnya agar awal yang baru bisa datang dengan sesungguhnya dan clean slate."
+      "deskripsi": [
+        "Ini titik terbawah yang sangat painful — dan dari sini, satu-satunya arah yang tersedia adalah ke atas. Biarkan ini benar-benar berakhir sepenuhnya agar awal yang baru bisa datang dengan sesungguhnya dan clean slate.",
+        "Titik paling bawah dari siklus ini sudah terlampaui. Dari sini, satu-satunya arah adalah naik — tapi itu butuh merelakan sepenuhnya apa yang sudah berakhir, bukan terus memeluknya.",
+        "Sepuluh Pedang mungkin terlihat dramatis dan suram, tapi ia membawa pesan yang jelas: ini sudah selesai. Dan dalam penyelesaian yang total itu, ada potensi awal yang paling bersih.",
+        "Ada ketenangan yang aneh yang datang ketika kamu akhirnya sampai di titik paling bawah — karena dari sini, tidak ada lagi yang bisa diambil. Hanya ada yang bisa dibangun kembali."
+      ]
     },
     "reversed": {
       "makna": "Bangkit · Menolak Jadi Korban · Recovery",
-      "deskripsi": "Kamu menolak untuk tetap jadi korban dari situasi yang sangat menyakitkan ini dan itu adalah keputusan terpenting. Bangkit dari titik terendah dimulai dari satu keputusan yang kuat — dan kamu sudah membuatnya."
+      "deskripsi": [
+        "Kamu menolak untuk tetap jadi korban dari situasi yang sangat menyakitkan ini dan itu adalah keputusan terpenting. Bangkit dari titik terendah dimulai dari satu keputusan yang kuat — dan kamu sudah membuatnya.",
+        "Kamu menolak untuk tetap menjadi korban dan memilih untuk bangkit — dan itu adalah keputusan yang paling powerful yang bisa dibuat dari titik paling rendah ini.",
+        "Pemulihan dari titik terendah ini sedang berlangsung. Prosesnya tidak instan dan tidak linear, tapi arahnya sudah benar dan momentum sedang membangun.",
+        "Ada ketahanan yang sangat luar biasa yang terbukti dari caramu melewati ini. Kekuatan yang ditemukan di sini adalah yang paling otentik karena datang dari tempat yang paling sulit."
+      ]
     }
   },
   {
@@ -1029,11 +1629,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Waspada · Intelektual · Pengamat Tajam",
-      "deskripsi": "Pikiran yang sangat tajam dan selalu ingin tahu semuanya. Kamu — atau seseorang di sekitarmu — sangat observant dan tidak ada yang lolos dari perhatiannya. Gunakan ketajaman ini dengan bijak dan penuh tanggung jawab."
+      "deskripsi": [
+        "Pikiran yang sangat tajam dan selalu ingin tahu semuanya. Kamu — atau seseorang di sekitarmu — sangat observant dan tidak ada yang lolos dari perhatiannya. Gunakan ketajaman ini dengan bijak dan penuh tanggung jawab.",
+        "Rasa ingin tahu yang intelektual dan ketajaman observasi yang kamu miliki adalah aset besar — asal digunakan untuk tujuan yang konstruktif, bukan hanya untuk kritik.",
+        "Ada informasi penting yang sedang kamu kumpulkan tanpa orang lain menyadarinya. Gunakan dengan bijak dan etis — kecerdasan yang tidak dibarengi etika bisa menjadi senjata berbahaya.",
+        "Prajurit Pedang mengajarkan bahwa inteligensi yang genuine tidak perlu membuktikan dirinya dengan mendebat semua orang. Ia cukup diam dan observe, lalu berbicara di momen yang tepat."
+      ]
     },
     "reversed": {
       "makna": "Gosip · Pikiran Negatif · Kecerdasan Disalahgunakan",
-      "deskripsi": "Kecerdasan yang dipakai untuk gosip, kritik destructive, atau paranoia yang tidak berdasar. Redirect energi mental yang tajam ini ke hal yang lebih konstruktif dan bermakna — ada potensi besar yang sedang terbuang sia-sia."
+      "deskripsi": [
+        "Kecerdasan yang dipakai untuk gosip, kritik destructive, atau paranoia yang tidak berdasar. Redirect energi mental yang tajam ini ke hal yang lebih konstruktif dan bermakna — ada potensi besar yang sedang terbuang sia-sia.",
+        "Kecerdasan yang digunakan untuk gossip, kritik destruktif, atau spreading negativity adalah pemborosan yang sangat besar. Redirect energi mental yang tajam ini ke tempat yang lebih valuable.",
+        "Ada paranoia atau kecurigaan berlebihan yang sedang menggerogoti kemampuanmu untuk connect dengan orang lain secara genuine. Cek apakah ini benar-benar berdasar.",
+        "Kata-kata yang diucapkan dari tempat yang belum cukup matang bisa merusak relasi yang berharga. Pikirkan dua kali sebelum mengucapkan, bahkan jika terasa sudah sangat benar."
+      ]
     }
   },
   {
@@ -1046,11 +1656,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Ambisius · Tegas · Direct · Cepat",
-      "deskripsi": "Bergerak dengan kecepatan penuh langsung menuju target tanpa mau diganggu oleh hal yang tidak relevan. Efektif dan mengagumkan — tapi pastikan kecepatan ini tidak mengorbankan orang dan relasi di sekitarmu dalam prosesnya."
+      "deskripsi": [
+        "Bergerak dengan kecepatan penuh langsung menuju target tanpa mau diganggu oleh hal yang tidak relevan. Efektif dan mengagumkan — tapi pastikan kecepatan ini tidak mengorbankan orang dan relasi di sekitarmu dalam prosesnya.",
+        "Tekad yang kuat dan kecepatan bergerak adalah keunggulan yang sangat besar sekarang — asal diimbangi dengan setidaknya arah yang cukup jelas sebelum sprint dimulai.",
+        "Ksatria Pedang mengingatkan bahwa efisiensi dan kecepatan dalam menuju tujuan bukan berarti mengorbankan semua yang ada di jalurmu. Ada cara untuk cepat tanpa destructive.",
+        "Ada window waktu yang sempit tapi sangat strategis untuk bertindak sekarang. Jangan biarkan hesitasi menghabiskan momentum yang sedang sangat kuat ini."
+      ]
     },
     "reversed": {
       "makna": "Impulsif · Agresif Verbal · Tanpa Rem",
-      "deskripsi": "Kecepatan tanpa kebijaksanaan sering menghasilkan collateral damage yang tidak perlu. Kata-kata dan keputusan yang dilontarkan terlalu cepat dan impulsif susah ditarik kembali — slow down sedikit, hasilnya akan jauh lebih baik."
+      "deskripsi": [
+        "Kecepatan tanpa kebijaksanaan sering menghasilkan collateral damage yang tidak perlu. Kata-kata dan keputusan yang dilontarkan terlalu cepat dan impulsif susah ditarik kembali — slow down sedikit, hasilnya akan jauh lebih baik.",
+        "Kecepatan yang berlebihan tanpa kontrol sedang menimbulkan kerusakan yang mungkin tidak kamu perhatikan di tengah sprint. Slow down dan lihat apa yang tertinggal atau terinjak.",
+        "Kata-kata yang terlalu cepat dilontarkan dan terlalu tajam akan melukai bahkan orang yang tidak dimaksud. Latih filtering sebelum berbicara, terutama saat emosi sedang tinggi.",
+        "Ada agresivitas dalam cara kamu berinteraksi yang membuat orang lain merasa diserang bahkan ketika kamu tidak bermaksud demikian. Noticing ini adalah langkah pertama untuk mengubahnya."
+      ]
     }
   },
   {
@@ -1063,11 +1683,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Tajam · Bijak · Mandiri · Jujur",
-      "deskripsi": "Ketajaman pikiran dan kemandirian yang membuat orang segan sekaligus sangat respect. Kamu melihat situasi apa adanya tanpa filter emosi yang berlebihan, dan kebijaksanaanmu ini sangat berharga dalam situasi yang kompleks."
+      "deskripsi": [
+        "Ketajaman pikiran dan kemandirian yang membuat orang segan sekaligus sangat respect. Kamu melihat situasi apa adanya tanpa filter emosi yang berlebihan, dan kebijaksanaanmu ini sangat berharga dalam situasi yang kompleks.",
+        "Kejernihan pikiran dan keberanian untuk melihat — dan mengatakan — hal apa adanya adalah kualitas yang langka dan sangat berharga. Jangan compromised ini untuk kenyamanan semu.",
+        "Ratu Pedang menunjukkan bahwa menjadi tajam dan direct tidak harus berarti dingin atau tidak peduli. Kamu bisa jujur DAN compassionate — keduanya bisa coexist.",
+        "Ada kemandirian dan self-sufficiency yang kamu bangun dengan sangat solid. Ini bukan tembok yang menutup cinta, tapi fondasi yang memungkinkan cinta yang lebih sehat."
+      ]
     },
     "reversed": {
       "makna": "Pahit · Manipulatif Verbal · Cold",
-      "deskripsi": "Ketajaman yang berubah menjadi luka — baik yang kamu terima maupun yang kamu berikan tanpa sadar kepada orang di sekitarmu. Ada luka lama yang belum diproses yang sedang mempengaruhi caramu berinteraksi dengan dunia."
+      "deskripsi": [
+        "Ketajaman yang berubah menjadi luka — baik yang kamu terima maupun yang kamu berikan tanpa sadar kepada orang di sekitarmu. Ada luka lama yang belum diproses yang sedang mempengaruhi caramu berinteraksi dengan dunia.",
+        "Ada kepahitan dari pengalaman masa lalu yang sedang mewarnai cara kamu berinteraksi sekarang — dan orang-orang yang tidak bersalah terkena dampaknya. Ini perlu dikenali dan diatasi.",
+        "Ketajaman yang berubah menjadi sarkasme atau kedinginan yang menyakitkan adalah tanda bahwa ada luka yang belum sembuh yang perlu mendapat perhatian.",
+        "Manipulasi verbal yang subtle — bahkan jika tidak disengaja — sedang merusak kepercayaan dalam relasi penting. Evaluasi caramu berkomunikasi saat sedang dalam posisi yang tidak nyaman."
+      ]
     }
   },
   {
@@ -1080,11 +1710,21 @@
     "suit_emoji": "💨",
     "upright": {
       "makna": "Otoritas Intelektual · Adil · Logical",
-      "deskripsi": "Kemampuan berpikir logis, sistematis, dan adil yang membuatmu menjadi autoritas yang dipercaya dalam situasi yang butuh kepala dingin, analisis yang jernih, dan keputusan yang bisa dipertanggungjawabkan."
+      "deskripsi": [
+        "Kemampuan berpikir logis, sistematis, dan adil yang membuatmu menjadi autoritas yang dipercaya dalam situasi yang butuh kepala dingin, analisis yang jernih, dan keputusan yang bisa dipertanggungjawabkan.",
+        "Kemampuan untuk berpikir dengan jernih dan adil bahkan dalam situasi yang emosional adalah tanda kepemimpinan intelektual yang paling tinggi. Ini adalah kualitasmu sekarang.",
+        "Raja Pedang mengingatkan bahwa autoritas yang paling kuat adalah yang didasarkan pada kebenaran dan keadilan, bukan pada posisi atau kekuasaan yang dipaksakan.",
+        "Ada keputusan besar yang membutuhkan kepala yang dingin dan analisis yang komprehensif. Ini adalah kondisimu sekarang — gunakan untuk membuat keputusan yang akan tahan lama."
+      ]
     },
     "reversed": {
       "makna": "Tirani Intelektual · Dingin tanpa Hati",
-      "deskripsi": "Logika murni tanpa empati menghasilkan keputusan yang technically benar tapi secara manusiawi gagal total dan melukai. Kepala boleh dingin, tapi pastikan hatinya masih menyala dan bisa merasakan dampaknya."
+      "deskripsi": [
+        "Logika murni tanpa empati menghasilkan keputusan yang technically benar tapi secara manusiawi gagal total dan melukai. Kepala boleh dingin, tapi pastikan hatinya masih menyala dan bisa merasakan dampaknya.",
+        "Logika yang digunakan tanpa empati menghasilkan keputusan yang technically correct tapi humanly wrong. Otak yang hebat perlu hati yang terbuka untuk benar-benar bijak.",
+        "Ada penggunaan kecerdasan untuk mendominasi atau memanipulasi yang perlu diperiksa. Kekuatan intelektual adalah tanggung jawab, bukan privilege untuk disalahgunakan.",
+        "Keputusan yang dibuat dari kepala yang 'terlalu dingin' sedang kehilangan elemen manusiawi yang sebenarnya sangat penting untuk hasil yang benar-benar optimal."
+      ]
     }
   },
   {
@@ -1097,11 +1737,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Peluang Finansial · Prospek Material · Seed Money",
-      "deskripsi": "Benih peluang finansial atau material baru sedang ditawarkan padamu secara konkret. Terima dengan tangan terbuka dan siap, pastikan kamu punya kapasitas untuk merawat dan mengembangkannya menjadi sesuatu yang besar."
+      "deskripsi": [
+        "Benih peluang finansial atau material baru sedang ditawarkan padamu secara konkret. Terima dengan tangan terbuka dan siap, pastikan kamu punya kapasitas untuk merawat dan mengembangkannya menjadi sesuatu yang besar.",
+        "Benih material yang baru saja disemai ini mengandung potensi yang jauh melebihi ukurannya sekarang. Rawat dengan konsistensi dan kesabaran — hasilnya akan jauh lebih besar dari awalnya.",
+        "Peluang konkret dan nyata sedang ada di hadapanmu. Bukan ilusi, bukan mimpi siang hari — ini real dan layak untuk ditangani dengan serius dan tindakan yang konkret.",
+        "Koin Pertama mengajarkan bahwa kemakmuran dimulai dari satu keputusan yang dieksekusi dengan baik. Mulai dengan yang ada sekarang dan biarkan ia tumbuh secara natural."
+      ]
     },
     "reversed": {
       "makna": "Peluang Terlewat · Fondasi Rapuh",
-      "deskripsi": "Peluang finansial mungkin sudah terlewat atau yang baru tidak datang tepat waktu. Yang berikutnya, pastikan kamu lebih siap — baik secara mental maupun secara praktis dan material."
+      "deskripsi": [
+        "Peluang finansial mungkin sudah terlewat atau yang baru tidak datang tepat waktu. Yang berikutnya, pastikan kamu lebih siap — baik secara mental maupun secara praktis dan material.",
+        "Peluang finansial yang muncul mungkin tidak sesolid yang terlihat — lakukan due diligence yang lebih dalam sebelum fully commit. Skeptisisme yang sehat adalah bijaksana.",
+        "Ada fondasi yang belum cukup kuat untuk menopang ambisi yang ada. Perkuat dulu fundamentalnya sebelum melangkah ke yang lebih besar.",
+        "Timing mungkin belum tepat untuk opportunity yang ada. Bukan berarti tidak akan datang lagi — tapi untuk saat ini, persiapkan diri lebih baik untuk saat peluang serupa datang kembali."
+      ]
     }
   },
   {
@@ -1114,11 +1764,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Juggling · Adaptasi · Keseimbangan Dinamis",
-      "deskripsi": "Kamu manage banyak hal sekaligus dengan kemampuan yang cukup mengagumkan. Terus jaga keseimbangan ini — tapi juga kenali batasmu sebelum semua bola yang sedang kamu juggle jatuh bersamaan dan berantakan."
+      "deskripsi": [
+        "Kamu manage banyak hal sekaligus dengan kemampuan yang cukup mengagumkan. Terus jaga keseimbangan ini — tapi juga kenali batasmu sebelum semua bola yang sedang kamu juggle jatuh bersamaan dan berantakan.",
+        "Juggling banyak hal sekaligus adalah skill yang sedang kamu asah. Kunci adalah tidak ada yang jatuh sepenuhnya — menjaga semuanya bergerak, meski tidak selalu sempurna.",
+        "Adaptasi yang fleksibel terhadap kondisi yang terus berubah adalah apa yang dibutuhkan sekarang. Kekakuan dalam situasi yang dinamis ini bukan aset.",
+        "Dua Koin mengajarkan bahwa keseimbangan yang genuine tidak selalu simetris — kadang satu sisi perlu lebih banyak perhatian, lalu bergantian. Yang penting totalnya terjaga."
+      ]
     },
     "reversed": {
       "makna": "Overwhelmed · Keseimbangan Hancur",
-      "deskripsi": "Terlalu banyak yang harus di-manage secara finansial atau praktis sampai semuanya mulai goyah dan tidak terkontrol. Sudah saatnya simplify, prioritize, dan minta bantuan untuk apa yang tidak harus kamu tanggung sendiri."
+      "deskripsi": [
+        "Terlalu banyak yang harus di-manage secara finansial atau praktis sampai semuanya mulai goyah dan tidak terkontrol. Sudah saatnya simplify, prioritize, dan minta bantuan untuk apa yang tidak harus kamu tanggung sendiri.",
+        "Terlalu banyak yang ditanggung sekaligus dan semua mulai terganggu. Sudah saatnya prioritize dengan tegas: apa yang paling kritikal dan apa yang bisa dilepas atau didelegasi?",
+        "Chaos finansial atau logistik yang ada sekarang adalah signal jelas bahwa sistem yang ada sudah tidak cukup. Perlu restrukturisasi yang lebih fundamental dari sekedar kerja lebih keras.",
+        "Perhatian yang terlalu tersebar mengakibatkan tidak ada yang mendapat fokus yang cukup untuk berkembang. Pilih dengan berani apa yang akan benar-benar kamu prioritaskan."
+      ]
     }
   },
   {
@@ -1131,11 +1791,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Kerja Tim · Keahlian Diakui · Kolaborasi",
-      "deskripsi": "Keahlian dan kontribusimu diakui dan dihargai dalam konteks tim atau proyek yang lebih besar. Kolaborasi yang baik sekarang akan menghasilkan jauh lebih banyak daripada kerja sendirian sebagus dan secerdas apapun."
+      "deskripsi": [
+        "Keahlian dan kontribusimu diakui dan dihargai dalam konteks tim atau proyek yang lebih besar. Kolaborasi yang baik sekarang akan menghasilkan jauh lebih banyak daripada kerja sendirian sebagus dan secerdas apapun.",
+        "Kolaborasi yang genuine — di mana setiap orang membawa yang terbaik dari dirinya — sedang menghasilkan sesuatu yang jauh lebih besar dari jumlah bagian-bagiannya.",
+        "Tiga Koin mengajarkan bahwa craftsmanship yang sejati membutuhkan feedback, iterasi, dan keterbukaan untuk belajar dari perspektif yang berbeda. Ego yang rendah hati adalah aset terbesar di sini.",
+        "Kontribusi yang kamu berikan dalam konteks yang lebih besar ini sedang diakui dan dihargai — bahkan jika tidak selalu terucapkan secara eksplisit. Teruskan dengan kualitas yang sama."
+      ]
     },
     "reversed": {
       "makna": "Silo Mentality · Kurang Koordinasi",
-      "deskripsi": "Kerja sendiri-sendiri tanpa koordinasi yang baik menghasilkan lebih banyak pekerjaan dengan hasil yang jauh lebih sedikit dari potensinya. Ada yang perlu diperbaiki dalam cara kalian berkomunikasi, berkolaborasi, dan berbagi."
+      "deskripsi": [
+        "Kerja sendiri-sendiri tanpa koordinasi yang baik menghasilkan lebih banyak pekerjaan dengan hasil yang jauh lebih sedikit dari potensinya. Ada yang perlu diperbaiki dalam cara kalian berkomunikasi, berkolaborasi, dan berbagi.",
+        "Kurangnya koordinasi dan komunikasi sedang membuat semua orang bekerja keras tapi dalam arah yang berbeda. Satu pertemuan yang focused bisa mengubah ini secara dramatis.",
+        "Ada yang tidak mau atau tidak bisa berkontribusi secara equal dalam kolaborasi ini dan itu sedang membebani pihak yang lain. Ini perlu dibicarakan secara jujur dan langsung.",
+        "Silo mentality — semua kerja sendiri tanpa berbagi — sedang menghasilkan duplikasi yang tidak perlu dan missed synergies yang bisa sangat berharga jika dikelola dengan baik."
+      ]
     }
   },
   {
@@ -1148,11 +1818,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Mengamankan Aset · Kontrol Finansial · Hemat",
-      "deskripsi": "Kamu menjaga apa yang sudah dimiliki dengan sangat hati-hati. Itu bijak — tapi pastikan penjagaan ini tidak berubah menjadi kelumpuhan karena terlalu takut kehilangan atau terlalu pelit bahkan untuk investasi yang jelas-jelas menguntungkan."
+      "deskripsi": [
+        "Kamu menjaga apa yang sudah dimiliki dengan sangat hati-hati. Itu bijak — tapi pastikan penjagaan ini tidak berubah menjadi kelumpuhan karena terlalu takut kehilangan atau terlalu pelit bahkan untuk investasi yang jelas-jelas menguntungkan.",
+        "Menjaga dan melindungi apa yang sudah dibangun itu bijaksana, tapi ada perbedaan tipis antara berhati-hati dan ketakutan yang membekukan. Temukan balance itu.",
+        "Empat Koin mengingatkan bahwa security finansial adalah fondasi yang penting — tapi fondasi bukan tujuan akhir. Pastikan keamanan yang dibangun melayani hidup, bukan membelenggunya.",
+        "Ada nilai dari stability yang sedang kamu protect. Tapi protection yang terlalu ketat dari perubahan yang sebenarnya perlu terjadi bisa menjadi hambatan terbesar untuk pertumbuhan."
+      ]
     },
     "reversed": {
       "makna": "Materialisme Berlebih · Melepas Kontrol",
-      "deskripsi": "Attachment berlebih pada materi dan kontrol finansial yang terlalu ketat justru menghalangi flow rezeki yang lebih besar. Kadang harus siap melepaskan sesuatu untuk mendapatkan yang jauh lebih banyak."
+      "deskripsi": [
+        "Attachment berlebih pada materi dan kontrol finansial yang terlalu ketat justru menghalangi flow rezeki yang lebih besar. Kadang harus siap melepaskan sesuatu untuk mendapatkan yang jauh lebih banyak.",
+        "Cengkeraman yang terlalu kuat pada materi atau kontrol sedang menghalangi flow yang sebenarnya bisa membawa lebih banyak. Paradoxnya, melepaskan bisa menghasilkan lebih.",
+        "Ada yang sedang belajar bahwa tidak semua bisa dikontrol — dan mungkin tidak semua perlu dikontrol. Surrender yang bijak bukan kelemahan, itu wisdom yang sangat mature.",
+        "Spending yang berlebihan atau kurangnya batas finansial yang jelas sedang menciptakan ketidakstabilan. Perlu structure yang lebih jelas sebelum bisa bergerak lebih bebas."
+      ]
     }
   },
   {
@@ -1165,11 +1845,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Kesulitan Finansial · Feeling Excluded · Butuh Bantuan",
-      "deskripsi": "Periode yang secara finansial atau material terasa sangat berat, ditambah perasaan isolated atau excluded dari sekitarmu. Bantuan tersedia — tapi pertanyaannya: sudah seberapa sungguh-sungguh kamu mencarinya dan membuka diri untuk menerimanya?"
+      "deskripsi": [
+        "Periode yang secara finansial atau material terasa sangat berat, ditambah perasaan isolated atau excluded dari sekitarmu. Bantuan tersedia — tapi pertanyaannya: sudah seberapa sungguh-sungguh kamu mencarinya dan membuka diri untuk menerimanya?",
+        "Dalam kesulitan yang sedang dihadapi ini, ada lebih banyak sumber daya yang tersedia dari yang terlihat saat ini. Tapi butuh keberanian untuk mengakui kebutuhan dan mencari bantuan.",
+        "Lima Koin mengingatkan bahwa kemiskinan bisa berbentuk material atau spiritual. Keduanya nyata dan keduanya bisa diatasi — tapi keduanya juga perlu diakui terlebih dahulu.",
+        "Bahkan dalam kondisi yang paling sulit sekalipun, ada yang tetap ada dan tidak hilang. Perhatikan itu dan jaga dengan baik sebagai modal untuk bangkit."
+      ]
     },
     "reversed": {
       "makna": "Pemulihan Finansial · Bantuan Datang",
-      "deskripsi": "Kondisi yang sulit mulai membaik secara bertahap dan nyata. Bantuan datang atau kondisi berubah ke arah yang lebih baik. Pemulihannya mungkin lambat, tapi arahnya sudah jelas dan konsisten menuju yang lebih baik."
+      "deskripsi": [
+        "Kondisi yang sulit mulai membaik secara bertahap dan nyata. Bantuan datang atau kondisi berubah ke arah yang lebih baik. Pemulihannya mungkin lambat, tapi arahnya sudah jelas dan konsisten menuju yang lebih baik.",
+        "Kondisi yang sangat sulit ini mulai membaik, perlahan tapi dengan arah yang jelas ke atas. Setiap tanda perbaikan kecil itu nyata dan worth untuk diperhatikan dan disyukuri.",
+        "Bantuan yang dinanti akhirnya datang, atau kamu akhirnya menemukan keberanian untuk mencarinya. Menerima bantuan adalah tanda kekuatan, bukan kelemahan.",
+        "Pemulihan finansial atau material yang sedang berlangsung butuh waktu dan kesabaran. Jangan rush atau panik — arahnya sudah benar dan prosesnya sedang berjalan."
+      ]
     }
   },
   {
@@ -1182,11 +1872,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Kemurahan Hati · Memberi dan Menerima · Balance",
-      "deskripsi": "Energi kemurahan hati sedang mengalir dengan indah — entah kamu yang memberi atau menerima. Biarkan siklus ini berjalan secara natural dan dengan tulus, karena energi yang diberikan dengan ikhlas selalu kembali berlipat ganda."
+      "deskripsi": [
+        "Energi kemurahan hati sedang mengalir dengan indah — entah kamu yang memberi atau menerima. Biarkan siklus ini berjalan secara natural dan dengan tulus, karena energi yang diberikan dengan ikhlas selalu kembali berlipat ganda.",
+        "Siklus kemurahan hati yang mengalir dengan genuine ini adalah salah satu ekspresi paling indah dari kemakmuran — bukan hanya memiliki, tapi berbagi dengan cara yang meaningful.",
+        "Enam Koin mengingatkan bahwa memberi dan menerima adalah dua sisi dari satu koin yang sama. Keduanya perlu dilakukan dengan grace dan tanpa attachment pada hasilnya.",
+        "Ada karma yang sangat positif yang sedang berputar dalam situasimu sekarang — entah dari memberi atau dari menerima dengan hati yang terbuka dan penuh syukur."
+      ]
     },
     "reversed": {
       "makna": "Strings Attached · Imbalance Power",
-      "deskripsi": "Ada imbalance dalam siklus memberi dan menerima yang tidak diakui oleh semua pihak. Sesuatu yang terlihat seperti kemurahan hati mungkin datang dengan ekspektasi atau 'harga' yang tidak pernah terucapkan secara eksplisit."
+      "deskripsi": [
+        "Ada imbalance dalam siklus memberi dan menerima yang tidak diakui oleh semua pihak. Sesuatu yang terlihat seperti kemurahan hati mungkin datang dengan ekspektasi atau 'harga' yang tidak pernah terucapkan secara eksplisit.",
+        "Ada imbalance yang tidak diakui dalam siklus memberi dan menerima ini. Entah ada yang mengeksploitasi kemurahan hati, atau ada pemberian yang datang dengan strings attached.",
+        "Kemurahan hati yang datang dengan ekspektasi tersembunyi bukan lagi kemurahan hati yang genuine — itu adalah transaksi yang belum jujur pada dirinya sendiri.",
+        "Periksa apakah kamu memberi dari tempat yang abundant atau dari place of scarcity. Keduanya menghasilkan energi yang sangat berbeda dan orang yang peka bisa merasakannya."
+      ]
     }
   },
   {
@@ -1199,11 +1899,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Investasi Jangka Panjang · Menunggu Hasil · Evaluasi",
-      "deskripsi": "Kamu sudah bekerja keras dan sekarang dalam fase sabar menunggu hasil dari apa yang sudah ditanam dengan susah payah. Ini bukan idle — ini fase pematangan yang tidak bisa dipercepat tapi sangat perlu dan berharga untuk dilalui."
+      "deskripsi": [
+        "Kamu sudah bekerja keras dan sekarang dalam fase sabar menunggu hasil dari apa yang sudah ditanam dengan susah payah. Ini bukan idle — ini fase pematangan yang tidak bisa dipercepat tapi sangat perlu dan berharga untuk dilalui.",
+        "Apa yang sudah kamu tanam sedang tumbuh meski belum terlihat di permukaan. Bersabar dengan prosesnya sambil tetap menjaga yang sudah ditanam dengan konsistensi.",
+        "Tujuh Koin mengajarkan bahwa evaluasi jujur di tengah perjalanan adalah tanda kecerdasan, bukan keraguan. Apakah ini masih arahnya yang benar? Apakah ada yang perlu disesuaikan?",
+        "Return on investment membutuhkan waktu yang jauh lebih panjang dari yang diinginkan — tapi compound effect dari kesabaran yang konsisten akan mengejutkan bahkan dirimu sendiri."
+      ]
     },
     "reversed": {
       "makna": "Investasi Kurang ROI · Evaluasi Ulang",
-      "deskripsi": "Kamu bekerja keras tapi hasilnya tidak sebanding dengan effort yang sudah dikeluarkan selama ini. Sudah saatnya evaluasi secara jujur dan tanpa ego: apakah arah, metode, atau bahkan tujuannya yang perlu diubah secara fundamental?"
+      "deskripsi": [
+        "Kamu bekerja keras tapi hasilnya tidak sebanding dengan effort yang sudah dikeluarkan selama ini. Sudah saatnya evaluasi secara jujur dan tanpa ego: apakah arah, metode, atau bahkan tujuannya yang perlu diubah secara fundamental?",
+        "Investasi yang sudah dilakukan tidak memberikan return yang sepadan. Sebelum terus, evaluasi dengan jujur: apakah ini karena masalah timing, strategi, atau arahnya yang perlu diubah?",
+        "Ada frustasi dari usaha keras yang belum menghasilkan. Frustasi itu valid — tapi jangan biarkan ia membuat keputusan yang seharusnya dibuat dari kepala yang jernih.",
+        "Mungkin sudah saatnya untuk pivot atau reallocate energi ke sesuatu yang menunjukkan tanda-tanda yang lebih menjanjikan. Mempertahankan yang jelas tidak bekerja bukan konsistensi, itu keras kepala."
+      ]
     }
   },
   {
@@ -1216,11 +1926,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Dedikasi · Craft · Jalan Menuju Mastery",
-      "deskripsi": "Fokus total pada mengasah keahlian dengan ketekunan dan kesabaran yang luar biasa dan jarang ditemukan. Ini bukan buang waktu — ini investasi pada diri sendiri yang akan memberikan return yang sangat besar dalam jangka panjang."
+      "deskripsi": [
+        "Fokus total pada mengasah keahlian dengan ketekunan dan kesabaran yang luar biasa dan jarang ditemukan. Ini bukan buang waktu — ini investasi pada diri sendiri yang akan memberikan return yang sangat besar dalam jangka panjang.",
+        "Dedikasi yang kamu berikan untuk mengasah keahlian ini, meski terasa lambat dan repetitif, adalah investasi yang tidak bisa dicuri dan tidak bisa hilang dalam kondisi apapun.",
+        "Delapan Koin mengingatkan bahwa mastery tidak datang dari bakat — ia datang dari 10.000 jam pengulangan yang deliberate dan penuh perhatian. Teruskan prosesnya.",
+        "Ada keindahan dalam proses menjadi lebih baik sedikit demi sedikit setiap hari. Jangan skip langkah demi kelihatan advance lebih cepat — setiap langkah itu essential."
+      ]
     },
     "reversed": {
       "makna": "Perfeksionisme · Asal Jadi",
-      "deskripsi": "Ada dua ekstrem yang sama-sama bermasalah: terlalu terobsesi dengan kesempurnaan sampai tidak pernah selesai, atau asal selesai tanpa usaha yang serius dan penuh. Cari titik tengah yang produktif dan sustainable."
+      "deskripsi": [
+        "Ada dua ekstrem yang sama-sama bermasalah: terlalu terobsesi dengan kesempurnaan sampai tidak pernah selesai, atau asal selesai tanpa usaha yang serius dan penuh. Cari titik tengah yang produktif dan sustainable.",
+        "Ada dua extremes yang sama-sama bermasalah: terlalu terobsesi pada kesempurnaan sampai tidak pernah selesai, atau asal selesai tanpa usaha yang sungguh-sungguh. Cari titik tengah yang sustainable.",
+        "Pekerjaan yang dilakukan hanya untuk memenuhi kewajiban tanpa genuine effort atau perhatian akan menghasilkan output yang pada akhirnya tidak akan memuaskan siapapun — terutama dirimu sendiri.",
+        "Shortcuts dalam craft atau keahlian selalu kelihatan dari jauh oleh orang yang berpengalaman. Invest waktu yang seharusnya dan hasilnya akan berbicara sendiri."
+      ]
     }
   },
   {
@@ -1233,11 +1953,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Kemandirian Finansial · Kelimpahan · Hasil Kerja Keras",
-      "deskripsi": "Kamu sudah berhasil membangun sesuatu yang solid dan sekarang layak menikmati hasilnya dengan rasa bangga yang tulus dan penuh. Ini bukan keberuntungan — ini adalah akumulasi dari kerja keras, keputusan yang tepat, dan konsistensi."
+      "deskripsi": [
+        "Kamu sudah berhasil membangun sesuatu yang solid dan sekarang layak menikmati hasilnya dengan rasa bangga yang tulus dan penuh. Ini bukan keberuntungan — ini adalah akumulasi dari kerja keras, keputusan yang tepat, dan konsistensi.",
+        "Kemandirian yang sudah kamu bangun dengan susah payah ini adalah pencapaian yang sangat berharga. Nikmati buahnya tanpa perlu justify kepada siapapun.",
+        "Sembilan Koin mengingatkan bahwa kemakmuran yang paling memuaskan adalah yang dibangun sendiri, dengan pilihan sendiri, dan dinikmati dengan standar dirimu sendiri.",
+        "Ada kedewasaan dan ketangguhan yang ditunjukkan dari cara hidupmu sekarang. Ini bukan keberuntungan — ini adalah hasil dari serangkaian keputusan yang tepat yang dieksekusi dengan konsisten."
+      ]
     },
     "reversed": {
       "makna": "Bergantung Finansial · Kemewahan Semu",
-      "deskripsi": "Kemandirian finansial yang sesungguhnya belum tercapai, atau gaya hidup yang terlihat mewah tapi ada ketergantungan yang disembunyikan dengan rapi. Ini bukan tentang malu, ini tentang arah yang lebih jelas dan honest ke depan."
+      "deskripsi": [
+        "Kemandirian finansial yang sesungguhnya belum tercapai, atau gaya hidup yang terlihat mewah tapi ada ketergantungan yang disembunyikan dengan rapi. Ini bukan tentang malu, ini tentang arah yang lebih jelas dan honest ke depan.",
+        "Ada ketergantungan yang lebih besar dari yang ingin diakui — entah finansial, emosional, atau logistik. Ini bukan aib, tapi perlu diakui sebagai titik awal untuk membangun yang lebih solid.",
+        "Gaya hidup yang lebih besar dari kemampuan riil sedang menciptakan stress yang tidak perlu. Menyesuaikan ke level yang lebih authentic bukan mundur — itu pengambilan keputusan yang mature.",
+        "Ada sesuatu yang terasa tidak earned atau tidak sustainable dalam situasi material yang ada sekarang. Membangun fondasi yang lebih solid adalah langkah yang paling bijak."
+      ]
     }
   },
   {
@@ -1250,11 +1980,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Legacy · Kemakmuran Generasi · Fondasi Abadi",
-      "deskripsi": "Pencapaian yang melampaui dirimu sendiri dan memberikan dampak nyata bagi orang-orang di sekitarmu, bahkan generasi selanjutnya. Fondasi yang kamu bangun dengan integritas ini akan bertahan jauh melampaui momenmu."
+      "deskripsi": [
+        "Pencapaian yang melampaui dirimu sendiri dan memberikan dampak nyata bagi orang-orang di sekitarmu, bahkan generasi selanjutnya. Fondasi yang kamu bangun dengan integritas ini akan bertahan jauh melampaui momenmu.",
+        "Apa yang sedang dibangun atau yang sudah ada ini melampaui kebutuhanmu sendiri — ia adalah fondasi yang akan menjadi warisan bagi orang-orang yang datang setelahmu.",
+        "Sepuluh Koin mengingatkan bahwa kekayaan sejati bukan hanya angka di rekening, tapi kualitas relasi yang dibangun, nilai yang ditransmisikan, dan dampak yang bertahan setelah kita pergi.",
+        "Ada kepenuhan dan kelengkapan dalam apa yang ada sekarang yang layak untuk diakui dan disyukuri. Tidak semua orang mencapai titik ini — kamu sedang atau menuju ke sana."
+      ]
     },
     "reversed": {
       "makna": "Konflik Warisan · Nilai yang Bertabrakan",
-      "deskripsi": "Ada konflik soal uang, warisan, atau nilai-nilai yang dipegang dalam keluarga atau circle terdekat. Uang dan aset itu penting, tapi relasi dan integritas lebih mahal dari semua itu digabungkan."
+      "deskripsi": [
+        "Ada konflik soal uang, warisan, atau nilai-nilai yang dipegang dalam keluarga atau circle terdekat. Uang dan aset itu penting, tapi relasi dan integritas lebih mahal dari semua itu digabungkan.",
+        "Konflik tentang warisan — baik material maupun nilai — dalam keluarga atau circle terdekat membutuhkan resolusi yang jujur dan sabar sebelum semakin dalam.",
+        "Ada ekspektasi yang tidak realistis tentang apa yang 'harusnya' sudah dimiliki pada titik ini dalam hidup. Bandingkan dengan dirimu sendiri di masa lalu, bukan dengan orang lain.",
+        "Fondasi yang tampak solid ternyata memiliki keretakan yang perlu diperhatikan. Lebih baik memperkuat sekarang dari pada menunggu sampai ada yang benar-benar runtuh."
+      ]
     }
   },
   {
@@ -1267,11 +2007,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Belajar · Ambisius Praktis · Terbuka pada Peluang",
-      "deskripsi": "Terbuka terhadap peluang baru dengan antusiasme yang fokus dan sangat praktis. Kemauan untuk terus belajar hal baru dengan serius adalah aset terbesarmu saat ini — jangan pernah sia-siakan kesempatan untuk bertumbuh."
+      "deskripsi": [
+        "Terbuka terhadap peluang baru dengan antusiasme yang fokus dan sangat praktis. Kemauan untuk terus belajar hal baru dengan serius adalah aset terbesarmu saat ini — jangan pernah sia-siakan kesempatan untuk bertumbuh.",
+        "Pendekatan yang practical dan grounded ini adalah kekuatan besar. Belajar dari yang nyata dan bisa disentuh, lalu membangun sedikit demi sedikit adalah cara yang paling sustainable.",
+        "Ada peluang baru yang menawarkan dirinya — mungkin tidak glamorous, tapi memiliki potential yang nyata jika dikelola dengan kesungguhan yang cukup dan waktu yang adequate.",
+        "Prajurit Koin mengingatkan bahwa dimulai adalah lebih penting dari dimulai dengan sempurna. Take the first step, bahkan jika kecil — momentum akan membangun dari sana."
+      ]
     },
     "reversed": {
       "makna": "Malas · Mimpi Tanpa Tindakan",
-      "deskripsi": "Mimpi besar ada tapi action yang konkret dan konsisten minim sekali. Antusiasme tanpa plan yang realistis dan eksekusi yang konsisten hanya akan jadi angan-angan yang perlahan menguap seiring berjalannya waktu."
+      "deskripsi": [
+        "Mimpi besar ada tapi action yang konkret dan konsisten minim sekali. Antusiasme tanpa plan yang realistis dan eksekusi yang konsisten hanya akan jadi angan-angan yang perlahan menguap seiring berjalannya waktu.",
+        "Mimpi besar yang ada tanpa action plan yang konkret akan terus menjadi mimpi. Langkah pertama yang sangat kecil dan sangat konkret lebih berharga dari planning yang tak berujung.",
+        "Ada tendency untuk daydream tentang kemungkinan tanpa benar-benar memulai. Ini mungkin adalah defense mechanism — dengan tidak mencoba, tidak akan ada kegagalan yang harus dihadapi.",
+        "Kesempatan yang ada tidak akan menunggu selamanya. Jadikan sesuatu yang konkret dan nyata dari peluang yang ada sekarang sebelum momentumnya berlalu."
+      ]
     }
   },
   {
@@ -1284,11 +2034,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Pekerja Keras · Reliable · Methodical",
-      "deskripsi": "Mungkin bukan yang paling cepat atau yang paling brilliant di ruangan, tapi kamu adalah yang paling konsisten dan paling bisa diandalkan kapanpun — dan dalam jangka panjang, itu yang benar-benar menang dan bertahan."
+      "deskripsi": [
+        "Mungkin bukan yang paling cepat atau yang paling brilliant di ruangan, tapi kamu adalah yang paling konsisten dan paling bisa diandalkan kapanpun — dan dalam jangka panjang, itu yang benar-benar menang dan bertahan.",
+        "Kamu mungkin bukan yang paling cepat atau yang paling flashy — tapi reliability dan konsistensi yang kamu tunjukkan adalah yang paling dibutuhkan dan paling dihargai dalam jangka panjang.",
+        "Ksatria Koin mengingatkan bahwa ada keindahan dalam melakukan hal yang biasa dengan cara yang luar biasa — dengan penuh perhatian, dedikasi, dan standar yang tidak pernah diturunkan.",
+        "Metodis bukan berarti kaku. Pendekatan yang terstruktur dan konsisten adalah fondasi terkuat untuk pertumbuhan yang sustainable dan tidak mudah goyah oleh tekanan."
+      ]
     },
     "reversed": {
       "makna": "Monoton · Stuck · Terlalu Kaku",
-      "deskripsi": "Terlalu kaku dengan rutinitas sampai kehilangan fleksibilitas dan kemampuan untuk adapt dengan perubahan. Konsistensi itu bagus dan perlu, tapi stubbornness yang menghalangi pertumbuhan adalah masalah yang sama sekali berbeda."
+      "deskripsi": [
+        "Terlalu kaku dengan rutinitas sampai kehilangan fleksibilitas dan kemampuan untuk adapt dengan perubahan. Konsistensi itu bagus dan perlu, tapi stubbornness yang menghalangi pertumbuhan adalah masalah yang sama sekali berbeda.",
+        "Rutinitas yang sama persis setiap hari tanpa variasi apapun sedang menciptakan stagnasi yang mungkin terasa aman tapi sebenarnya sangat membatasi. Perlu sedikit udara segar.",
+        "Penolakan terhadap perubahan yang diperlukan bukan lagi kehati-hatian — itu adalah resistensi yang akan membuat semakin tertinggal dari perkembangan yang tidak bisa dihindari.",
+        "Ada kegagalan untuk melihat bahwa efisiensi dan quality bisa coexist. Konsistensi bukan berarti tidak pernah inovasi — keduanya justru saling memperkuat jika dikelola dengan baik."
+      ]
     }
   },
   {
@@ -1301,11 +2061,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Practical Nurturer · Grounded · Kemakmuran",
-      "deskripsi": "Kemampuan menciptakan kelimpahan, kenyamanan, dan rasa aman di sekitarmu adalah superpower yang luar biasa besar dan langka. Kamu membuat orang-orang di sekitarmu merasa benar-benar taken care of dan dihargai."
+      "deskripsi": [
+        "Kemampuan menciptakan kelimpahan, kenyamanan, dan rasa aman di sekitarmu adalah superpower yang luar biasa besar dan langka. Kamu membuat orang-orang di sekitarmu merasa benar-benar taken care of dan dihargai.",
+        "Kemampuan untuk menciptakan lingkungan yang abundant, nyaman, dan nourishing bagi orang-orang di sekitarmu adalah gift yang sangat langka dan sangat berharga untuk dunia.",
+        "Ratu Koin mengingatkan bahwa practical nurturing — memastikan semua kebutuhan dasar terpenuhi dengan care dan perhatian — adalah bentuk cinta yang paling grounded dan paling nyata.",
+        "Kelimpahan yang ada sekarang adalah hasil dari cara kamu mengelola resources dengan bijak dan sabar. Teruskan dan biarkan ia terus berkembang secara natural dan sustainable."
+      ]
     },
     "reversed": {
       "makna": "Neglect Diri · Materialisme · Workaholic",
-      "deskripsi": "Kamu merawat semua orang dan semua hal di sekitarmu dengan penuh dedikasi yang luar biasa — tapi neglect kebutuhan dan kesehatanmu sendiri secara konsisten. Self-care bukan egois, itu prerequisite untuk bisa merawat orang lain."
+      "deskripsi": [
+        "Kamu merawat semua orang dan semua hal di sekitarmu dengan penuh dedikasi yang luar biasa — tapi neglect kebutuhan dan kesehatanmu sendiri secara konsisten. Self-care bukan egois, itu prerequisite untuk bisa merawat orang lain.",
+        "Terlalu fokus pada mengurus semua orang dan semua hal sampai kebutuhanmu sendiri tertunda terus-menerus. Merawat dirimu sendiri bukan keegoisman — itu prerequisite untuk bisa merawat yang lain.",
+        "Ada attachment terhadap materi yang sudah melampaui batas sehat dan mulai mendefinisikan worth dirimu sendiri. Nilai yang sejati tidak terletak pada apa yang dimiliki.",
+        "Workaholic tendencies yang ada sedang mengorbankan koneksi dan wellbeing yang sebenarnya jauh lebih penting dari produktivitas yang terasa sangat urgent tapi tidak selalu sedemikian."
+      ]
     }
   },
   {
@@ -1318,11 +2088,21 @@
     "suit_emoji": "🌍",
     "upright": {
       "makna": "Kemakmuran · Pemimpin Bisnis · Stabilitas",
-      "deskripsi": "Kemampuan membangun dan mempertahankan kemakmuran yang menjadi teladan yang sangat dihormati. Ambisimu material tapi caramu etis dan methodical — kombinasi yang sangat kuat, sustainable, dan layak ditiru."
+      "deskripsi": [
+        "Kemampuan membangun dan mempertahankan kemakmuran yang menjadi teladan yang sangat dihormati. Ambisimu material tapi caramu etis dan methodical — kombinasi yang sangat kuat, sustainable, dan layak ditiru.",
+        "Kemakmuran yang dibangun dengan cara yang etis, methodical, dan sustainable adalah legacy yang paling bernilai — karena ia tidak hanya kuat untuk dirimu, tapi juga untuk yang datang setelahmu.",
+        "Raja Koin mengingatkan bahwa kepemimpinan yang genuine dalam urusan material adalah yang menciptakan abundance bagi banyak orang, bukan hanya untuk dirinya sendiri.",
+        "Ada mastery dalam mengelola resources — waktu, uang, relasi, energi — yang sedang kamu tunjukkan. Ini adalah kualitas yang langka dan yang akan membuka pintu-pintu yang sangat signifikan."
+      ]
     },
     "reversed": {
       "makna": "Materialisme Korup · Workaholic · Serakah",
-      "deskripsi": "Fokus pada materi yang sudah melampaui batas sehat mengikis nilai-nilai yang jauh lebih penting dan lasting. Periksa apakah uang dan status sudah berubah dari alat menjadi tujuan akhir — itu tanda peringatan yang perlu ditangani serius."
+      "deskripsi": [
+        "Fokus pada materi yang sudah melampaui batas sehat mengikis nilai-nilai yang jauh lebih penting dan lasting. Periksa apakah uang dan status sudah berubah dari alat menjadi tujuan akhir — itu tanda peringatan yang perlu ditangani serius.",
+        "Fokus pada materi dan status yang sudah terlalu eksklusif sedang menggerogoti hal-hal yang sebenarnya jauh lebih penting dan lasting. Apa yang akan kamu sesali tidak punya ketika sudah terlambat?",
+        "Ada greed atau kecurangan dalam cara resources dikelola yang perlu diakui dan diperbaiki. Kemakmuran yang dibangun di atas ketidakjujuran tidak akan pernah benar-benar aman.",
+        "Ketidakseimbangan antara ambiis finansial dan kualitas hidup sudah mencapai titik yang perlu direbalance. Uang adalah alat, bukan tujuan — dan alat yang baik melayani tujuan yang lebih besar."
+      ]
     }
   }
 ]
