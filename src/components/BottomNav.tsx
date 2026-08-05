@@ -65,8 +65,8 @@ export default function BottomNav() {
   const pathname = usePathname();
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 flex justify-center p-3 pb-6 md:pb-4 pointer-events-none">
-      <nav className="pointer-events-auto bg-slate-900/85 backdrop-blur-2xl border border-white/10 rounded-2xl shadow-2xl shadow-black/40 p-1.5 flex items-center gap-0.5">
+    <div className="fixed bottom-0 left-0 right-0 z-50 flex justify-center p-2 md:p-3 pb-6 md:pb-4 pointer-events-none">
+      <nav className="pointer-events-auto bg-slate-900/85 backdrop-blur-2xl border border-white/10 rounded-2xl shadow-2xl shadow-black/40 p-1.5 flex items-center gap-0.5 max-w-full overflow-x-auto">
         {TABS.map((tab) => {
           const isActive = pathname === tab.href;
           const Icon = tab.icon;
@@ -75,7 +75,7 @@ export default function BottomNav() {
               key={tab.href}
               href={tab.href}
               className={`relative flex flex-col items-center justify-center rounded-xl transition-all duration-300 outline-none
-                px-3.5 py-2 min-w-12
+                px-2.5 py-2 min-w-12 shrink-0
                 md:flex-row md:gap-1.5 md:px-4 md:py-2.5
                 ${isActive
                   ? `${tab.activeBg} border ${tab.activeBorder} ${tab.color}`
