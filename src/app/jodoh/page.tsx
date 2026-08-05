@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { Calendar } from 'lucide-react';
 import JodohResult from '@/components/JodohResult';
 import jodohData from '@/data/jodoh.json';
 import { getWeton, getKategoriNama, type Weton } from '@/lib/weton';
@@ -117,15 +118,18 @@ export default function JodohPage() {
                   autoComplete="off"
                   spellCheck="false"
                 />
-                <input
-                  type="date"
-                  value={tanggalA}
-                  onChange={(e) => setTanggalA(e.target.value)}
-                  max={new Date().toISOString().split('T')[0]}
-                  min="1900-01-01"
-                  className="w-full bg-slate-950/60 border border-slate-700/50 rounded-lg px-4 py-3 text-white focus:outline-none focus:ring-2 focus:ring-fuchsia-500/50 transition-all font-medium [color-scheme:dark]"
-                  required
-                />
+                <div className="relative">
+                  <Calendar className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-fuchsia-400/70 pointer-events-none" />
+                  <input
+                    type="date"
+                    value={tanggalA}
+                    onChange={(e) => setTanggalA(e.target.value)}
+                    max={new Date().toISOString().split('T')[0]}
+                    min="1900-01-01"
+                    className="w-full bg-slate-950/60 border border-slate-700/50 rounded-lg pl-11 pr-4 py-3 text-white focus:outline-none focus:ring-2 focus:ring-fuchsia-500/50 transition-all font-medium [color-scheme:dark]"
+                    required
+                  />
+                </div>
               </div>
             </div>
 
@@ -143,15 +147,18 @@ export default function JodohPage() {
                   autoComplete="off"
                   spellCheck="false"
                 />
-                <input
-                  type="date"
-                  value={tanggalB}
-                  onChange={(e) => setTanggalB(e.target.value)}
-                  max={new Date().toISOString().split('T')[0]}
-                  min="1900-01-01"
-                  className="w-full bg-slate-950/60 border border-slate-700/50 rounded-lg px-4 py-3 text-white focus:outline-none focus:ring-2 focus:ring-pink-500/50 transition-all font-medium [color-scheme:dark]"
-                  required
-                />
+                <div className="relative">
+                  <Calendar className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-pink-400/70 pointer-events-none" />
+                  <input
+                    type="date"
+                    value={tanggalB}
+                    onChange={(e) => setTanggalB(e.target.value)}
+                    max={new Date().toISOString().split('T')[0]}
+                    min="1900-01-01"
+                    className="w-full bg-slate-950/60 border border-slate-700/50 rounded-lg pl-11 pr-4 py-3 text-white focus:outline-none focus:ring-2 focus:ring-pink-500/50 transition-all font-medium [color-scheme:dark]"
+                    required
+                  />
+                </div>
               </div>
             </div>
           </div>
