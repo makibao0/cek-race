@@ -118,6 +118,7 @@ export default function JodohPage() {
                   autoComplete="off"
                   spellCheck="false"
                 />
+                <label className="text-slate-400 text-xs font-medium px-1 -mb-1">Tanggal Lahir</label>
                 <div className="relative">
                   <Calendar className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-fuchsia-400/70 pointer-events-none" />
                   <input
@@ -147,6 +148,7 @@ export default function JodohPage() {
                   autoComplete="off"
                   spellCheck="false"
                 />
+                <label className="text-slate-400 text-xs font-medium px-1 -mb-1">Tanggal Lahir</label>
                 <div className="relative">
                   <Calendar className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-pink-400/70 pointer-events-none" />
                   <input
