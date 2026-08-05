@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Sparkles, Activity, Star, Moon, Heart } from 'lucide-react';
+import { Sparkles, Activity, Star, Moon, Heart, HeartHandshake } from 'lucide-react';
 
 const TABS = [
   {
@@ -40,6 +40,15 @@ const TABS = [
     dot: 'bg-cyan-400',
     activeBg: 'bg-cyan-500/15',
     activeBorder: 'border-cyan-500/30',
+  },
+  {
+    href: '/jodoh',
+    label: 'Jodoh',
+    icon: HeartHandshake,
+    color: 'text-fuchsia-400',
+    dot: 'bg-fuchsia-400',
+    activeBg: 'bg-fuchsia-500/15',
+    activeBorder: 'border-fuchsia-500/30',
   },
   {
     href: '/donasi',
